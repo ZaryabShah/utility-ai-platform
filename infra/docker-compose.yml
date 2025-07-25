@@ -1,0 +1,26 @@
+services:
+  backend:
+    build: ./backend
+    env_file: .env
+    ports: ["8000:8000"]
+    depends_on: [db, rabbitmq]
+  worker:
+    build: ./worker
+    env_file: .env
+    command: celery -A worker.main worker -l info
+    depends_on: [backend, rabbitmq]
+  frontend:
+    build: ./frontend
+    env_file: .env
+    ports: ["5173:5173"]
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: util_ai
+      POSTGRES_PASSWORD: util_ai
+      POSTGRES_DB: util_ai
+  rabbitmq:
+    image: rabbitmq:3-management
+  minio:
+    image: minio/minio
+    command: server /data
