@@ -184,7 +184,5 @@ make migrate   # alembic upgrade head
 
 ## 9. Next milestones
 
-* **Phase 1 ➜ Task 1.2** – build auth flow & PDF upload UI (React + FastAPI endpoints).
+* **Phase 1 ➜ Task 1.2** – build PDF upload UI (Streamlit).
 * **Phase 1 ➜ Task 1.3** – wire DocuPipe API and persist JSON.
-
-Happy coding! 🎉
