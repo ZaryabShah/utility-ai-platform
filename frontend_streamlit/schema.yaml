@@ -1,0 +1,18 @@
+# Edit this list to match the exact columns you want to capture.
+# The app will reload these labels at startup.
+labels:
+  - from_structure_id
+  - from_structure_type
+  - casting
+  - location
+  - rim_elev_ft
+  - outlet_invert_elev_ft
+  - sump_elev_ft
+  - to_structure_id
+  - inlet_invert_elev_ft
+  - pipe_diameter_in
+  - pipe_type
+  - run_length_ft
+  - length_in_pvmt_ft
+  - length_in_road_ft
+  - pipe_material

@@ -31,5 +31,11 @@ cython_debug/
 # Node
 node_modules/
 
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
 # Env
 .env
