@@ -1,4 +1,36 @@
-# Underground Utilities Estimation AI Platform
+# Unde## 🏗️ P1 Implementation Status (Tasks 1.2 & 1.3)
+
+**✅ Task 1.2 - Annotation Interface**:
+- Enhanced Streamlit interface with ZIP folder upload
+- Automatic nested PDF discovery  
+- Civil engineering field schema (15 core fields)
+- Row-based annotation with JSONL export
+- Dataset summary and export functionality
+
+**✅ Task 1.3 - AI Training Pipeline**:
+- Complete YOLOv8 training pipeline
+- PDF processing and page rendering with caching
+- Document-based train/val/test splits (prevents data leakage)
+- YOLO dataset export with normalized annotations
+- Model training, evaluation, and export (ONNX, TorchScript)
+
+### Quick Start for P1
+```bash
+# 1. Start annotation interface
+docker compose up streamlit
+# Visit http://localhost:8501 and upload your PDF folders
+
+# 2. Train AI model locally
+cd ai_training
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+python scripts/data_pipeline.py
+python scripts/model_trainer.py
+```
+
+---
+
+## 1. What you're buildingground Utilities Estimation AI Platform
 
 Welcome to the **Underground Utilities Estimation AI Platform** – an open‑source reference implementation that accompanies the project blueprint you shared. This README is intended to help a new contributor  get a working development environment running quickly.
 

@@ -37,5 +37,32 @@ env/
 .venv/
 .env/
 
-# Env
+# Environment files
 .env
+.env.local
+.env.production
+
+# Data and AI artifacts (DO NOT COMMIT)
+data/
+models/
+*.zip
+*.tar.gz
+yolo_runs/
+wandb/
+*.pt
+*.onnx
+*.torchscript
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
