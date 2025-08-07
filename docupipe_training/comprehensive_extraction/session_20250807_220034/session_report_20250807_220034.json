@@ -1,0 +1,66 @@
+{
+  "session_metadata": {
+    "session_id": "20250807_220034",
+    "start_time": "2025-08-07T22:00:34.588468",
+    "end_time": "2025-08-07T22:22:55.514157",
+    "total_processing_time": "0:22:20.925689"
+  },
+  "processing_summary": {
+    "session_id": "20250807_220034",
+    "start_time": "2025-08-07T22:00:34.588468",
+    "api_key_used": "EahPwLps...W7f2",
+    "total_pdfs_found": 4545,
+    "total_pdfs_processed": 20,
+    "utility_documents_found": 8,
+    "successful_extractions": 1,
+    "failed_extractions": 7,
+    "skipped_non_utility": 12,
+    "processing_errors": 0,
+    "total_utility_records": 3,
+    "ai_extraction_records": 0,
+    "pattern_extraction_records": 4,
+    "quality_validated_records": 3,
+    "documents_processed": [
+      {
+        "filename": "C4.0 ADD 3 Project Yellow chuck.pdf",
+        "doc_id": "zEkQ9S2M",
+        "timestamp": "2025-08-07T22:14:05.714814",
+        "records_extracted": 3,
+        "quality_score": 35.0
+      }
+    ],
+    "error_log": [],
+    "quality_issues": [],
+    "end_time": "2025-08-07T22:22:55.514157"
+  },
+  "statistics": {
+    "total_documents_processed": 1,
+    "total_utility_records": 3,
+    "ai_extraction_records": 0,
+    "pattern_extraction_records": 4,
+    "average_records_per_document": 3.0,
+    "extraction_success_rate": 5.0,
+    "utility_document_detection_rate": 40.0
+  },
+  "quality_assessment": {
+    "total_records": 3,
+    "records_with_structure_ids": 3,
+    "records_with_elevations": 0,
+    "records_with_pipe_specs": 0,
+    "records_with_materials": 1,
+    "complete_records": 0,
+    "potentially_invalid_records": 0,
+    "completeness_percentage": 0.0,
+    "validity_percentage": 100.0
+  },
+  "error_summary": {
+    "total_errors": 0,
+    "quality_issues": 0,
+    "error_details": []
+  },
+  "recommendations": [
+    "Consider refining utility document detection keywords",
+    "Investigate AI extraction issues - no AI data was successfully extracted",
+    "Consider enhancing extraction patterns to capture more complete utility records"
+  ]
+}

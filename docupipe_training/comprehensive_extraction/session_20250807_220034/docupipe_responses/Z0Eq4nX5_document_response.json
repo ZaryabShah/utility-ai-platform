@@ -1,0 +1,491 @@
+{
+  "doc_id": "Z0Eq4nX5",
+  "response_type": "document",
+  "timestamp": "2025-08-07T22:09:09.339627",
+  "response_data": {
+    "documentId": "Z0Eq4nX5",
+    "dataset": "robust_utility_extraction",
+    "classified": false,
+    "classIds": null,
+    "filename": "Project Yellow Jacket- Site Logistics Plan",
+    "fileType": "pdf",
+    "fileExtension": "pdf",
+    "result": {
+      "pages": [
+        {
+          "sections": [
+            {
+              "type": "image",
+              "text": "Image With Text:\n8\" chainlink fence\nrecor\n50\" permanent gin line easement\n4\nB\n8\n8\n8\na\na\n8\n8\n8\nG\n8\n8\nB\n8\n8\nB\n8\nB\noprox\nG\n24 pos transmission lin\n(per morktings)\n25 SETBACK\nG\nG\nSETRACK\nG\nG\nG\n24\ngas\ntransmission line\n(per morkings)\n5 tempo\nD\nD\nD\nD\nD\nD\nD\n8\n120\nD\n9\nX\nX\nX\nX\nX\nX\nX\nG\nW\n60' SETBACK\nX\nX\nX\nX\nX\n0\n2\nX\nW\nD\nD\nD\nD\nD\nE\nW\nD\nG\nW\nW\nW\nX\n!!\nX\nX\nO\nX\nW\nDS\nX\nX\n0/\nFremon\nB\nW\nW\nXXX XXX\nG\nX\nW\n203\n204\n206\n50\" permanent gas line easement\n8\nS 207\nS\nX\nX\nil\n201\n202\nN\n205\nCO\nY\n208\n8' ht. TEMP Chain Link - Driven\n215\nS' temporary Gisement\n213\n214\nDescription\nW\nW\n0\nM\nQuantity Unit\n212\n216 X\nW\n8' gas lin\nTemp Fence Corner Posts\n10 Count\nXXX XXX\n1\nD\nW\nW\nX\nG\n2\napprox.\n5\nTemp Fence DD Gate - 24' W\n3\nCount\n19\n209\nI\n/\nTemp Fence\n10,905.45 ft\nA\nX\nW\ny\n.\n.\nD\nW\nW\nW\nW\n210\nW\nX\n25' permanent\nW\nU sewer easement\nDS.\nDE\nDS DG\nDS\nDE\nDS\nDE\nDS\n2\nW\n9\nG\nDS\nB\na\nX\nW\nL\nB\n+\nI\n6\nW\nW\nW\nW\nW\n\nXXX XXX\nX\n120\"\nD\nU\nG\nG\n60'SEIBACK\nC\nm\nX\n23\nTopprox. per plons\nA\nX\nX\nMT\nD\nD\nG\nD\nS\nX\nX\nFremont Pik\nM\nM\nN\n\"\nM\n25' tempora easement\n3\nX\nO\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\n.23\n24\"\n25' permanent Stwof basement\n(per markings)\nW\nU\n&\nSETBACK\n50' permanent gira line\nG\nn\n3\n5\n3 R\nS\n3\n-\n25' SFIRMC\nL\nG\nG\n-\nQ\n3\n3\n=\n3\n9\n3\nJ\n3\n3\n8\n8\n8\n8\n8\nI\n25 SETBACK\na\nX",
+              "bbox": [
+                0.04665,
+                0.0692,
+                0.8422638888888889,
+                0.6475291666666666
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "40' HAUL ROAD",
+              "bbox": [
+                0.1267,
+                0.6637916666666667,
+                0.3335472222222222,
+                0.7022791666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "RYAN TRAILER",
+              "bbox": [
+                0.1252388888888889,
+                0.7439041666666667,
+                0.32833055555555557,
+                0.7821666666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "CONTRACTOR PARKING",
+              "bbox": [
+                0.071425,
+                0.8337333333333333,
+                0.4008083333333333,
+                0.8729625
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "W",
+              "bbox": [
+                0.3503583333333333,
+                0.8774500000000001,
+                0.3527027777777778,
+                0.8808333333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "G",
+              "bbox": [
+                0.3508805555555556,
+                0.8910708333333334,
+                0.35256666666666664,
+                0.8945666666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "UGT",
+              "bbox": [
+                0.349,
+                0.913075,
+                0.35375277777777775,
+                0.9186166666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "UNDERGROUND TELEPHONE LINE CATCH BASIN",
+              "bbox": [
+                0.3830222222222222,
+                0.9122166666666667,
+                0.43822777777777777,
+                0.9309875
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "FENCING AND GATES",
+              "bbox": [
+                0.4620472222222223,
+                0.8276333333333333,
+                0.7552333333333334,
+                0.8668666666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "T",
+              "bbox": [
+                0.4761527777777778,
+                0.8899666666666667,
+                0.47705277777777777,
+                0.8920833333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "- . WATER VALVE",
+              "bbox": [
+                0.4717527777777778,
+                0.9058833333333333,
+                0.5326333333333334,
+                0.9206291666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nH OHIO811 org",
+              "bbox": [
+                0.6267277777777778,
+                0.9082083333333334,
+                0.7063888888888888,
+                0.9506708333333332
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "SHALL NOTIFY THE FOLLOWING AGENCIES: OHIO UTILITIES PROTECTION SERVICE AT 811 OR 800-362-2764 AND ALL OTHER AGENCIES WHICH MIGHT HAVE UNDERGROUND UTILITIES INVOLVING THIS PROJECT AND ARE NONMEMBERS OF STATE UTILITIES PROTECTION SERVICE",
+              "bbox": [
+                0.7075416666666666,
+                0.9058208333333333,
+                0.7614833333333333,
+                0.9699291666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\n150'-0\"\n\u20b8\n7\n0\n150\n300",
+              "bbox": [
+                0.7895333333333334,
+                0.905125,
+                0.8813583333333334,
+                0.9502583333333333
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "GRAPHIC SCALE (IN FEET) 1 in. = 150 #",
+              "bbox": [
+                0.8116083333333334,
+                0.947275,
+                0.8538638888888889,
+                0.9623958333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nCESO ...............\n2000 Corporate Exchange Dr., Suite-400\nPhone: 4541.794.7080 Fax: 108.200.4826",
+              "bbox": [
+                0.8978555555555556,
+                0.018158333333333335,
+                0.9839333333333333,
+                0.1566
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nSTATE OF OHIO\nJOSEPH M. JORGE E-82272\nREGISTERCY SSSIONAL ENG",
+              "bbox": [
+                0.9152527777777778,
+                0.18052500000000002,
+                0.9669805555555556,
+                0.266925
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "04/22/2024",
+              "bbox": [
+                0.9287500000000001,
+                0.2713291666666667,
+                0.9531166666666666,
+                0.2795666666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "AMBROSE PROPERTY GROUP",
+              "bbox": [
+                0.9054277777777777,
+                0.4328916666666667,
+                0.9168055555555557,
+                0.6493791666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "YELLOW JACKET PROJECT",
+              "bbox": [
+                0.9352222222222222,
+                0.46087083333333334,
+                0.9672694444444444,
+                0.6507791666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "9240 FREMONT PIKE ROAD PERRYSBURG, OHIO 43551",
+              "bbox": [
+                0.9684027777777777,
+                0.5526708333333333,
+                0.9812416666666667,
+                0.651225
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Revisions / Submissions",
+              "bbox": [
+                0.9199777777777778,
+                0.6566124999999999,
+                0.961088888888889,
+                0.6637000000000001
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ID Description Date",
+              "bbox": [
+                0.9011888888888888,
+                0.6677875000000001,
+                0.9733166666666667,
+                0.6750541666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "@ 2024 CESO, INC.",
+              "bbox": [
+                0.9268000000000001,
+                0.7976916666666667,
+                0.9541944444444445,
+                0.8050708333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "table",
+              "text": "|:----------------|:-----------|\n| Project Number: | 763990     |\n| Scale:          | AS SHOWN   |\n| Drawn By:       | CTM        |\n| Checked By:     | JMB        |\n| Date:           | 04/22/2024 |\n| Issue:          | FOR PERMIT |",
+              "bbox": [
+                0.9005416666666667,
+                0.8191958333333332,
+                0.9826472222222223,
+                0.8701541666666667
+              ],
+              "header": null,
+              "tableList": [
+                [
+                  "",
+                  ""
+                ],
+                [
+                  "Project Number:",
+                  "763990"
+                ],
+                [
+                  "Scale:",
+                  "AS SHOWN"
+                ],
+                [
+                  "Drawn By:",
+                  "CTM"
+                ],
+                [
+                  "Checked By:",
+                  "JMB"
+                ],
+                [
+                  "Date:",
+                  "04/22/2024"
+                ],
+                [
+                  "Issue:",
+                  "FOR PERMIT"
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Drawing Title:",
+              "bbox": [
+                0.899511111111111,
+                0.8732041666666667,
+                0.930575,
+                0.8815
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "OVERALL UTILITY PLAN",
+              "bbox": [
+                0.9077611111111111,
+                0.8825791666666666,
+                0.9729694444444443,
+                0.9072749999999999
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "C7.0",
+              "bbox": [
+                0.9249999999999999,
+                0.9535041666666667,
+                0.9564861111111111,
+                0.9730208333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "X",
+              "bbox": [
+                0.7146861111111111,
+                0.7221791666666667,
+                0.7160416666666667,
+                0.7249291666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "X",
+              "bbox": [
+                0.7489916666666666,
+                0.7225958333333334,
+                0.7503472222222222,
+                0.7253458333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "X",
+              "bbox": [
+                0.7706583333333333,
+                0.7227333333333333,
+                0.7720166666666667,
+                0.7254875
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "X",
+              "bbox": [
+                0.7923250000000001,
+                0.7229416666666667,
+                0.7936805555555556,
+                0.7256958333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "7",
+              "bbox": [
+                0.6663944444444445,
+                0.7813374999999999,
+                0.6790138888888889,
+                0.7930708333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "table",
+              "text": "|    |   207 | 48\" MH   |   642.92 | 631.24 (8\") S               |\n|:---|------:|:---------|---------:|:----------------------------|\n|    |   208 | 6\u00b0 CO    |   641.75 | 630.52 (6\") E 630.52 (6*) W |\n|    |   209 | 6\u00b0 CO    |   641.51 | 632.08 (6\") E 632.08 (6\") W |",
+              "bbox": [
+                0.050569444444444445,
+                0.9057583333333333,
+                0.17316666666666666,
+                0.9640375
+              ],
+              "header": null,
+              "tableList": [
+                [
+                  "",
+                  "207",
+                  "48\" MH",
+                  "642.92",
+                  "631.24 (8\") S"
+                ],
+                [
+                  "",
+                  "208",
+                  "6\u00b0 CO",
+                  "641.75",
+                  "630.52 (6\") E 630.52 (6*) W"
+                ],
+                [
+                  "",
+                  "209",
+                  "6\u00b0 CO",
+                  "641.51",
+                  "632.08 (6\") E 632.08 (6\") W"
+                ]
+              ]
+            }
+          ],
+          "text": "Image With Text:\n8\" chainlink fence\nrecor\n50\" permanent gin line easement\n4\nB\n8\n8\n8\na\na\n8\n8\n8\nG\n8\n8\nB\n8\n8\nB\n8\nB\noprox\nG\n24 pos transmission lin\n(per morktings)\n25 SETBACK\nG\nG\nSETRACK\nG\nG\nG\n24\ngas\ntransmission line\n(per morkings)\n5 tempo\nD\nD\nD\nD\nD\nD\nD\n8\n120\nD\n9\nX\nX\nX\nX\nX\nX\nX\nG\nW\n60' SETBACK\nX\nX\nX\nX\nX\n0\n2\nX\nW\nD\nD\nD\nD\nD\nE\nW\nD\nG\nW\nW\nW\nX\n!!\nX\nX\nO\nX\nW\nDS\nX\nX\n0/\nFremon\nB\nW\nW\nXXX XXX\nG\nX\nW\n203\n204\n206\n50\" permanent gas line easement\n8\nS 207\nS\nX\nX\nil\n201\n202\nN\n205\nCO\nY\n208\n8' ht. TEMP Chain Link - Driven\n215\nS' temporary Gisement\n213\n214\nDescription\nW\nW\n0\nM\nQuantity Unit\n212\n216 X\nW\n8' gas lin\nTemp Fence Corner Posts\n10 Count\nXXX XXX\n1\nD\nW\nW\nX\nG\n2\napprox.\n5\nTemp Fence DD Gate - 24' W\n3\nCount\n19\n209\nI\n/\nTemp Fence\n10,905.45 ft\nA\nX\nW\ny\n.\n.\nD\nW\nW\nW\nW\n210\nW\nX\n25' permanent\nW\nU sewer easement\nDS.\nDE\nDS DG\nDS\nDE\nDS\nDE\nDS\n2\nW\n9\nG\nDS\nB\na\nX\nW\nL\nB\n+\nI\n6\nW\nW\nW\nW\nW\n\nXXX XXX\nX\n120\"\nD\nU\nG\nG\n60'SEIBACK\nC\nm\nX\n23\nTopprox. per plons\nA\nX\nX\nMT\nD\nD\nG\nD\nS\nX\nX\nFremont Pik\nM\nM\nN\n\"\nM\n25' tempora easement\n3\nX\nO\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\n.23\n24\"\n25' permanent Stwof basement\n(per markings)\nW\nU\n&\nSETBACK\n50' permanent gira line\nG\nn\n3\n5\n3 R\nS\n3\n-\n25' SFIRMC\nL\nG\nG\n-\nQ\n3\n3\n=\n3\n9\n3\nJ\n3\n3\n8\n8\n8\n8\n8\nI\n25 SETBACK\na\nX\n\n40' HAUL ROAD\n\nRYAN TRAILER\n\nCONTRACTOR PARKING\n\nW\n\nG\n\nUGT\n\nUNDERGROUND TELEPHONE LINE CATCH BASIN\n\nFENCING AND GATES\n\nT\n\n- . WATER VALVE\n\nImage With Text:\nH OHIO811 org\n\nSHALL NOTIFY THE FOLLOWING AGENCIES: OHIO UTILITIES PROTECTION SERVICE AT 811 OR 800-362-2764 AND ALL OTHER AGENCIES WHICH MIGHT HAVE UNDERGROUND UTILITIES INVOLVING THIS PROJECT AND ARE NONMEMBERS OF STATE UTILITIES PROTECTION SERVICE\n\nImage With Text:\n150'-0\"\n\u20b8\n7\n0\n150\n300\n\nGRAPHIC SCALE (IN FEET) 1 in. = 150 #\n\nImage With Text:\nCESO ...............\n2000 Corporate Exchange Dr., Suite-400\nPhone: 4541.794.7080 Fax: 108.200.4826\n\nImage With Text:\nSTATE OF OHIO\nJOSEPH M. JORGE E-82272\nREGISTERCY SSSIONAL ENG\n\n04/22/2024\n\nAMBROSE PROPERTY GROUP\n\nYELLOW JACKET PROJECT\n\n9240 FREMONT PIKE ROAD PERRYSBURG, OHIO 43551\n\nRevisions / Submissions\n\nID Description Date\n\n@ 2024 CESO, INC.\n\n|:----------------|:-----------|\n| Project Number: | 763990     |\n| Scale:          | AS SHOWN   |\n| Drawn By:       | CTM        |\n| Checked By:     | JMB        |\n| Date:           | 04/22/2024 |\n| Issue:          | FOR PERMIT |\n\nDrawing Title:\n\nOVERALL UTILITY PLAN\n\nC7.0\n\nX\n\nX\n\nX\n\nX\n\n7\n\n|    |   207 | 48\" MH   |   642.92 | 631.24 (8\") S               |\n|:---|------:|:---------|---------:|:----------------------------|\n|    |   208 | 6\u00b0 CO    |   641.75 | 630.52 (6\") E 630.52 (6*) W |\n|    |   209 | 6\u00b0 CO    |   641.51 | 632.08 (6\") E 632.08 (6\") W |",
+          "pageNum": 0
+        }
+      ],
+      "numPages": 1,
+      "text": "Image With Text:\n8\" chainlink fence\nrecor\n50\" permanent gin line easement\n4\nB\n8\n8\n8\na\na\n8\n8\n8\nG\n8\n8\nB\n8\n8\nB\n8\nB\noprox\nG\n24 pos transmission lin\n(per morktings)\n25 SETBACK\nG\nG\nSETRACK\nG\nG\nG\n24\ngas\ntransmission line\n(per morkings)\n5 tempo\nD\nD\nD\nD\nD\nD\nD\n8\n120\nD\n9\nX\nX\nX\nX\nX\nX\nX\nG\nW\n60' SETBACK\nX\nX\nX\nX\nX\n0\n2\nX\nW\nD\nD\nD\nD\nD\nE\nW\nD\nG\nW\nW\nW\nX\n!!\nX\nX\nO\nX\nW\nDS\nX\nX\n0/\nFremon\nB\nW\nW\nXXX XXX\nG\nX\nW\n203\n204\n206\n50\" permanent gas line easement\n8\nS 207\nS\nX\nX\nil\n201\n202\nN\n205\nCO\nY\n208\n8' ht. TEMP Chain Link - Driven\n215\nS' temporary Gisement\n213\n214\nDescription\nW\nW\n0\nM\nQuantity Unit\n212\n216 X\nW\n8' gas lin\nTemp Fence Corner Posts\n10 Count\nXXX XXX\n1\nD\nW\nW\nX\nG\n2\napprox.\n5\nTemp Fence DD Gate - 24' W\n3\nCount\n19\n209\nI\n/\nTemp Fence\n10,905.45 ft\nA\nX\nW\ny\n.\n.\nD\nW\nW\nW\nW\n210\nW\nX\n25' permanent\nW\nU sewer easement\nDS.\nDE\nDS DG\nDS\nDE\nDS\nDE\nDS\n2\nW\n9\nG\nDS\nB\na\nX\nW\nL\nB\n+\nI\n6\nW\nW\nW\nW\nW\n\nXXX XXX\nX\n120\"\nD\nU\nG\nG\n60'SEIBACK\nC\nm\nX\n23\nTopprox. per plons\nA\nX\nX\nMT\nD\nD\nG\nD\nS\nX\nX\nFremont Pik\nM\nM\nN\n\"\nM\n25' tempora easement\n3\nX\nO\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\n.23\n24\"\n25' permanent Stwof basement\n(per markings)\nW\nU\n&\nSETBACK\n50' permanent gira line\nG\nn\n3\n5\n3 R\nS\n3\n-\n25' SFIRMC\nL\nG\nG\n-\nQ\n3\n3\n=\n3\n9\n3\nJ\n3\n3\n8\n8\n8\n8\n8\nI\n25 SETBACK\na\nX\n\n40' HAUL ROAD\n\nRYAN TRAILER\n\nCONTRACTOR PARKING\n\nW\n\nG\n\nUGT\n\nUNDERGROUND TELEPHONE LINE CATCH BASIN\n\nFENCING AND GATES\n\nT\n\n- . WATER VALVE\n\nImage With Text:\nH OHIO811 org\n\nSHALL NOTIFY THE FOLLOWING AGENCIES: OHIO UTILITIES PROTECTION SERVICE AT 811 OR 800-362-2764 AND ALL OTHER AGENCIES WHICH MIGHT HAVE UNDERGROUND UTILITIES INVOLVING THIS PROJECT AND ARE NONMEMBERS OF STATE UTILITIES PROTECTION SERVICE\n\nImage With Text:\n150'-0\"\n\u20b8\n7\n0\n150\n300\n\nGRAPHIC SCALE (IN FEET) 1 in. = 150 #\n\nImage With Text:\nCESO ...............\n2000 Corporate Exchange Dr., Suite-400\nPhone: 4541.794.7080 Fax: 108.200.4826\n\nImage With Text:\nSTATE OF OHIO\nJOSEPH M. JORGE E-82272\nREGISTERCY SSSIONAL ENG\n\n04/22/2024\n\nAMBROSE PROPERTY GROUP\n\nYELLOW JACKET PROJECT\n\n9240 FREMONT PIKE ROAD PERRYSBURG, OHIO 43551\n\nRevisions / Submissions\n\nID Description Date\n\n@ 2024 CESO, INC.\n\n|:----------------|:-----------|\n| Project Number: | 763990     |\n| Scale:          | AS SHOWN   |\n| Drawn By:       | CTM        |\n| Checked By:     | JMB        |\n| Date:           | 04/22/2024 |\n| Issue:          | FOR PERMIT |\n\nDrawing Title:\n\nOVERALL UTILITY PLAN\n\nC7.0\n\nX\n\nX\n\nX\n\nX\n\n7\n\n|    |   207 | 48\" MH   |   642.92 | 631.24 (8\") S               |\n|:---|------:|:---------|---------:|:----------------------------|\n|    |   208 | 6\u00b0 CO    |   641.75 | 630.52 (6\") E 630.52 (6*) W |\n|    |   209 | 6\u00b0 CO    |   641.51 | 632.08 (6\") E 632.08 (6\") W |",
+      "language": "en"
+    },
+    "numPages": 1,
+    "language": "en",
+    "metadata": null,
+    "status": "completed",
+    "timestamp": "2025-08-07T17:08:47.814000Z"
+  }
+}

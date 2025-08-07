@@ -1,0 +1,14 @@
+{
+  "doc_id": "xfGBBPIC",
+  "response_type": "schema_info",
+  "timestamp": "2025-08-07T22:15:46.969393",
+  "response_data": {
+    "jobId": "X33FkuCJ",
+    "status": "completed",
+    "schemaId": "VTE7XOQd",
+    "standardizationIds": [
+      "Pf0ZHHer"
+    ],
+    "errorMessage": null
+  }
+}

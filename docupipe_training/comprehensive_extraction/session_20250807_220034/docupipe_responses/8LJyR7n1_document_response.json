@@ -1,0 +1,578 @@
+{
+  "doc_id": "8LJyR7n1",
+  "response_type": "document",
+  "timestamp": "2025-08-07T22:14:28.427928",
+  "response_data": {
+    "documentId": "8LJyR7n1",
+    "dataset": "robust_utility_extraction",
+    "classified": false,
+    "classIds": null,
+    "filename": "32-3516-1.0_Sound wall - JHA Reviewed",
+    "fileType": "pdf",
+    "fileExtension": "pdf",
+    "result": {
+      "pages": [
+        {
+          "sections": [
+            {
+              "type": "text",
+              "text": "YAN",
+              "bbox": [
+                0.1165529411764706,
+                0.0371,
+                0.30756470588235296,
+                0.09422727272727273
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Ryan Companies 700 Oakmont Ln, Suite 100 Westmont, Illinois 60559 P: (630) 328-1100 F: (630) 328-1300",
+              "bbox": [
+                0.3133764705882353,
+                0.039818181818181815,
+                0.4744470588235294,
+                0.10819090909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Project: 005627000 AMZ IXD (RFD2)-Huntley IL 11500 Freeman Road Huntley, Illinois 60142",
+              "bbox": [
+                0.6470117647058824,
+                0.038872727272727274,
+                0.9388470588235294,
+                0.07951818181818182
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Submittal #32 35 16-1.0 - Sound Wall 32 35 16 - Sound Barriers",
+              "bbox": [
+                0.2978352941176471,
+                0.1295818181818182,
+                0.6947058823529412,
+                0.16787272727272728
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "table",
+              "text": "|:-----------|:-------------|\n| Revision   | 0            |\n| Status     | Open         |\n| Issue Date | Jun 27, 2021 |",
+              "bbox": [
+                0.055964705882352944,
+                0.1837090909090909,
+                0.27382352941176474,
+                0.25681818181818183
+              ],
+              "header": null,
+              "tableList": [
+                [
+                  "",
+                  ""
+                ],
+                [
+                  "Revision",
+                  "0"
+                ],
+                [
+                  "Status",
+                  "Open"
+                ],
+                [
+                  "Issue Date",
+                  "Jun 27, 2021"
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Responsible Contractor",
+              "bbox": [
+                0.061223529411764704,
+                0.26874545454545457,
+                0.1403529411764706,
+                0.2906090909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Received Date",
+              "bbox": [
+                0.06135294117647058,
+                0.30666363636363636,
+                0.15184705882352942,
+                0.31714545454545456
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "table",
+              "text": "|:------------------|:------------------------------|\n| Submittal Manager | Nate Field (Ryan Companies US |\n|                   | Inc)                          |\n| Date Created      | Jun 27, 2021                  |\n| Spec Section      | 32 35 16 - Sound Barriers     |\n| Received From     |                               |\n| Submit By         |                               |",
+              "bbox": [
+                0.49617647058823533,
+                0.1842090909090909,
+                0.8582235294117647,
+                0.3214181818181818
+              ],
+              "header": null,
+              "tableList": [
+                [
+                  "",
+                  ""
+                ],
+                [
+                  "Submittal Manager",
+                  "Nate Field (Ryan Companies US Inc)"
+                ],
+                [
+                  "Date Created",
+                  "Jun 27, 2021"
+                ],
+                [
+                  "Spec Section",
+                  "32 35 16 - Sound Barriers"
+                ],
+                [
+                  "Received From",
+                  ""
+                ],
+                [
+                  "Submit By",
+                  ""
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "text": "SUBMITTAL NO. 32-3516-1.0",
+              "bbox": [
+                0.05989411764705882,
+                0.35511818181818183,
+                0.1285058823529412,
+                0.3694818181818182
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nDATE\nX \u2611 APPROVED \u2610 APPROVED AS NOTED \u2610 REJECTED\n\u2610 REVISE AND RESUBMIT \u2610 FOR RECORD ONLY\nCONTRACTOR'S APPROVAL IS FOR GENERAL CONFORMANCE WITH THE DESIGN INTENT OF THE CONTRACT DOCUMENTS ONLY AND IN NO WAY RELIEVES CONTRACTOR/SUBCONTRACTOR/VENDOR OF ITS RESPONSIBILITY FOR DIMENSIONS, DETAILS AND THE PERFORMANCE OF ITS WORK IN ACCORDANCE WITH THE CONTRACT DOCUMENTS COMMENTS BY: Nate Field\nDATE:\n06-27-2021\nRYAN COMPANIES US, INC.",
+              "bbox": [
+                0.05421176470588235,
+                0.3639545454545454,
+                0.2548470588235294,
+                0.46055454545454544
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "JACOB & HEFNER ASSOCIATES INC.",
+              "bbox": [
+                0.050176470588235295,
+                0.4838090909090909,
+                0.24461176470588236,
+                0.4945727272727272
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Corrections or comments made on the shop drawings during this review do not relieve contractor from compliance with the requirements of the drawings and specifications. This check is only for review of general conformance with the information given in the contract documents. The contractor is responsible for confirming and correlating all quantities and dimensions, selecting fabrication processes and techniques of construction, coordinating his work with that of all other trades and performing his work in a safe and satisfactory manner.",
+              "bbox": [
+                0.05196470588235294,
+                0.5012,
+                0.2454470588235294,
+                0.6323818181818182
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "NO EXCEPTIONS NOTED",
+              "bbox": [
+                0.05211764705882353,
+                0.6401454545454546,
+                0.2451294117647059,
+                0.6546
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Date: Jul 12, 2021 By: RJG",
+              "bbox": [
+                0.0536,
+                0.6615363636363637,
+                0.18458823529411764,
+                0.6721272727272727
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Ryan Companies",
+              "bbox": [
+                0.06097647058823529,
+                0.9494636363636364,
+                0.16288235294117648,
+                0.9616363636363636
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Page 1 of 1",
+              "bbox": [
+                0.4650705882352941,
+                0.9494727272727274,
+                0.5331882352941176,
+                0.9610454545454545
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Printed On: Jun 27, 2021 07:11 PM CDT",
+              "bbox": [
+                0.7018117647058824,
+                0.9493181818181818,
+                0.9379882352941177,
+                0.9605727272727272
+              ],
+              "header": "paragraph",
+              "tableList": null
+            }
+          ],
+          "text": "YAN\n\nRyan Companies 700 Oakmont Ln, Suite 100 Westmont, Illinois 60559 P: (630) 328-1100 F: (630) 328-1300\n\nProject: 005627000 AMZ IXD (RFD2)-Huntley IL 11500 Freeman Road Huntley, Illinois 60142\n\nSubmittal #32 35 16-1.0 - Sound Wall 32 35 16 - Sound Barriers\n\n|:-----------|:-------------|\n| Revision   | 0            |\n| Status     | Open         |\n| Issue Date | Jun 27, 2021 |\n\nResponsible Contractor\n\nReceived Date\n\n|:------------------|:------------------------------|\n| Submittal Manager | Nate Field (Ryan Companies US |\n|                   | Inc)                          |\n| Date Created      | Jun 27, 2021                  |\n| Spec Section      | 32 35 16 - Sound Barriers     |\n| Received From     |                               |\n| Submit By         |                               |\n\nSUBMITTAL NO. 32-3516-1.0\n\nImage With Text:\nDATE\nX \u2611 APPROVED \u2610 APPROVED AS NOTED \u2610 REJECTED\n\u2610 REVISE AND RESUBMIT \u2610 FOR RECORD ONLY\nCONTRACTOR'S APPROVAL IS FOR GENERAL CONFORMANCE WITH THE DESIGN INTENT OF THE CONTRACT DOCUMENTS ONLY AND IN NO WAY RELIEVES CONTRACTOR/SUBCONTRACTOR/VENDOR OF ITS RESPONSIBILITY FOR DIMENSIONS, DETAILS AND THE PERFORMANCE OF ITS WORK IN ACCORDANCE WITH THE CONTRACT DOCUMENTS COMMENTS BY: Nate Field\nDATE:\n06-27-2021\nRYAN COMPANIES US, INC.\n\nJACOB & HEFNER ASSOCIATES INC.\n\nCorrections or comments made on the shop drawings during this review do not relieve contractor from compliance with the requirements of the drawings and specifications. This check is only for review of general conformance with the information given in the contract documents. The contractor is responsible for confirming and correlating all quantities and dimensions, selecting fabrication processes and techniques of construction, coordinating his work with that of all other trades and performing his work in a safe and satisfactory manner.\n\nNO EXCEPTIONS NOTED\n\nDate: Jul 12, 2021 By: RJG\n\nRyan Companies\n\nPage 1 of 1\n\nPrinted On: Jun 27, 2021 07:11 PM CDT",
+          "pageNum": 0
+        },
+        {
+          "sections": [
+            {
+              "type": "text",
+              "text": "112",
+              "bbox": [
+                0.9387529411764706,
+                0.05082727272727273,
+                0.9574352941176469,
+                0.05978181818181818
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Project Pumpkin-Huntley, Illinois",
+              "bbox": [
+                0.09012941176470589,
+                0.015390909090909092,
+                0.3740117647058824,
+                0.034300000000000004
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Trex\u00ae Seclusions\u00ae \u00ae COMPOSITE FENCE SYSTEMS",
+              "bbox": [
+                0.04964705882352941,
+                0.0534,
+                0.5089882352941176,
+                0.11445454545454545
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Fence Height: 12'",
+              "bbox": [
+                0.6193764705882353,
+                0.07275454545454546,
+                0.9199529411764706,
+                0.09487272727272728
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\n96\" O.C.\nColor: Woodland Brown\n91\"\n5\n( 4\nF\nBracket Height\n51 %\"\nFence Height 141 3/4\"\n-97 1/2\"\n143 3/8\"\nBracket Height\nPost Height 144\"\n6'\nComponent lengths may vary\nBY: Action Fence Contractors Inc 847-949-6690\nSteel Post Height\nBracket Height\nCURTIS A. McKEY 81-4087 REGISTERED STRUCTURAL\nLicense Expires 1/30 2022\n3/# 8\nPost Cap\n2 1/4\"\n* ENGINEER *\n3 1/2\" square 3/16\" Steel Post\nTop Rail\nOF\n72\" ILLINOIS! Antal m.kg 3000 PSI Concrete\nPicket\nFill\nNOTES:\nAluminum Bottom Rail Fence Bracket Bottom Rail\n1. INSTALLATION TO BE COMPLETED PER MANUFACTURER'S SPECIFICATION.\n2. REFER TO YourNextFence.com FOR CONSTRUCTION DETAILS AND PRODUCT INFORMATION\n3/#\n/8\n16\"\n-\u013e\n3. DRAWING NOT TO SCALE.\nCUT VIEWS\n091019",
+              "bbox": [
+                0.0322,
+                0.11744545454545455,
+                0.9496823529411765,
+                0.9167818181818181
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nTrex Fencing COMPOSITE FENCE SYSTEMS",
+              "bbox": [
+                0.02450588235294118,
+                0.9187454545454545,
+                0.4137647058823529,
+                0.9767363636363636
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "FDS",
+              "bbox": [
+                0.48963529411764706,
+                0.9270363636363637,
+                0.583635294117647,
+                0.9545909090909092
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "FENCE DISTRIBUTORS",
+              "bbox": [
+                0.4287058823529412,
+                0.9651909090909091,
+                0.6283411764705883,
+                0.9777090909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "543 E. 600 S. Provo, UT 84606 1-877-700-8739 - YourNextFence.com Copyright 2019. FDS FENCE DISTRIBUTORS. All rights reserved. Modification or reproduction is prohibited without written permission.",
+              "bbox": [
+                0.6855058823529412,
+                0.9218636363636363,
+                0.9456823529411764,
+                0.9702909090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            }
+          ],
+          "text": "112\n\nProject Pumpkin-Huntley, Illinois\n\nTrex\u00ae Seclusions\u00ae \u00ae COMPOSITE FENCE SYSTEMS\n\nFence Height: 12'\n\nImage With Text:\n96\" O.C.\nColor: Woodland Brown\n91\"\n5\n( 4\nF\nBracket Height\n51 %\"\nFence Height 141 3/4\"\n-97 1/2\"\n143 3/8\"\nBracket Height\nPost Height 144\"\n6'\nComponent lengths may vary\nBY: Action Fence Contractors Inc 847-949-6690\nSteel Post Height\nBracket Height\nCURTIS A. McKEY 81-4087 REGISTERED STRUCTURAL\nLicense Expires 1/30 2022\n3/# 8\nPost Cap\n2 1/4\"\n* ENGINEER *\n3 1/2\" square 3/16\" Steel Post\nTop Rail\nOF\n72\" ILLINOIS! Antal m.kg 3000 PSI Concrete\nPicket\nFill\nNOTES:\nAluminum Bottom Rail Fence Bracket Bottom Rail\n1. INSTALLATION TO BE COMPLETED PER MANUFACTURER'S SPECIFICATION.\n2. REFER TO YourNextFence.com FOR CONSTRUCTION DETAILS AND PRODUCT INFORMATION\n3/#\n/8\n16\"\n-\u013e\n3. DRAWING NOT TO SCALE.\nCUT VIEWS\n091019\n\nImage With Text:\nTrex Fencing COMPOSITE FENCE SYSTEMS\n\nFDS\n\nFENCE DISTRIBUTORS\n\n543 E. 600 S. Provo, UT 84606 1-877-700-8739 - YourNextFence.com Copyright 2019. FDS FENCE DISTRIBUTORS. All rights reserved. Modification or reproduction is prohibited without written permission.",
+          "pageNum": 1
+        },
+        {
+          "sections": [
+            {
+              "type": "image",
+              "text": "Image With Text:\n10'-12' TREX SECLUSIONS COMPOSITE FENCE AT GRADE MPS\n(NON-STRUCTURAL DECORATIVE AT-GRADE BARRIER)\n4\"X4.9\" TOP\n4\"X4.9\" TOP RAIL\nPOST CAP\nRAIL\nSEE\nREQUIREMENT TABLE\n1\"X5%\" INTERLOCKING PICKETS\nPOST CAP\nSEE REQUIREMENT TABLE\n1\"X53 INTERLOCKING PICKETS\n5\"X5\" POST\n5\"X5\" POST\nINT. RAIL NOTE: PICKET SPAN NOT TO EXCEED 8'-0\" WHEN INT. RAIL/S ARE USED (SEE TABLE FOR REQUIREMENTS). MULTIPLE INT. RAILS MAY BE USED FOR AESTHETIC PURPOSES IF NOT REQUIRED.\nSEE INT. RAIL NOTE\n10' MAX.\nMAX\n12'\nPICKET SPAN\n54\" MIN.\nw\nBRACKET TO POST W/ (4) #14 SMS (IF INTO STEEL INSERT) OR (4) #12 WOOD SCREWS (IF INTO COMPOSITE ONLY) W/ %\" MIN. THREAD PENETRATION AND 3/4\" MIN. SPACING\nMIN.\nPICKET SPAN\n54\"\nBRACKET TO POST W/ (4) #14 SMS (IF INTO STEEL INSERT) OR (4) #12 WOOD SCREWS (IF INTO COMPOSITE ONLY)\n1\" MAX\nGRADE\n12\" MIN. POST EMBED SEE MANUFACTURER\n1\"X5%- BOTTOM RAIL COVER\n1\" MAX\nGR\u00c5DE\n3%\"x31/2\"x3/16\" A36 STEEL TUBE INSERT, SEE SCHEDULE FOR REQUIREMENTS\n12\"-MIN. POST EMBED SEE\nW/ %\" MIN. THREAD PENETRATION AND 3/4\" MIN. SPACING\nSPECS\n3 KSI CONCRETE IN WELL COMPACTED SOIL, TYP.\n1\"X53- BOTTOM/ INT. RAIL COVER\nALUMINUM BOTTOM/\nMANUFACTURER SPECS\nINT. RAIL\nMIN. 12\"W X 54\"D FOOTER REQUIRED FOR INSTALLATION ONLY. FOR STRUCTURAL WIND LOADS, FOOTING TO BE DESIGNED BY OTHERS PER LOCAL CONDITIONS\nALUMINUM BOTTOM/ INT. RAIL\n3/\"x3;\"xX6\" A36 STEEL TUBE INSERT, SEE SCHEDULE FOR REQUIREMENTS\n1\n10' COMPOSITE FENCE\n3 KSI CONCRETE IN WELL COMPACTED SOIL, TYP.\nMIN. 12\"W X 66\"D FOOTER REQUIRED FOR INSTALLATION ONLY. FOR STRUCTURAL WIND LOADS, FOOTING TO BE DESIGNED BY OTHERS PER LOCAL\n1\nSCALE: NTS\nELEVATION VIEW\n2\n12' COMPOSITE FENCE\nALUM. BOTTOM/ INT. RAIL\n1\nSCALE: NTS\nELEVATION VIEW\nCONDITIONS\n6' TREX SECLUSIONS\nMATERIAL NEEDED FOR &' SECTION\nRAIL BRACKET\n5 x 5 Post Cap Pyramid or Flat\n5 x 5 x 5/8\" Post\nTop Rail 4 x 4,9 x 1/2\"\n03/13/2018 - 10:41am intern1\nTrex\nBottom/Intermediate Rail Cover 1 x 5.75\nInterlocking Picket 1 x 5.75\nAluminum Bottom/Intermediate Rail (6063-T6)\nBOTTOM/INT. RAIL\nr\n1 1/4\" x 3 1/8\" x 1/8\" Rail Bracket\n3\nBOTTOM/INT. RAIL\nCOVERS\n1\nSCALE: NTS SECTION VIEW",
+              "bbox": [
+                0.10241176470588235,
+                0.049709090909090904,
+                0.8659411764705882,
+                0.7545727272727273
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "GENERAL NOTES",
+              "bbox": [
+                0.7024705882352942,
+                0.7447636363636363,
+                0.7128,
+                0.8046727272727273
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "THIS STRUCTURE HAS BEEN DESIGNED AND SHALL DE FABRICATED IN ACCORDANCE WITH THE STRUCTURAL PROVISIONS OF THE FLORIDA BUILDING CODE SIXTH EDITION (2017). STRUCTURE SHALL BE FABRICATED IN ACCORDANCE WITH ALL GOVERNING CODES. CONTRACTOR SHALL INVESTIGATE AND CONFORM TO ALL LOCAL BUILDING CODE AMENDMENTS WHICH MAY APPLY AND GOVERN. DESIGN CRITERIA OR SPANS BEYOND STATED HEREIN MAY REQUIRE ADDITIONAL SITE SPECIFIC SEALED ENGINEERING.",
+              "bbox": [
+                0.6263529411764706,
+                0.7534181818181818,
+                0.7027529411764706,
+                0.8898545454545453
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2. DESIGN BASED ON ASCE 7-10 USING V ... SEE DESIGN PRESSURE TABLES (3 SEC GUST), EXPOSURE \"\u2103', RISK CATEGORY I, USING THE SOLID SIGN METHOD, 0% OPEN USED IN CALCULATIONS.",
+              "bbox": [
+                0.5952,
+                0.744709090909091,
+                0.6276,
+                0.8908545454545455
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "3. THIS FENCE DESIGN TO BE USED AT GROUND SURFACE ONLY, WITH USE LIMITED TO DECORATIVE BARRIER PURPOSES ONLY. THIS FENCE IS NOT INTENDED TO MEET CODES GOVERNING ELEVATED BALCONIES OR STRUCTURAL RAILINGS.",
+              "bbox": [
+                0.5570823529411765,
+                0.7443363636363636,
+                0.5983058823529412,
+                0.8899545454545454
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "4. COMPOSITE WOOD MATERIAL INFORMATION : ALL COMPOSITE WOOD MATERIAL TO HAVE A FLEX STR. OF 4000PSI MIN.",
+              "bbox": [
+                0.5363294117647058,
+                0.7446727272727273,
+                0.5605411764705882,
+                0.8892818181818182
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "S. ALL CONCRETE AND EPOXY TO REACH A MIN. COMPRESSIVE STRENGTH OF 3000 PSI IN 7 DAYS. CONCRETE FOOTERS SHALL CONTAIN MINIMUM 0.1% FIBERMESH CONTENT PER CUBIC YARD.",
+              "bbox": [
+                0.5055529411764706,
+                0.745090909090909,
+                0.5384117647058824,
+                0.8845727272727273
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "6. THE CONTRACTOR IS RESPONSIBLE TO INSULATE ALL MEMBERS FROM DISSIMILAR MATERIALS TO PREVENT ELECTROLYSIS.",
+              "bbox": [
+                0.48383529411764703,
+                0.7447727272727274,
+                0.5078117647058823,
+                0.8851818181818182
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "7. SURROUNDING SOIL TO BE COMPACTED TO 98% OPTIMUM DENSITY, 2500 PSF MIN AND SHALL BE CLASSIFIED OR VERIFIED BY OTHERS PRIOR TO CONSTRUCTION PER FBC 1805.2 AND SHALL BE SANDY GRAVEL CLASS ONLY.",
+              "bbox": [
+                0.4459882352941177,
+                0.744190909090909,
+                0.4856823529411765,
+                0.8891181818181818
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "8. PER FBC 454.2.17.1.8: POOL ACCESS GATES WHEN PROVIDED SHALL COMPLY WITH FDC 454.2 AND MUST BE AT LEAST 48\" ABOVE GRADE & EQUIPPED WITH A SELF CLOSING, SELF LATCHING LOCKING DEVICE NOT LESS THAN 54\" FROM BOT OF GATE. GATE MUST OPEN OUTWARD AWAY FROM POOL & MUST HAVE NO OPENING >1/2\" WITHIN 18\" OF RELEASE MECHANISM.",
+              "bbox": [
+                0.3925058823529412,
+                0.7441090909090909,
+                0.448564705882353,
+                0.8920818181818183
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": ".ELECTRICAL GROUND, WHEN REQUIRED, TO BE DESIGNED & INSTALLED BY OTHERS",
+              "bbox": [
+                0.37825882352941176,
+                0.7466090909090909,
+                0.39583529411764706,
+                0.8693818181818181
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "10. ENGINEER SEAL AFFIXED HERETO VALIDATES STRUCTURAL DESIGN AS SHOWN ONLY, USE OF THIS SPECIFICATION BY CONTRACTOR, et. al, INDEMNIFIES & SAVES HARMLESS THIS ENGINEER FOR ALL COST & DAMAGES INCLUDING LEGAL FEES & APPELLATE FEES RESULTING FROM MATERIAL FABRICATION, SYSTEM ERECTION, CONSTRUCTION PRACTICES BEYOND THAT WHICH IS CALLED FOR BY LOCAL, STATE, & FEDERAL CODES & FROM DEVIATIONS OF THIS PLAN.",
+              "bbox": [
+                0.31035294117647055,
+                0.7433818181818181,
+                0.3802117647058823,
+                0.8903545454545455
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "11. THIS DOCUMENT IS GENERIC AND DOES NOT PERTAIN TO ANY SPECIFIC PROJECT SITE. INFORMATION CONTAINED HEREIN IS BASED ON CONTRACTOR-SUPPLIED DATA AND MEASUREMENTS. ENGINEERING EXPRESS SHALL NOT BE HELD RESPONSIBLE OR LIABLE IN ANY WAY FOR ERRONEOUS OR INACCURATE DATA OR MEASUREMENTS. DIMENSIONS ARE SHOWN TO ILLUSTRATE DESIGN FORCES AND OTHER DESIGN CRITERIA. THEY MAY VARY SLIGHTLY, BUT MUST REMAIN WITHIN THE LIMITATIONS SPECIFIED HEREIN. WORK SHALL BE FIELD VERIFIED BY OTHERS PRIOR TO CONSTRUCTION. ENGINEERING EXPRESS SHALL BE NOTIFIED AND GIVEN AN OPPORTUNITY TO REEVALUATE OUR WORK UPON DISCOVERY OF ANY INACCURATE INFORMATION PRIOR TO MODIFICATION OF EXISTING FIELD CONDITIONS AND FABRICATION AND INSTALLATION OF MATERIALS. ALTERATIONS OR ADDITIONS TO THIS DOCUMENT ARE NOT PERMITTED AND INVALIDATE OUR CERTIFICATION 12. ANYTHING LESS THAN THE HEIGHT AND POST SPACING SHOWN HEREIN MAY BE AS PER MANUFACTURER PLANS FOR DIMENSIONAL CONFORMITY, PROVIDED COMPONENTS AND EXTRUSIONS ARE PER THIS DESIGN AND THERE ARE NO INCREASED TRIBUTARIES",
+              "bbox": [
+                0.13074117647058822,
+                0.7418181818181818,
+                0.3133882352941177,
+                0.890709090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "13. EXCEPT AS EXPRESSLY PROVIDED HEREIN, NO ADDITIONAL CERTIFICATIONS OR AFFIRMATIONS ARE INTENDED,",
+              "bbox": [
+                0.10775294117647059,
+                0.7428363636363637,
+                0.13281176470588235,
+                0.8844090909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nFRANK L. BENNARDO, P.E. PE# 0046549 SEALLE OS/13 RED 03/13/2018\nPoi:3-as .... GORDON DIBATTISTO, P.E. 32328\nNOTICE: IF THIS SHEET DOES NOT CONTAIN AN ORIGINAL SIGNATURE & ENGINEER SEAL IF THERE IS A DIGITAL SIGNATURE ON SHEET 1, THIS SHEET IS PART OF A DIGITALLY SIGNED FILE, SHALL REMAIN IN DIGITAL FORMAT, & PRINTED COPIES OF THIS DOCUMENT ARE NOT CONSIDERED SIGNED AND SEALED. IF THERE IS NO DIGITAL SIGNATURE ON SHEET 1 OR THIS SHEET DOES NOT CONTAIN AN ENGINEER'S ORIGINAL SIGNATURE & SEAL, THIS SHEET IS A COPY DRAST.\nENGINEERING\nEXPRESS\nCORPORATE OFFICE:\nP: (954) 354-0660 F: (954) 354-0443 DEERFIELD BEACH, FL 33442 160 SW 12th AVE, SUITE 106\nE: HELLO@ENGINEERINGEXPRESS.COM\nCERT OF AUTH #9685 ENGINEERINGEXPRESS.COM\nTrex Fencing\nwww.TrexFencing.com\n1.877.700.8739\nTREX FENCING 10'-12' FENCE MPS\nFLORIDA BUILDING CODE\nASCE 7-10 'SOLID SIGN METHOD' 0% OPEN\nDATE\n02/28/18\n02/28/18\nFL\u00d8 ORWN CHKD RWN\nTHIS DOCUMENT IS THE PROPERTY OF ENGINEERING EXPRESS\nANO SHALL NOT BE REPRODUCED IN WHOLE OR PART VATHOUT\nWTUTTEN CONSENT OF ENGINEERING EXPRESS ALTERATIONS.\nACCIONS OR OTHER MARIOINGS TO THIS DOCUMENT ARE NOT PERMITTED AND INVALIDATE OUR CERTIFICATION\nFLB\nJAC\n\u00b7\nREMARKS NIT ISSUE\nUPDATE FOR 2017 FBC\n.\n.\nCOPYRIGHT ENGINEERING EXPRESS \"\n15-2692c\nSCALE:NTS UNLESS NOTED\n1\n1",
+              "bbox": [
+                0.09990588235294118,
+                0.8911727272727272,
+                0.8566117647058824,
+                0.9714272727272728
+              ],
+              "header": null,
+              "tableList": null
+            }
+          ],
+          "text": "Image With Text:\n10'-12' TREX SECLUSIONS COMPOSITE FENCE AT GRADE MPS\n(NON-STRUCTURAL DECORATIVE AT-GRADE BARRIER)\n4\"X4.9\" TOP\n4\"X4.9\" TOP RAIL\nPOST CAP\nRAIL\nSEE\nREQUIREMENT TABLE\n1\"X5%\" INTERLOCKING PICKETS\nPOST CAP\nSEE REQUIREMENT TABLE\n1\"X53 INTERLOCKING PICKETS\n5\"X5\" POST\n5\"X5\" POST\nINT. RAIL NOTE: PICKET SPAN NOT TO EXCEED 8'-0\" WHEN INT. RAIL/S ARE USED (SEE TABLE FOR REQUIREMENTS). MULTIPLE INT. RAILS MAY BE USED FOR AESTHETIC PURPOSES IF NOT REQUIRED.\nSEE INT. RAIL NOTE\n10' MAX.\nMAX\n12'\nPICKET SPAN\n54\" MIN.\nw\nBRACKET TO POST W/ (4) #14 SMS (IF INTO STEEL INSERT) OR (4) #12 WOOD SCREWS (IF INTO COMPOSITE ONLY) W/ %\" MIN. THREAD PENETRATION AND 3/4\" MIN. SPACING\nMIN.\nPICKET SPAN\n54\"\nBRACKET TO POST W/ (4) #14 SMS (IF INTO STEEL INSERT) OR (4) #12 WOOD SCREWS (IF INTO COMPOSITE ONLY)\n1\" MAX\nGRADE\n12\" MIN. POST EMBED SEE MANUFACTURER\n1\"X5%- BOTTOM RAIL COVER\n1\" MAX\nGR\u00c5DE\n3%\"x31/2\"x3/16\" A36 STEEL TUBE INSERT, SEE SCHEDULE FOR REQUIREMENTS\n12\"-MIN. POST EMBED SEE\nW/ %\" MIN. THREAD PENETRATION AND 3/4\" MIN. SPACING\nSPECS\n3 KSI CONCRETE IN WELL COMPACTED SOIL, TYP.\n1\"X53- BOTTOM/ INT. RAIL COVER\nALUMINUM BOTTOM/\nMANUFACTURER SPECS\nINT. RAIL\nMIN. 12\"W X 54\"D FOOTER REQUIRED FOR INSTALLATION ONLY. FOR STRUCTURAL WIND LOADS, FOOTING TO BE DESIGNED BY OTHERS PER LOCAL CONDITIONS\nALUMINUM BOTTOM/ INT. RAIL\n3/\"x3;\"xX6\" A36 STEEL TUBE INSERT, SEE SCHEDULE FOR REQUIREMENTS\n1\n10' COMPOSITE FENCE\n3 KSI CONCRETE IN WELL COMPACTED SOIL, TYP.\nMIN. 12\"W X 66\"D FOOTER REQUIRED FOR INSTALLATION ONLY. FOR STRUCTURAL WIND LOADS, FOOTING TO BE DESIGNED BY OTHERS PER LOCAL\n1\nSCALE: NTS\nELEVATION VIEW\n2\n12' COMPOSITE FENCE\nALUM. BOTTOM/ INT. RAIL\n1\nSCALE: NTS\nELEVATION VIEW\nCONDITIONS\n6' TREX SECLUSIONS\nMATERIAL NEEDED FOR &' SECTION\nRAIL BRACKET\n5 x 5 Post Cap Pyramid or Flat\n5 x 5 x 5/8\" Post\nTop Rail 4 x 4,9 x 1/2\"\n03/13/2018 - 10:41am intern1\nTrex\nBottom/Intermediate Rail Cover 1 x 5.75\nInterlocking Picket 1 x 5.75\nAluminum Bottom/Intermediate Rail (6063-T6)\nBOTTOM/INT. RAIL\nr\n1 1/4\" x 3 1/8\" x 1/8\" Rail Bracket\n3\nBOTTOM/INT. RAIL\nCOVERS\n1\nSCALE: NTS SECTION VIEW\n\nGENERAL NOTES\n\nTHIS STRUCTURE HAS BEEN DESIGNED AND SHALL DE FABRICATED IN ACCORDANCE WITH THE STRUCTURAL PROVISIONS OF THE FLORIDA BUILDING CODE SIXTH EDITION (2017). STRUCTURE SHALL BE FABRICATED IN ACCORDANCE WITH ALL GOVERNING CODES. CONTRACTOR SHALL INVESTIGATE AND CONFORM TO ALL LOCAL BUILDING CODE AMENDMENTS WHICH MAY APPLY AND GOVERN. DESIGN CRITERIA OR SPANS BEYOND STATED HEREIN MAY REQUIRE ADDITIONAL SITE SPECIFIC SEALED ENGINEERING.\n\n2. DESIGN BASED ON ASCE 7-10 USING V ... SEE DESIGN PRESSURE TABLES (3 SEC GUST), EXPOSURE \"\u2103', RISK CATEGORY I, USING THE SOLID SIGN METHOD, 0% OPEN USED IN CALCULATIONS.\n\n3. THIS FENCE DESIGN TO BE USED AT GROUND SURFACE ONLY, WITH USE LIMITED TO DECORATIVE BARRIER PURPOSES ONLY. THIS FENCE IS NOT INTENDED TO MEET CODES GOVERNING ELEVATED BALCONIES OR STRUCTURAL RAILINGS.\n\n4. COMPOSITE WOOD MATERIAL INFORMATION : ALL COMPOSITE WOOD MATERIAL TO HAVE A FLEX STR. OF 4000PSI MIN.\n\nS. ALL CONCRETE AND EPOXY TO REACH A MIN. COMPRESSIVE STRENGTH OF 3000 PSI IN 7 DAYS. CONCRETE FOOTERS SHALL CONTAIN MINIMUM 0.1% FIBERMESH CONTENT PER CUBIC YARD.\n\n6. THE CONTRACTOR IS RESPONSIBLE TO INSULATE ALL MEMBERS FROM DISSIMILAR MATERIALS TO PREVENT ELECTROLYSIS.\n\n7. SURROUNDING SOIL TO BE COMPACTED TO 98% OPTIMUM DENSITY, 2500 PSF MIN AND SHALL BE CLASSIFIED OR VERIFIED BY OTHERS PRIOR TO CONSTRUCTION PER FBC 1805.2 AND SHALL BE SANDY GRAVEL CLASS ONLY.\n\n8. PER FBC 454.2.17.1.8: POOL ACCESS GATES WHEN PROVIDED SHALL COMPLY WITH FDC 454.2 AND MUST BE AT LEAST 48\" ABOVE GRADE & EQUIPPED WITH A SELF CLOSING, SELF LATCHING LOCKING DEVICE NOT LESS THAN 54\" FROM BOT OF GATE. GATE MUST OPEN OUTWARD AWAY FROM POOL & MUST HAVE NO OPENING >1/2\" WITHIN 18\" OF RELEASE MECHANISM.\n\n.ELECTRICAL GROUND, WHEN REQUIRED, TO BE DESIGNED & INSTALLED BY OTHERS\n\n10. ENGINEER SEAL AFFIXED HERETO VALIDATES STRUCTURAL DESIGN AS SHOWN ONLY, USE OF THIS SPECIFICATION BY CONTRACTOR, et. al, INDEMNIFIES & SAVES HARMLESS THIS ENGINEER FOR ALL COST & DAMAGES INCLUDING LEGAL FEES & APPELLATE FEES RESULTING FROM MATERIAL FABRICATION, SYSTEM ERECTION, CONSTRUCTION PRACTICES BEYOND THAT WHICH IS CALLED FOR BY LOCAL, STATE, & FEDERAL CODES & FROM DEVIATIONS OF THIS PLAN.\n\n11. THIS DOCUMENT IS GENERIC AND DOES NOT PERTAIN TO ANY SPECIFIC PROJECT SITE. INFORMATION CONTAINED HEREIN IS BASED ON CONTRACTOR-SUPPLIED DATA AND MEASUREMENTS. ENGINEERING EXPRESS SHALL NOT BE HELD RESPONSIBLE OR LIABLE IN ANY WAY FOR ERRONEOUS OR INACCURATE DATA OR MEASUREMENTS. DIMENSIONS ARE SHOWN TO ILLUSTRATE DESIGN FORCES AND OTHER DESIGN CRITERIA. THEY MAY VARY SLIGHTLY, BUT MUST REMAIN WITHIN THE LIMITATIONS SPECIFIED HEREIN. WORK SHALL BE FIELD VERIFIED BY OTHERS PRIOR TO CONSTRUCTION. ENGINEERING EXPRESS SHALL BE NOTIFIED AND GIVEN AN OPPORTUNITY TO REEVALUATE OUR WORK UPON DISCOVERY OF ANY INACCURATE INFORMATION PRIOR TO MODIFICATION OF EXISTING FIELD CONDITIONS AND FABRICATION AND INSTALLATION OF MATERIALS. ALTERATIONS OR ADDITIONS TO THIS DOCUMENT ARE NOT PERMITTED AND INVALIDATE OUR CERTIFICATION 12. ANYTHING LESS THAN THE HEIGHT AND POST SPACING SHOWN HEREIN MAY BE AS PER MANUFACTURER PLANS FOR DIMENSIONAL CONFORMITY, PROVIDED COMPONENTS AND EXTRUSIONS ARE PER THIS DESIGN AND THERE ARE NO INCREASED TRIBUTARIES\n\n13. EXCEPT AS EXPRESSLY PROVIDED HEREIN, NO ADDITIONAL CERTIFICATIONS OR AFFIRMATIONS ARE INTENDED,\n\nImage With Text:\nFRANK L. BENNARDO, P.E. PE# 0046549 SEALLE OS/13 RED 03/13/2018\nPoi:3-as .... GORDON DIBATTISTO, P.E. 32328\nNOTICE: IF THIS SHEET DOES NOT CONTAIN AN ORIGINAL SIGNATURE & ENGINEER SEAL IF THERE IS A DIGITAL SIGNATURE ON SHEET 1, THIS SHEET IS PART OF A DIGITALLY SIGNED FILE, SHALL REMAIN IN DIGITAL FORMAT, & PRINTED COPIES OF THIS DOCUMENT ARE NOT CONSIDERED SIGNED AND SEALED. IF THERE IS NO DIGITAL SIGNATURE ON SHEET 1 OR THIS SHEET DOES NOT CONTAIN AN ENGINEER'S ORIGINAL SIGNATURE & SEAL, THIS SHEET IS A COPY DRAST.\nENGINEERING\nEXPRESS\nCORPORATE OFFICE:\nP: (954) 354-0660 F: (954) 354-0443 DEERFIELD BEACH, FL 33442 160 SW 12th AVE, SUITE 106\nE: HELLO@ENGINEERINGEXPRESS.COM\nCERT OF AUTH #9685 ENGINEERINGEXPRESS.COM\nTrex Fencing\nwww.TrexFencing.com\n1.877.700.8739\nTREX FENCING 10'-12' FENCE MPS\nFLORIDA BUILDING CODE\nASCE 7-10 'SOLID SIGN METHOD' 0% OPEN\nDATE\n02/28/18\n02/28/18\nFL\u00d8 ORWN CHKD RWN\nTHIS DOCUMENT IS THE PROPERTY OF ENGINEERING EXPRESS\nANO SHALL NOT BE REPRODUCED IN WHOLE OR PART VATHOUT\nWTUTTEN CONSENT OF ENGINEERING EXPRESS ALTERATIONS.\nACCIONS OR OTHER MARIOINGS TO THIS DOCUMENT ARE NOT PERMITTED AND INVALIDATE OUR CERTIFICATION\nFLB\nJAC\n\u00b7\nREMARKS NIT ISSUE\nUPDATE FOR 2017 FBC\n.\n.\nCOPYRIGHT ENGINEERING EXPRESS \"\n15-2692c\nSCALE:NTS UNLESS NOTED\n1\n1",
+          "pageNum": 2
+        }
+      ],
+      "numPages": 3,
+      "text": "Page 1:\n===\n\nYAN\n\nRyan Companies 700 Oakmont Ln, Suite 100 Westmont, Illinois 60559 P: (630) 328-1100 F: (630) 328-1300\n\nProject: 005627000 AMZ IXD (RFD2)-Huntley IL 11500 Freeman Road Huntley, Illinois 60142\n\nSubmittal #32 35 16-1.0 - Sound Wall 32 35 16 - Sound Barriers\n\n|:-----------|:-------------|\n| Revision   | 0            |\n| Status     | Open         |\n| Issue Date | Jun 27, 2021 |\n\nResponsible Contractor\n\nReceived Date\n\n|:------------------|:------------------------------|\n| Submittal Manager | Nate Field (Ryan Companies US |\n|                   | Inc)                          |\n| Date Created      | Jun 27, 2021                  |\n| Spec Section      | 32 35 16 - Sound Barriers     |\n| Received From     |                               |\n| Submit By         |                               |\n\nSUBMITTAL NO. 32-3516-1.0\n\nImage With Text:\nDATE\nX \u2611 APPROVED \u2610 APPROVED AS NOTED \u2610 REJECTED\n\u2610 REVISE AND RESUBMIT \u2610 FOR RECORD ONLY\nCONTRACTOR'S APPROVAL IS FOR GENERAL CONFORMANCE WITH THE DESIGN INTENT OF THE CONTRACT DOCUMENTS ONLY AND IN NO WAY RELIEVES CONTRACTOR/SUBCONTRACTOR/VENDOR OF ITS RESPONSIBILITY FOR DIMENSIONS, DETAILS AND THE PERFORMANCE OF ITS WORK IN ACCORDANCE WITH THE CONTRACT DOCUMENTS COMMENTS BY: Nate Field\nDATE:\n06-27-2021\nRYAN COMPANIES US, INC.\n\nJACOB & HEFNER ASSOCIATES INC.\n\nCorrections or comments made on the shop drawings during this review do not relieve contractor from compliance with the requirements of the drawings and specifications. This check is only for review of general conformance with the information given in the contract documents. The contractor is responsible for confirming and correlating all quantities and dimensions, selecting fabrication processes and techniques of construction, coordinating his work with that of all other trades and performing his work in a safe and satisfactory manner.\n\nNO EXCEPTIONS NOTED\n\nDate: Jul 12, 2021 By: RJG\n\nRyan Companies\n\nPage 1 of 1\n\nPrinted On: Jun 27, 2021 07:11 PM CDT\n\n\nPage 2:\n===\n\n112\n\nProject Pumpkin-Huntley, Illinois\n\nTrex\u00ae Seclusions\u00ae \u00ae COMPOSITE FENCE SYSTEMS\n\nFence Height: 12'\n\nImage With Text:\n96\" O.C.\nColor: Woodland Brown\n91\"\n5\n( 4\nF\nBracket Height\n51 %\"\nFence Height 141 3/4\"\n-97 1/2\"\n143 3/8\"\nBracket Height\nPost Height 144\"\n6'\nComponent lengths may vary\nBY: Action Fence Contractors Inc 847-949-6690\nSteel Post Height\nBracket Height\nCURTIS A. McKEY 81-4087 REGISTERED STRUCTURAL\nLicense Expires 1/30 2022\n3/# 8\nPost Cap\n2 1/4\"\n* ENGINEER *\n3 1/2\" square 3/16\" Steel Post\nTop Rail\nOF\n72\" ILLINOIS! Antal m.kg 3000 PSI Concrete\nPicket\nFill\nNOTES:\nAluminum Bottom Rail Fence Bracket Bottom Rail\n1. INSTALLATION TO BE COMPLETED PER MANUFACTURER'S SPECIFICATION.\n2. REFER TO YourNextFence.com FOR CONSTRUCTION DETAILS AND PRODUCT INFORMATION\n3/#\n/8\n16\"\n-\u013e\n3. DRAWING NOT TO SCALE.\nCUT VIEWS\n091019\n\nImage With Text:\nTrex Fencing COMPOSITE FENCE SYSTEMS\n\nFDS\n\nFENCE DISTRIBUTORS\n\n543 E. 600 S. Provo, UT 84606 1-877-700-8739 - YourNextFence.com Copyright 2019. FDS FENCE DISTRIBUTORS. All rights reserved. Modification or reproduction is prohibited without written permission.\n\n\nPage 3:\n===\n\nImage With Text:\n10'-12' TREX SECLUSIONS COMPOSITE FENCE AT GRADE MPS\n(NON-STRUCTURAL DECORATIVE AT-GRADE BARRIER)\n4\"X4.9\" TOP\n4\"X4.9\" TOP RAIL\nPOST CAP\nRAIL\nSEE\nREQUIREMENT TABLE\n1\"X5%\" INTERLOCKING PICKETS\nPOST CAP\nSEE REQUIREMENT TABLE\n1\"X53 INTERLOCKING PICKETS\n5\"X5\" POST\n5\"X5\" POST\nINT. RAIL NOTE: PICKET SPAN NOT TO EXCEED 8'-0\" WHEN INT. RAIL/S ARE USED (SEE TABLE FOR REQUIREMENTS). MULTIPLE INT. RAILS MAY BE USED FOR AESTHETIC PURPOSES IF NOT REQUIRED.\nSEE INT. RAIL NOTE\n10' MAX.\nMAX\n12'\nPICKET SPAN\n54\" MIN.\nw\nBRACKET TO POST W/ (4) #14 SMS (IF INTO STEEL INSERT) OR (4) #12 WOOD SCREWS (IF INTO COMPOSITE ONLY) W/ %\" MIN. THREAD PENETRATION AND 3/4\" MIN. SPACING\nMIN.\nPICKET SPAN\n54\"\nBRACKET TO POST W/ (4) #14 SMS (IF INTO STEEL INSERT) OR (4) #12 WOOD SCREWS (IF INTO COMPOSITE ONLY)\n1\" MAX\nGRADE\n12\" MIN. POST EMBED SEE MANUFACTURER\n1\"X5%- BOTTOM RAIL COVER\n1\" MAX\nGR\u00c5DE\n3%\"x31/2\"x3/16\" A36 STEEL TUBE INSERT, SEE SCHEDULE FOR REQUIREMENTS\n12\"-MIN. POST EMBED SEE\nW/ %\" MIN. THREAD PENETRATION AND 3/4\" MIN. SPACING\nSPECS\n3 KSI CONCRETE IN WELL COMPACTED SOIL, TYP.\n1\"X53- BOTTOM/ INT. RAIL COVER\nALUMINUM BOTTOM/\nMANUFACTURER SPECS\nINT. RAIL\nMIN. 12\"W X 54\"D FOOTER REQUIRED FOR INSTALLATION ONLY. FOR STRUCTURAL WIND LOADS, FOOTING TO BE DESIGNED BY OTHERS PER LOCAL CONDITIONS\nALUMINUM BOTTOM/ INT. RAIL\n3/\"x3;\"xX6\" A36 STEEL TUBE INSERT, SEE SCHEDULE FOR REQUIREMENTS\n1\n10' COMPOSITE FENCE\n3 KSI CONCRETE IN WELL COMPACTED SOIL, TYP.\nMIN. 12\"W X 66\"D FOOTER REQUIRED FOR INSTALLATION ONLY. FOR STRUCTURAL WIND LOADS, FOOTING TO BE DESIGNED BY OTHERS PER LOCAL\n1\nSCALE: NTS\nELEVATION VIEW\n2\n12' COMPOSITE FENCE\nALUM. BOTTOM/ INT. RAIL\n1\nSCALE: NTS\nELEVATION VIEW\nCONDITIONS\n6' TREX SECLUSIONS\nMATERIAL NEEDED FOR &' SECTION\nRAIL BRACKET\n5 x 5 Post Cap Pyramid or Flat\n5 x 5 x 5/8\" Post\nTop Rail 4 x 4,9 x 1/2\"\n03/13/2018 - 10:41am intern1\nTrex\nBottom/Intermediate Rail Cover 1 x 5.75\nInterlocking Picket 1 x 5.75\nAluminum Bottom/Intermediate Rail (6063-T6)\nBOTTOM/INT. RAIL\nr\n1 1/4\" x 3 1/8\" x 1/8\" Rail Bracket\n3\nBOTTOM/INT. RAIL\nCOVERS\n1\nSCALE: NTS SECTION VIEW\n\nGENERAL NOTES\n\nTHIS STRUCTURE HAS BEEN DESIGNED AND SHALL DE FABRICATED IN ACCORDANCE WITH THE STRUCTURAL PROVISIONS OF THE FLORIDA BUILDING CODE SIXTH EDITION (2017). STRUCTURE SHALL BE FABRICATED IN ACCORDANCE WITH ALL GOVERNING CODES. CONTRACTOR SHALL INVESTIGATE AND CONFORM TO ALL LOCAL BUILDING CODE AMENDMENTS WHICH MAY APPLY AND GOVERN. DESIGN CRITERIA OR SPANS BEYOND STATED HEREIN MAY REQUIRE ADDITIONAL SITE SPECIFIC SEALED ENGINEERING.\n\n2. DESIGN BASED ON ASCE 7-10 USING V ... SEE DESIGN PRESSURE TABLES (3 SEC GUST), EXPOSURE \"\u2103', RISK CATEGORY I, USING THE SOLID SIGN METHOD, 0% OPEN USED IN CALCULATIONS.\n\n3. THIS FENCE DESIGN TO BE USED AT GROUND SURFACE ONLY, WITH USE LIMITED TO DECORATIVE BARRIER PURPOSES ONLY. THIS FENCE IS NOT INTENDED TO MEET CODES GOVERNING ELEVATED BALCONIES OR STRUCTURAL RAILINGS.\n\n4. COMPOSITE WOOD MATERIAL INFORMATION : ALL COMPOSITE WOOD MATERIAL TO HAVE A FLEX STR. OF 4000PSI MIN.\n\nS. ALL CONCRETE AND EPOXY TO REACH A MIN. COMPRESSIVE STRENGTH OF 3000 PSI IN 7 DAYS. CONCRETE FOOTERS SHALL CONTAIN MINIMUM 0.1% FIBERMESH CONTENT PER CUBIC YARD.\n\n6. THE CONTRACTOR IS RESPONSIBLE TO INSULATE ALL MEMBERS FROM DISSIMILAR MATERIALS TO PREVENT ELECTROLYSIS.\n\n7. SURROUNDING SOIL TO BE COMPACTED TO 98% OPTIMUM DENSITY, 2500 PSF MIN AND SHALL BE CLASSIFIED OR VERIFIED BY OTHERS PRIOR TO CONSTRUCTION PER FBC 1805.2 AND SHALL BE SANDY GRAVEL CLASS ONLY.\n\n8. PER FBC 454.2.17.1.8: POOL ACCESS GATES WHEN PROVIDED SHALL COMPLY WITH FDC 454.2 AND MUST BE AT LEAST 48\" ABOVE GRADE & EQUIPPED WITH A SELF CLOSING, SELF LATCHING LOCKING DEVICE NOT LESS THAN 54\" FROM BOT OF GATE. GATE MUST OPEN OUTWARD AWAY FROM POOL & MUST HAVE NO OPENING >1/2\" WITHIN 18\" OF RELEASE MECHANISM.\n\n.ELECTRICAL GROUND, WHEN REQUIRED, TO BE DESIGNED & INSTALLED BY OTHERS\n\n10. ENGINEER SEAL AFFIXED HERETO VALIDATES STRUCTURAL DESIGN AS SHOWN ONLY, USE OF THIS SPECIFICATION BY CONTRACTOR, et. al, INDEMNIFIES & SAVES HARMLESS THIS ENGINEER FOR ALL COST & DAMAGES INCLUDING LEGAL FEES & APPELLATE FEES RESULTING FROM MATERIAL FABRICATION, SYSTEM ERECTION, CONSTRUCTION PRACTICES BEYOND THAT WHICH IS CALLED FOR BY LOCAL, STATE, & FEDERAL CODES & FROM DEVIATIONS OF THIS PLAN.\n\n11. THIS DOCUMENT IS GENERIC AND DOES NOT PERTAIN TO ANY SPECIFIC PROJECT SITE. INFORMATION CONTAINED HEREIN IS BASED ON CONTRACTOR-SUPPLIED DATA AND MEASUREMENTS. ENGINEERING EXPRESS SHALL NOT BE HELD RESPONSIBLE OR LIABLE IN ANY WAY FOR ERRONEOUS OR INACCURATE DATA OR MEASUREMENTS. DIMENSIONS ARE SHOWN TO ILLUSTRATE DESIGN FORCES AND OTHER DESIGN CRITERIA. THEY MAY VARY SLIGHTLY, BUT MUST REMAIN WITHIN THE LIMITATIONS SPECIFIED HEREIN. WORK SHALL BE FIELD VERIFIED BY OTHERS PRIOR TO CONSTRUCTION. ENGINEERING EXPRESS SHALL BE NOTIFIED AND GIVEN AN OPPORTUNITY TO REEVALUATE OUR WORK UPON DISCOVERY OF ANY INACCURATE INFORMATION PRIOR TO MODIFICATION OF EXISTING FIELD CONDITIONS AND FABRICATION AND INSTALLATION OF MATERIALS. ALTERATIONS OR ADDITIONS TO THIS DOCUMENT ARE NOT PERMITTED AND INVALIDATE OUR CERTIFICATION 12. ANYTHING LESS THAN THE HEIGHT AND POST SPACING SHOWN HEREIN MAY BE AS PER MANUFACTURER PLANS FOR DIMENSIONAL CONFORMITY, PROVIDED COMPONENTS AND EXTRUSIONS ARE PER THIS DESIGN AND THERE ARE NO INCREASED TRIBUTARIES\n\n13. EXCEPT AS EXPRESSLY PROVIDED HEREIN, NO ADDITIONAL CERTIFICATIONS OR AFFIRMATIONS ARE INTENDED,\n\nImage With Text:\nFRANK L. BENNARDO, P.E. PE# 0046549 SEALLE OS/13 RED 03/13/2018\nPoi:3-as .... GORDON DIBATTISTO, P.E. 32328\nNOTICE: IF THIS SHEET DOES NOT CONTAIN AN ORIGINAL SIGNATURE & ENGINEER SEAL IF THERE IS A DIGITAL SIGNATURE ON SHEET 1, THIS SHEET IS PART OF A DIGITALLY SIGNED FILE, SHALL REMAIN IN DIGITAL FORMAT, & PRINTED COPIES OF THIS DOCUMENT ARE NOT CONSIDERED SIGNED AND SEALED. IF THERE IS NO DIGITAL SIGNATURE ON SHEET 1 OR THIS SHEET DOES NOT CONTAIN AN ENGINEER'S ORIGINAL SIGNATURE & SEAL, THIS SHEET IS A COPY DRAST.\nENGINEERING\nEXPRESS\nCORPORATE OFFICE:\nP: (954) 354-0660 F: (954) 354-0443 DEERFIELD BEACH, FL 33442 160 SW 12th AVE, SUITE 106\nE: HELLO@ENGINEERINGEXPRESS.COM\nCERT OF AUTH #9685 ENGINEERINGEXPRESS.COM\nTrex Fencing\nwww.TrexFencing.com\n1.877.700.8739\nTREX FENCING 10'-12' FENCE MPS\nFLORIDA BUILDING CODE\nASCE 7-10 'SOLID SIGN METHOD' 0% OPEN\nDATE\n02/28/18\n02/28/18\nFL\u00d8 ORWN CHKD RWN\nTHIS DOCUMENT IS THE PROPERTY OF ENGINEERING EXPRESS\nANO SHALL NOT BE REPRODUCED IN WHOLE OR PART VATHOUT\nWTUTTEN CONSENT OF ENGINEERING EXPRESS ALTERATIONS.\nACCIONS OR OTHER MARIOINGS TO THIS DOCUMENT ARE NOT PERMITTED AND INVALIDATE OUR CERTIFICATION\nFLB\nJAC\n\u00b7\nREMARKS NIT ISSUE\nUPDATE FOR 2017 FBC\n.\n.\nCOPYRIGHT ENGINEERING EXPRESS \"\n15-2692c\nSCALE:NTS UNLESS NOTED\n1\n1",
+      "language": "en"
+    },
+    "numPages": 3,
+    "language": "en",
+    "metadata": null,
+    "status": "completed",
+    "timestamp": "2025-08-07T17:14:08.492000Z"
+  }
+}

@@ -1,0 +1,1184 @@
+{
+  "doc_id": "ZRf1hnwI",
+  "response_type": "document",
+  "timestamp": "2025-08-07T22:20:37.007691",
+  "response_data": {
+    "documentId": "ZRf1hnwI",
+    "dataset": "robust_utility_extraction",
+    "classified": false,
+    "classIds": null,
+    "filename": "Project Yellow Jacket_Addendum 4 - Narrative_2024-0916",
+    "fileType": "pdf",
+    "fileExtension": "pdf",
+    "result": {
+      "pages": [
+        {
+          "sections": [
+            {
+              "type": "text",
+              "text": "Project Memo",
+              "bbox": [
+                0.0964235294117647,
+                0.055863636363636365,
+                0.27945882352941176,
+                0.08177272727272727
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "DLRGROUP",
+              "bbox": [
+                0.5960705882352941,
+                0.055536363636363634,
+                0.7918235294117647,
+                0.07646363636363636
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "DLR Group inc. an Arizona corporation 6225 North 24th Street, Suite 250 Phoenix, AZ 85016",
+              "bbox": [
+                0.5964352941176471,
+                0.09243636363636364,
+                0.770035294117647,
+                0.1411909090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Date",
+              "bbox": [
+                0.14742352941176473,
+                0.09552727272727272,
+                0.18685882352941177,
+                0.10901818181818182
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "September 20, 2024",
+              "bbox": [
+                0.2020941176470588,
+                0.09423636363636363,
+                0.36783529411764704,
+                0.11062727272727274
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "To",
+              "bbox": [
+                0.16405882352941178,
+                0.12257272727272728,
+                0.18683529411764707,
+                0.13584545454545455
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Ryan Companies",
+              "bbox": [
+                0.20224705882352942,
+                0.12207272727272728,
+                0.34261176470588234,
+                0.13853636363636365
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "From",
+              "bbox": [
+                0.1434,
+                0.1551090909090909,
+                0.18661176470588237,
+                0.16855454545454546
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Charlie Carroll",
+              "bbox": [
+                0.20221176470588237,
+                0.15397272727272726,
+                0.3194,
+                0.16903636363636362
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Project",
+              "bbox": [
+                0.12923529411764706,
+                0.18622727272727274,
+                0.18756470588235294,
+                0.2019
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Project Yellow Jacket",
+              "bbox": [
+                0.20198823529411766,
+                0.18536363636363637,
+                0.3761058823529412,
+                0.20197272727272725
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Log No. Subject",
+              "bbox": [
+                0.1220235294117647,
+                0.21847272727272726,
+                0.1874,
+                0.2614636363636364
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Addendum 4",
+              "bbox": [
+                0.2025529411764706,
+                0.24523636363636364,
+                0.30722352941176473,
+                0.2600454545454545
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Message",
+              "bbox": [
+                0.1110235294117647,
+                0.2911727272727273,
+                0.18658823529411767,
+                0.3068636363636364
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "REVISION ITEMS",
+              "bbox": [
+                0.23269411764705883,
+                0.29195454545454547,
+                0.35398823529411766,
+                0.3057727272727273
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ARCHITECTURAL",
+              "bbox": [
+                0.2324235294117647,
+                0.34314545454545453,
+                0.35503529411764706,
+                0.3563181818181818
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 A1.1",
+              "bbox": [
+                0.23356470588235295,
+                0.3790545454545455,
+                0.29664705882352943,
+                0.39147272727272725
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Add chain link cages per Composite 1.0",
+              "bbox": [
+                0.2919764705882353,
+                0.39600909090909087,
+                0.607835294117647,
+                0.41156363636363635
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2. Relocated MDPs per coordination from Amazon",
+              "bbox": [
+                0.29145882352941177,
+                0.41416363636363634,
+                0.6715058823529412,
+                0.4292363636363636
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "3. Relocated stairs at the PID platform per Amazon direction",
+              "bbox": [
+                0.291435294117647,
+                0.4324363636363637,
+                0.7446352941176471,
+                0.44812727272727276
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 A1.1A",
+              "bbox": [
+                0.23378823529411766,
+                0.47006363636363635,
+                0.3075058823529412,
+                0.4825909090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Add chain link cages per Composite 1.0",
+              "bbox": [
+                0.291835294117647,
+                0.4873909090909091,
+                0.608,
+                0.5032
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2. Relocated an MDP per Amazon direction",
+              "bbox": [
+                0.2916470588235294,
+                0.5056545454545455,
+                0.619035294117647,
+                0.5209545454545454
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "3. Relocated stairs at the PID platform per Amazon direction",
+              "bbox": [
+                0.2913529411764706,
+                0.5243,
+                0.7442588235294118,
+                0.5395545454545455
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 A1.1B",
+              "bbox": [
+                0.2336470588235294,
+                0.5617090909090909,
+                0.30676470588235294,
+                0.5739909090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Relocated an MDP per Amazon direction",
+              "bbox": [
+                0.29170588235294115,
+                0.5792727272727273,
+                0.6191058823529412,
+                0.5942545454545455
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 A1.1C",
+              "bbox": [
+                0.2335294117647059,
+                0.6170090909090908,
+                0.30738823529411763,
+                0.6296
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Add chain link cages per Composite 1.0",
+              "bbox": [
+                0.2918588235294117,
+                0.6338727272727273,
+                0.6080588235294118,
+                0.6494727272727272
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 A1.1D",
+              "bbox": [
+                0.23368235294117645,
+                0.6718636363636364,
+                0.3081058823529412,
+                0.6845545454545454
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Add chain link cages per Composite 1.0",
+              "bbox": [
+                0.29202352941176474,
+                0.6888818181818182,
+                0.6079176470588236,
+                0.7043181818181817
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2. Relocated an MDP per Amazon direction",
+              "bbox": [
+                0.29165882352941175,
+                0.7072363636363637,
+                0.6188588235294118,
+                0.7219909090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "3. Relocated stairs and the VRC at the PID platform per Amazon direction",
+              "bbox": [
+                0.29111764705882354,
+                0.7254,
+                0.8378941176470588,
+                0.7409454545454545
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 A1.1F",
+              "bbox": [
+                0.23365882352941175,
+                0.7629727272727272,
+                0.30574117647058824,
+                0.7755636363636363
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Add chain link cages per Composite 1.0",
+              "bbox": [
+                0.29191764705882356,
+                0.7807727272727273,
+                0.6080352941176471,
+                0.7955727272727273
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 A2.09",
+              "bbox": [
+                0.2333294117647059,
+                0.8176636363636365,
+                0.3063529411764706,
+                0.8303272727272727
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Revised PID Platform stairs and VRC per Amazon direction",
+              "bbox": [
+                0.2922705882352941,
+                0.8355818181818182,
+                0.7456941176470588,
+                0.850309090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 A7.3",
+              "bbox": [
+                0.23349411764705882,
+                0.8727,
+                0.29690588235294113,
+                0.884990909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Revised stair plans and sections per Amazon direction",
+              "bbox": [
+                0.2922705882352941,
+                0.8906818181818181,
+                0.7147411764705883,
+                0.9053363636363637
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 A8.2B",
+              "bbox": [
+                0.23336470588235295,
+                0.9276636363636364,
+                0.3070235294117647,
+                0.9399000000000001
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Added chain link gate information",
+              "bbox": [
+                0.29214117647058824,
+                0.9452363636363637,
+                0.5708117647058824,
+                0.9599272727272727
+              ],
+              "header": "paragraph",
+              "tableList": null
+            }
+          ],
+          "text": "Project Memo\n\nDLRGROUP\n\nDLR Group inc. an Arizona corporation 6225 North 24th Street, Suite 250 Phoenix, AZ 85016\n\nDate\n\nSeptember 20, 2024\n\nTo\n\nRyan Companies\n\nFrom\n\nCharlie Carroll\n\nProject\n\nProject Yellow Jacket\n\nLog No. Subject\n\nAddendum 4\n\nMessage\n\nREVISION ITEMS\n\nARCHITECTURAL\n\n\u00b7 A1.1\n\n1. Add chain link cages per Composite 1.0\n\n2. Relocated MDPs per coordination from Amazon\n\n3. Relocated stairs at the PID platform per Amazon direction\n\n\u00b7 A1.1A\n\n1. Add chain link cages per Composite 1.0\n\n2. Relocated an MDP per Amazon direction\n\n3. Relocated stairs at the PID platform per Amazon direction\n\n\u00b7 A1.1B\n\n1. Relocated an MDP per Amazon direction\n\n\u00b7 A1.1C\n\n1. Add chain link cages per Composite 1.0\n\n\u00b7 A1.1D\n\n1. Add chain link cages per Composite 1.0\n\n2. Relocated an MDP per Amazon direction\n\n3. Relocated stairs and the VRC at the PID platform per Amazon direction\n\n\u00b7 A1.1F\n\n1. Add chain link cages per Composite 1.0\n\n\u00b7 A2.09\n\n1. Revised PID Platform stairs and VRC per Amazon direction\n\n\u00b7 A7.3\n\n1. Revised stair plans and sections per Amazon direction\n\n\u00b7 A8.2B\n\n1. Added chain link gate information",
+          "pageNum": 0
+        },
+        {
+          "sections": [
+            {
+              "type": "text",
+              "text": "Project Memo / Page 2",
+              "bbox": [
+                0.7719294117647059,
+                0.02312727272727273,
+                0.9572117647058824,
+                0.03956363636363636
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 10.1",
+              "bbox": [
+                0.23294117647058823,
+                0.05867272727272727,
+                0.2954588235294118,
+                0.07059090909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Updated PID Platform elevations per new stair and VRC configuration",
+              "bbox": [
+                0.2918588235294117,
+                0.0757,
+                0.8291529411764705,
+                0.09042727272727273
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "FIRE PROTECTION",
+              "bbox": [
+                0.23243529411764707,
+                0.12229999999999999,
+                0.3644117647058824,
+                0.13605454545454546
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 FP401",
+              "bbox": [
+                0.2334705882352941,
+                0.1585,
+                0.3083058823529412,
+                0.1706909090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Reconfigured fire pump suction line and orientation of backflow preventer per coordination with sprinkler contractor",
+              "bbox": [
+                0.2928705882352941,
+                0.17566363636363636,
+                0.8950470588235294,
+                0.20975454545454547
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2. Updated \"Fire Pump Room Equipment List\" to include missing information",
+              "bbox": [
+                0.29203529411764706,
+                0.21230000000000002,
+                0.8654823529411765,
+                0.22763636363636364
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "3. Added note for OS&Y in vertical alignment to coordinate with backflow preventer update",
+              "bbox": [
+                0.29214117647058824,
+                0.23049999999999998,
+                0.9173411764705882,
+                0.26443636363636364
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ELECTRICAL",
+              "bbox": [
+                0.23289411764705883,
+                0.2948181818181818,
+                0.31990588235294115,
+                0.3079090909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 E1.10",
+              "bbox": [
+                0.2334705882352941,
+                0.33089999999999997,
+                0.30461176470588236,
+                0.34313636363636363
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Updated and revised IDF cabinet locations",
+              "bbox": [
+                0.29216470588235294,
+                0.3477909090909091,
+                0.6310352941176471,
+                0.36255454545454546
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 E1.11 thru E1.16",
+              "bbox": [
+                0.23370588235294118,
+                0.385,
+                0.38494117647058823,
+                0.3986363636363636
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Updated power plan per Composite 1.0",
+              "bbox": [
+                0.29207058823529414,
+                0.40303636363636364,
+                0.6110352941176471,
+                0.41855454545454546
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 E3.00",
+              "bbox": [
+                0.2335764705882353,
+                0.44024545454545455,
+                0.30469411764705884,
+                0.4528636363636363
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Coordinated power with Composite 1.0",
+              "bbox": [
+                0.29201176470588236,
+                0.45798181818181816,
+                0.6104470588235293,
+                0.4731363636363637
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2. Moved panels to coordinate with modules",
+              "bbox": [
+                0.2912823529411765,
+                0.47606363636363636,
+                0.6325882352941177,
+                0.49117272727272726
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 E3.10P",
+              "bbox": [
+                0.23345882352941175,
+                0.5138454545454546,
+                0.3132705882352941,
+                0.5264090909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Updated power per Composite 1.0",
+              "bbox": [
+                0.29203529411764706,
+                0.5306545454545455,
+                0.5754117647058824,
+                0.5466272727272727
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 E3.11P",
+              "bbox": [
+                0.23361176470588235,
+                0.568490909090909,
+                0.3135529411764706,
+                0.5813363636363637
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Updated power per Composite 1.0",
+              "bbox": [
+                0.29221176470588234,
+                0.5855272727272728,
+                0.575364705882353,
+                0.6013363636363637
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 E3.12P",
+              "bbox": [
+                0.23363529411764705,
+                0.6233727272727273,
+                0.31361176470588237,
+                0.6361636363636364
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Updated power per Composite 1.0",
+              "bbox": [
+                0.29202352941176474,
+                0.6404363636363637,
+                0.5752823529411765,
+                0.6561818181818182
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 E4.01",
+              "bbox": [
+                0.23350588235294117,
+                0.6784545454545454,
+                0.3039882352941176,
+                0.6906636363636364
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Deleted battery charger panel",
+              "bbox": [
+                0.2923058823529412,
+                0.6952909090909091,
+                0.5417176470588235,
+                0.7109636363636364
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2. Revised DB-GEN per RFI",
+              "bbox": [
+                0.2913764705882353,
+                0.7139090909090909,
+                0.4964588235294118,
+                0.7290454545454547
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 E4.04",
+              "bbox": [
+                0.23345882352941175,
+                0.7515545454545454,
+                0.30462352941176474,
+                0.7637454545454545
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Updated load calculations",
+              "bbox": [
+                0.29191764705882356,
+                0.7690818181818181,
+                0.5123176470588235,
+                0.7840727272727274
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "\u00b7 E5.01 thru E5.05",
+              "bbox": [
+                0.23338823529411765,
+                0.8058636363636363,
+                0.38423529411764706,
+                0.8192363636363637
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. Updated panels per Composite 1.0",
+              "bbox": [
+                0.29201176470588236,
+                0.8238454545454545,
+                0.5759294117647059,
+                0.8389636363636364
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "DLR Group Denver, Colorado o: 720/904-0440 f: 720/932-7561",
+              "bbox": [
+                0.7339294117647059,
+                0.9391909090909091,
+                0.9429529411764707,
+                0.9771818181818183
+              ],
+              "header": "paragraph",
+              "tableList": null
+            }
+          ],
+          "text": "Project Memo / Page 2\n\n\u00b7 10.1\n\n1. Updated PID Platform elevations per new stair and VRC configuration\n\nFIRE PROTECTION\n\n\u00b7 FP401\n\n1. Reconfigured fire pump suction line and orientation of backflow preventer per coordination with sprinkler contractor\n\n2. Updated \"Fire Pump Room Equipment List\" to include missing information\n\n3. Added note for OS&Y in vertical alignment to coordinate with backflow preventer update\n\nELECTRICAL\n\n\u00b7 E1.10\n\n1. Updated and revised IDF cabinet locations\n\n\u00b7 E1.11 thru E1.16\n\n1. Updated power plan per Composite 1.0\n\n\u00b7 E3.00\n\n1. Coordinated power with Composite 1.0\n\n2. Moved panels to coordinate with modules\n\n\u00b7 E3.10P\n\n1. Updated power per Composite 1.0\n\n\u00b7 E3.11P\n\n1. Updated power per Composite 1.0\n\n\u00b7 E3.12P\n\n1. Updated power per Composite 1.0\n\n\u00b7 E4.01\n\n1. Deleted battery charger panel\n\n2. Revised DB-GEN per RFI\n\n\u00b7 E4.04\n\n1. Updated load calculations\n\n\u00b7 E5.01 thru E5.05\n\n1. Updated panels per Composite 1.0\n\nDLR Group Denver, Colorado o: 720/904-0440 f: 720/932-7561",
+          "pageNum": 1
+        },
+        {
+          "sections": [
+            {
+              "type": "text",
+              "text": "Project Memo / Page 3",
+              "bbox": [
+                0.7718235294117647,
+                0.022990909090909093,
+                0.9570470588235294,
+                0.03965454545454545
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "SPECIFICATIONS",
+              "bbox": [
+                0.23227058823529412,
+                0.05785454545454545,
+                0.35321176470588234,
+                0.07086363636363636
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": ". The following sections were updated in addendum 2 but are being revised back to their original state as issued with the 100%/Permit Set. The addendum 2 revisions for these spec sections should be disregarded.",
+              "bbox": [
+                0.2338235294117647,
+                0.09144545454545455,
+                0.9293411764705882,
+                0.14268181818181816
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. 220000",
+              "bbox": [
+                0.29259999999999997,
+                0.1465,
+                0.37731764705882354,
+                0.15946363636363636
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2. 230000",
+              "bbox": [
+                0.29250588235294117,
+                0.16536363636363635,
+                0.3770823529411765,
+                0.17775454545454547
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "3. 230548",
+              "bbox": [
+                0.2919529411764706,
+                0.1834090909090909,
+                0.3770117647058824,
+                0.196
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "4. 238128",
+              "bbox": [
+                0.29161176470588235,
+                0.20163636363636364,
+                0.3771294117647059,
+                0.21411818181818185
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "5. 260000",
+              "bbox": [
+                0.29196470588235296,
+                0.22014545454545456,
+                0.3769411764705883,
+                0.2328818181818182
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "6. 260519",
+              "bbox": [
+                0.29219999999999996,
+                0.23821818181818183,
+                0.37669411764705885,
+                0.2509363636363636
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "7. 260520",
+              "bbox": [
+                0.2918470588235294,
+                0.25626363636363636,
+                0.3770941176470588,
+                0.2691636363636363
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "8. 260526",
+              "bbox": [
+                0.29163529411764705,
+                0.2747818181818182,
+                0.3771764705882353,
+                0.28797272727272727
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "9. 260534",
+              "bbox": [
+                0.291835294117647,
+                0.29306363636363636,
+                0.3771529411764706,
+                0.3059454545454546
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "10. 260923",
+              "bbox": [
+                0.2923529411764706,
+                0.31115454545454546,
+                0.3770117647058824,
+                0.3239090909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "11. 262200",
+              "bbox": [
+                0.2922235294117647,
+                0.3296545454545454,
+                0.3772470588235294,
+                0.3423727272727273
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "12. 262413",
+              "bbox": [
+                0.29234117647058827,
+                0.34794545454545456,
+                0.3770235294117647,
+                0.3606909090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "13. 262726",
+              "bbox": [
+                0.2923294117647059,
+                0.3659181818181818,
+                0.3774117647058824,
+                0.37885454545454544
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "14. 262816",
+              "bbox": [
+                0.29218823529411764,
+                0.38457272727272723,
+                0.3774588235294118,
+                0.3973272727272727
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "15. 263213",
+              "bbox": [
+                0.2923529411764706,
+                0.40284545454545456,
+                0.3769529411764706,
+                0.41562727272727273
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "16. 264113",
+              "bbox": [
+                0.2923058823529412,
+                0.42129999999999995,
+                0.3770235294117647,
+                0.4343090909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "17. 264313",
+              "bbox": [
+                0.2922941176470588,
+                0.4395636363636364,
+                0.3771294117647059,
+                0.4522909090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "18. 265100",
+              "bbox": [
+                0.29215294117647056,
+                0.4575181818181818,
+                0.3774117647058824,
+                0.4706181818181818
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "A",
+              "bbox": [
+                0.17265882352941175,
+                0.5818181818181819,
+                0.1858235294117647,
+                0.5945636363636363
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Charlie Carroll",
+              "bbox": [
+                0.22285882352941178,
+                0.581,
+                0.3397176470588235,
+                0.5957454545454546
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Name CC",
+              "bbox": [
+                0.13647058823529412,
+                0.6039363636363636,
+                0.18643529411764706,
+                0.6444181818181818
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "DLR Group Denver, Colorado o: 720/904-0440 f: 720/932-7561",
+              "bbox": [
+                0.7339411764705882,
+                0.9392545454545455,
+                0.9430588235294117,
+                0.9772090909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            }
+          ],
+          "text": "Project Memo / Page 3\n\nSPECIFICATIONS\n\n. The following sections were updated in addendum 2 but are being revised back to their original state as issued with the 100%/Permit Set. The addendum 2 revisions for these spec sections should be disregarded.\n\n1. 220000\n\n2. 230000\n\n3. 230548\n\n4. 238128\n\n5. 260000\n\n6. 260519\n\n7. 260520\n\n8. 260526\n\n9. 260534\n\n10. 260923\n\n11. 262200\n\n12. 262413\n\n13. 262726\n\n14. 262816\n\n15. 263213\n\n16. 264113\n\n17. 264313\n\n18. 265100\n\nA\n\nCharlie Carroll\n\nName CC\n\nDLR Group Denver, Colorado o: 720/904-0440 f: 720/932-7561",
+          "pageNum": 2
+        }
+      ],
+      "numPages": 3,
+      "text": "Page 1:\n===\n\nProject Memo\n\nDLRGROUP\n\nDLR Group inc. an Arizona corporation 6225 North 24th Street, Suite 250 Phoenix, AZ 85016\n\nDate\n\nSeptember 20, 2024\n\nTo\n\nRyan Companies\n\nFrom\n\nCharlie Carroll\n\nProject\n\nProject Yellow Jacket\n\nLog No. Subject\n\nAddendum 4\n\nMessage\n\nREVISION ITEMS\n\nARCHITECTURAL\n\n\u00b7 A1.1\n\n1. Add chain link cages per Composite 1.0\n\n2. Relocated MDPs per coordination from Amazon\n\n3. Relocated stairs at the PID platform per Amazon direction\n\n\u00b7 A1.1A\n\n1. Add chain link cages per Composite 1.0\n\n2. Relocated an MDP per Amazon direction\n\n3. Relocated stairs at the PID platform per Amazon direction\n\n\u00b7 A1.1B\n\n1. Relocated an MDP per Amazon direction\n\n\u00b7 A1.1C\n\n1. Add chain link cages per Composite 1.0\n\n\u00b7 A1.1D\n\n1. Add chain link cages per Composite 1.0\n\n2. Relocated an MDP per Amazon direction\n\n3. Relocated stairs and the VRC at the PID platform per Amazon direction\n\n\u00b7 A1.1F\n\n1. Add chain link cages per Composite 1.0\n\n\u00b7 A2.09\n\n1. Revised PID Platform stairs and VRC per Amazon direction\n\n\u00b7 A7.3\n\n1. Revised stair plans and sections per Amazon direction\n\n\u00b7 A8.2B\n\n1. Added chain link gate information\n\n\nPage 2:\n===\n\nProject Memo / Page 2\n\n\u00b7 10.1\n\n1. Updated PID Platform elevations per new stair and VRC configuration\n\nFIRE PROTECTION\n\n\u00b7 FP401\n\n1. Reconfigured fire pump suction line and orientation of backflow preventer per coordination with sprinkler contractor\n\n2. Updated \"Fire Pump Room Equipment List\" to include missing information\n\n3. Added note for OS&Y in vertical alignment to coordinate with backflow preventer update\n\nELECTRICAL\n\n\u00b7 E1.10\n\n1. Updated and revised IDF cabinet locations\n\n\u00b7 E1.11 thru E1.16\n\n1. Updated power plan per Composite 1.0\n\n\u00b7 E3.00\n\n1. Coordinated power with Composite 1.0\n\n2. Moved panels to coordinate with modules\n\n\u00b7 E3.10P\n\n1. Updated power per Composite 1.0\n\n\u00b7 E3.11P\n\n1. Updated power per Composite 1.0\n\n\u00b7 E3.12P\n\n1. Updated power per Composite 1.0\n\n\u00b7 E4.01\n\n1. Deleted battery charger panel\n\n2. Revised DB-GEN per RFI\n\n\u00b7 E4.04\n\n1. Updated load calculations\n\n\u00b7 E5.01 thru E5.05\n\n1. Updated panels per Composite 1.0\n\nDLR Group Denver, Colorado o: 720/904-0440 f: 720/932-7561\n\n\nPage 3:\n===\n\nProject Memo / Page 3\n\nSPECIFICATIONS\n\n. The following sections were updated in addendum 2 but are being revised back to their original state as issued with the 100%/Permit Set. The addendum 2 revisions for these spec sections should be disregarded.\n\n1. 220000\n\n2. 230000\n\n3. 230548\n\n4. 238128\n\n5. 260000\n\n6. 260519\n\n7. 260520\n\n8. 260526\n\n9. 260534\n\n10. 260923\n\n11. 262200\n\n12. 262413\n\n13. 262726\n\n14. 262816\n\n15. 263213\n\n16. 264113\n\n17. 264313\n\n18. 265100\n\nA\n\nCharlie Carroll\n\nName CC\n\nDLR Group Denver, Colorado o: 720/904-0440 f: 720/932-7561",
+      "language": "en"
+    },
+    "numPages": 3,
+    "language": "en",
+    "metadata": null,
+    "status": "completed",
+    "timestamp": "2025-08-07T17:20:28.555000Z"
+  }
+}

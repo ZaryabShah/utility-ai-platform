@@ -1,0 +1,29 @@
+extraction_method,from_structure_id,to_structure_id,rim_elev_ft,invert_elev_ft,pipe_diameter_in,pipe_material,pipe_length_ft,structure_type,source_line,source_filename,extraction_timestamp
+pattern,,,150.0,,1.0,,150.0,,GRAPHIC SCALE (IN FEET) 1 in. = 150 ft.,240422_Project Yellow Jacket_Development Plans 8-18.pdf,2025-08-07T21:23:51.376297
+pattern,R4,,4.0,,,,4.0,,R4' (TYP.),240422_Project Yellow Jacket_Development Plans 8-18.pdf,2025-08-07T21:23:51.376297
+pattern,R10,,10.0,,,,10.0,,R10' (TYP.),240422_Project Yellow Jacket_Development Plans 8-18.pdf,2025-08-07T21:23:51.376297
+pattern,C8,,,,6.0,,,,"7. PROPOSED 6"" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2.",240422_Project Yellow Jacket_Development Plans 8-18.pdf,2025-08-07T21:23:51.376297
+pattern,C5,,20.0,,,,20.0,,"33. 20' WIDE EMERGENCY SPILLWAY FOR DRY DETENTION BASIN. REFER TO BMP DETAILS, SHEET C5.11.",240422_Project Yellow Jacket_Development Plans 8-18.pdf,2025-08-07T21:23:51.376297
+pattern,R3,,3.0,,,,3.0,,+ R3' (TYP.),240422_Project Yellow Jacket_Development Plans 8-18.pdf,2025-08-07T21:23:51.376297
+pattern,,,4.0,,2.0,,4.0,,"4' CL 2"" mesh",7. Civil Drawings - FOR REF ONLY pg. 8-18.pdf,2025-08-07T21:27:49.896733
+pattern,R4,,4.0,,,,4.0,,R4' (TYP.),7. Civil Drawings - FOR REF ONLY pg. 8-18.pdf,2025-08-07T21:27:49.896733
+pattern,C8,,,,6.0,,,,"7. PROPOSED 6"" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2.",7. Civil Drawings - FOR REF ONLY pg. 8-18.pdf,2025-08-07T21:27:49.896733
+pattern,C5,,20.0,,,,20.0,,"33. 20' WIDE EMERGENCY SPILLWAY FOR DRY DETENTION BASIN. REFER TO BMP DETAILS, SHEET C5.11.",7. Civil Drawings - FOR REF ONLY pg. 8-18.pdf,2025-08-07T21:27:49.896733
+pattern,C8,C8,,,6.0,,,,"7. PROPOSED 6"" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2. & PROPOSED HEAVY DUTY ASPHALT PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",7. Civil Drawings - FOR REF ONLY pg. 8-18.pdf,2025-08-07T21:27:49.896733
+pattern,R3,,3.0,,,,3.0,,R3' (TYP.),7. Civil Drawings - FOR REF ONLY pg. 8-18.pdf,2025-08-07T21:27:49.896733
+pattern,XOV8138,,77.2,120.0,8.0,,77.2,,"8"" chainlink fence 220° 2 XOV8138 .09 X DRY COLLECTION BASIN . 25 SETBACK 25° temporary easement @ X 77.2' X D D D D D D D D D D D D D D G G 3 G G G G G G G Fremont Pike (US 20/23) (120') X X X X X X X X X",AMZ TOL3 (Civil Set DL 9.13.24) 8 - DC.pdf,2025-08-07T21:31:37.586892
+pattern,XOV8138,,772.0,8.0,8.0,,772.0,,"220° DRY COLLECTION BASIN 25 SETBACK 25 temporary easement 772' 8' Double Drive 0 XOV8138 .09 8"" chainlink fence 3 X X D D D D D D D D D D D D G D D G G G G G G G G Fremont Pike (US 20/23) (120') X X X X X X X X X X",C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,,,4.0,,2.0,,4.0,,"4' Chain Link Fence - 2"" BVC Mesh",C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,R10,,10.0,,,,10.0,,R10' (TYP.),C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,R4,,4.0,,,,4.0,,R4' (TYP.),C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,C5,,20.0,,,,20.0,,"33. 20' WIDE EMERGENCY SPILLWAY FOR DRY DETENTION BASIN. REFER TO BMP DETAILS, SHEET C5.12.",C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,C8,,,,6.0,,,,"7. PROPOSED 6"" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2.",C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,R3,,3.0,,,,3.0,,R3' (TYP.),C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,C8,C8,,,6.0,,,,"7. PROPOSED 6"" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2. 8. PROPOSED HEAVY DUTY ASPHALT PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,W1,,,,6.0,,,,"-6""X 6"" W1.2xW1.2 WWF",C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,H-2309Y,,6.0,,,,6.0,,"BASIS OF DESIGN: ULINE H-2309Y PARKING STOPS OR APPROVED EQUAL, 6' , PLASTIC, YELLOW. SEE DESIGN CRITERIA FOR ADDITIONAL INFORMATION",C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,W1,W1,,,4.0,CONCRETE,,,"CONCRETE SHALL BE 4,000 PSI, PARENTRAINMENT WITH MAX AGGREGATE SIZE SP mi Bol- W1.4 x W1.4 WWF o/ 4"" GRANULAR FILL",C4.0 ADD 3 Project Yellow chuck.pdf,2025-08-07T21:35:00.997636
+pattern,R3,,3.0,,,,3.0,,R3' (TYP.),AMZ TOL3 (Civil Set DL 9.13.24) 14.pdf,2025-08-07T21:37:17.672426
+pattern,C8,,,,6.0,,,,"7. PROPOSED 6"" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2.",AMZ TOL3 (Civil Set DL 9.13.24) 14.pdf,2025-08-07T21:37:17.672426
+pattern,C5,,20.0,,,,20.0,,"33. 20' WIDE EMERGENCY SPILLWAY FOR DRY DETENTION BASIN. REFER TO BMP DETAILS, SHEET C5.12.",AMZ TOL3 (Civil Set DL 9.13.24) 14.pdf,2025-08-07T21:37:17.672426
+pattern,,,1000.0,,1.0,,1000.0,,"KEY MAP SCALE: 1""=1000'",AMZ TOL3 (Civil Set DL 9.13.24) 14.pdf,2025-08-07T21:37:17.672426

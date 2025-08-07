@@ -1,0 +1,36 @@
+# Underground Utilities Estimation - Field Schema
+# These are the core fields for civil engineering plan extraction
+labels:
+  - from_structure_id
+  - from_structure_type
+  - casting
+  - location
+  - rim_elev_ft
+  - outlet_invert_elev_ft
+  - sump_elev_ft
+  - to_structure_id
+  - inlet_invert_elev_ft
+  - pipe_diameter_in
+  - pipe_type
+  - run_length_ft
+  - length_in_pvmt_ft
+  - length_in_road_ft
+  - pipe_material
+
+# Field descriptions for reference
+field_descriptions:
+  from_structure_id: "Upstream structure identifier"
+  from_structure_type: "Type of upstream structure (e.g., MH, CB, etc.)"
+  casting: "Frame and cover specification"
+  location: "Geographic or plan location"
+  rim_elev_ft: "Rim elevation in feet"
+  outlet_invert_elev_ft: "Outlet invert elevation"
+  sump_elev_ft: "Sump depth elevation"
+  to_structure_id: "Downstream structure identifier"
+  inlet_invert_elev_ft: "Inlet invert elevation"
+  pipe_diameter_in: "Pipe diameter in inches"
+  pipe_type: "Pipe classification"
+  run_length_ft: "Pipe run length in feet"
+  length_in_pvmt_ft: "Length within pavement"
+  length_in_road_ft: "Length within roadway"
+  pipe_material: "Pipe material specification"

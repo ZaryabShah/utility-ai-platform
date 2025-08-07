@@ -1,0 +1,83 @@
+{
+  "filename": "240422_Project Yellow Jacket_Development Plans 8-18.pdf",
+  "doc_id": "VvuNxmQa",
+  "timestamp": "2025-08-07T21:23:51.376297",
+  "ai_extraction_count": 0,
+  "pattern_extraction_count": 50,
+  "total_records": 6,
+  "data": [
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": null,
+      "to_structure_id": null,
+      "rim_elev_ft": 150.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": 1.0,
+      "pipe_material": null,
+      "pipe_length_ft": 150.0,
+      "structure_type": null,
+      "source_line": "GRAPHIC SCALE (IN FEET) 1 in. = 150 ft."
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "R4",
+      "to_structure_id": null,
+      "rim_elev_ft": 4.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 4.0,
+      "structure_type": null,
+      "source_line": "R4' (TYP.)"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "R10",
+      "to_structure_id": null,
+      "rim_elev_ft": 10.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 10.0,
+      "structure_type": null,
+      "source_line": "R10' (TYP.)"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "C8",
+      "to_structure_id": null,
+      "rim_elev_ft": null,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": 6.0,
+      "pipe_material": null,
+      "pipe_length_ft": null,
+      "structure_type": null,
+      "source_line": "7. PROPOSED 6\" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2."
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "C5",
+      "to_structure_id": null,
+      "rim_elev_ft": 20.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 20.0,
+      "structure_type": null,
+      "source_line": "33. 20' WIDE EMERGENCY SPILLWAY FOR DRY DETENTION BASIN. REFER TO BMP DETAILS, SHEET C5.11."
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "R3",
+      "to_structure_id": null,
+      "rim_elev_ft": 3.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 3.0,
+      "structure_type": null,
+      "source_line": "+ R3' (TYP.)"
+    }
+  ],
+  "source_text_length": 53673
+}

@@ -1,0 +1,512 @@
+{
+  "doc_id": "Hcio1828",
+  "response_type": "document",
+  "timestamp": "2025-08-07T22:21:22.276802",
+  "response_data": {
+    "documentId": "Hcio1828",
+    "dataset": "robust_utility_extraction",
+    "classified": false,
+    "classIds": null,
+    "filename": "A1.1C-FIRST-FLOOR-PLAN---AREA-C",
+    "fileType": "pdf",
+    "fileExtension": "pdf",
+    "result": {
+      "pages": [
+        {
+          "sections": [
+            {
+              "type": "text",
+              "text": "9/23/2024 11:22:16 AM",
+              "bbox": [
+                0.01828095238095238,
+                0.9363966666666667,
+                0.023073809523809524,
+                0.9833766666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\n-AREA B\nMATCHLINE -AKTA C\n15\nH\u00e2\n14\n17\n18\n19\n19.9\n20\n60'-0\"\n60'-0\"\n60'-0\"\n80'-0\"\n30-9\u00ba\n52 -1 3/8\"\n4 5/8\"\n-6\"\n-6\n-4\u00aa\n3 -\n3\n5' - 0\"\n9-0\n11-2\n3\n-\n9-0\"\n9-0\n11-2 3\n4\n9-0\"\n14-0\"\nB-6\n10-8\n2-61/4\n3C\na\nI\nU\nL\nA\nA\nI\nE\n2\n10\n3\n3\n\u00ae\n23\n(23)\n1\n3\n114\n113\nIF\n111\n110\nL\n100\n108\n107\nL\n105\n104\n2\n102\n101\nA\n1\nA\nA\nE03\nY\nEU41\n41 FE\nROOF ACCESS\n1\nL\n5D\nFIRE\nSTAIR 601\n13 -2\"\nFE\n1\n2\n10\n2\nA\n10\n.\n.\n10\n2\n+\nCENTER\n23\n2\n6\n10\n604\nTRULICKER'S\n904\n<\nC\nELECTRIC\nFIRE PUMP ROOM 602\n3A\n803\n12 14\n00\nA\n43 -8\nT\n0\n4\n33\n5-07\n13 -4\"\nFE\n- 4\"\nB\n\u00a3\nDE\n1\nB\nA\nA\nA1\nFEL\n111\n1\nB.1\nSTORAGE\nA\n112\n.\nINTERVIEW\n17 -238\"\nROOM\n13 -\n1'-23/8.\n8.12\n5- 0\n104\n4-4\u00aa\n8 15\nRECRUITING OPEN AREA 102\nWAREHOUSE 001\nWOMEN'S TOILET\n9\nMEN'S TOLET\n108 FEC\nA\nHER\n2T = 11/4\"\n6-55\n42-0\n.\nA\n109\nCOFFEE EAK ROOM\nRECRUITING\nVESTIBULE 101\nE\n54\n1\n108\n105\n804\nD\nTYP.\nHR OPEN\nC\nGM OFFICE\nONFERENCE\nC\n16-0TY\n115\nP\n1\n120\n121\n9\n- 0\"\n6 -8\nChain Link Fence &ft\nHO\nHO OTEL OFFICE\nC.1\n20' - 3 1/2\"\n15-0\"\nDescription\nQuantity\nUnit\n23-2 58'\n116\nEN\nHR MOR\nCLP OFFICE OFDICE\n12\n5' - 0\"\n7'6\"X6' GAL SLIDE GATE 1\nCount\nOBSERVATION M\n118\n119\nTOM TIE CAGE\n10-0\n8' Corner Post\n12\nCount\nOPEN OFFICE\n-\nFEC\n-\n8' GALV CL\n186.83\nOBSERVATION 114\nft\n15/8\n125\nADD00\nPLY ROC\n128\n8'X10'4\" GAL SLIDE GATE\n2\nCount\nWELLNESS CENTER\n125\n13\n9-0\n43' -\nCUTTING ZONE 1578\n3 - 10\n'-556\"\nA\n\u00ae\n124\nY\n?\nIDF\nCONFEREN\n123\nR\n122\nDA\nUNISEX TOL\nTORAG\nCORRIDOR 134\n- 0\"\nD\nOFE\n1582\n130\n129\nSTORAGE 8045\n136\n4\"\nD\n3 REBUILD ZONE 1582\nFIRST DAY TRAINING\nUTILITY\n131\n.\n15 -01/8\n9\n1324\nU\n0.1\n44\n35-858\"\nIN\nL\nHALLWAY IL\n133\nB\n.\ne\nCAREER\n0\" 5' - 0\"\n12 -5 7/8\"\n2.3\nL\n-\nCLASSROOM\n135\n- 0\"\n0.6\nFEC\n8\nT-3 12\n5.0\n8\n-\n=\nA\n1328\nW\nFEC\nV\nFEC\n-1\n2\n3-6\n13-10\n18-4\n0.8\nA\n-\n-\n-\n-\nD.9\nFE\nE\nB\n11' -3\"\nE\n5\n-\n1\n8001\nE3\n9-0\nA\n0\"\n7' -\n- 4\"\n-\n4.5\n9'\nes\n2\n5' -\nSECURITY\nES\n- 8\"\n7' -\n- 0\"\non\n139\nE.7\nMATCHUNE - AREA\n1\n5' 0\"\n12 -912\nI\nE.B\n- 0\"\n0\"\n\u00c9S\nDa\nF\n7\nSECURITY 140\n004\n- 0\"\nI\n11' - 3\"\n0-10 1/2\nFE\n11\n-\n10'\nMATCHLINE - AREA C\nF\nMATCHLINE - AREA F\nMATCHLINE - AREA\nIT-10 12\n0\"\nHOVEL CLOSET\nMATCHLINE - AREA F\n7-734\n12\nS\n3' -\nA\nF.2\nFEC\n138\nF.5\n1\n=\n=\nF3\n1' -\nFA\n14\n15\n18\n17\n18\n19\n19:5\n20\nFLOOR PLAN - AREA C\nSCALE: 1/16\" = 1-0\"",
+              "bbox": [
+                0.09530476190476189,
+                0.054610000000000006,
+                0.8346095238095239,
+                0.9637766666666666
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "FLOOR PLAN GENERAL NOTES",
+              "bbox": [
+                0.8496928571428571,
+                0.02033333333333333,
+                0.9307952380952381,
+                0.030633333333333335
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "BOLLARDS ARE TO BE LOCATED WITHIN THE BUILDING TO PROTECT EXPOSED ELECTRICAL PANELS, ELECTRICAL GEAR, ROOF DRAIN PIPING, WATER LINES, GAS LINES, AND SPRINKLER TEST DRAIN PIPING WITHIN & OF WAREHOUSE FLOOR - PROVIDE REPLACEABLE YELLOW SLEEVE.",
+              "bbox": [
+                0.8506714285714286,
+                0.040716666666666665,
+                0.9406523809523809,
+                0.06769333333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROVIDE BARRIER RAILS TO PROTECT EXPOSED FIRE",
+              "bbox": [
+                0.8517404761904762,
+                0.06669666666666667,
+                0.9274285714285714,
+                0.07349666666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "MOUTURE PROVIDE 2X2 X48 HIGH STAINLESS STEEL CORNER GUARDS (TYP.) AT ALL EXPOSED CORNERS, ADHERE TO WALL (NO",
+              "bbox": [
+                0.8516761904761905,
+                0.07449666666666667,
+                0.9373309523809523,
+                0.08876333333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROVIDE SEALANT WHERE EDGE OF TILE ABUTS GYPSUM. REFER TO DE [AL 21 A8 28 FOR TYPICAL METAL STUD OPENINGS AND CONTROL JOINT DETAILS. GC TO DETERMINE CONSTRUCTION METHODOLOGY.",
+              "bbox": [
+                0.85205,
+                0.09050666666666667,
+                0.9371880952380952,
+                0.11159000000000001
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "REFER TO DE [AL 21 A11.1 FOR TYPICAL CHAIR RAIL DETAIL. . REFER TO SHEET A115 FOR FLOOR TRANSITION DETAILS 44, 48,4C, SA, 58, AND 5C.",
+              "bbox": [
+                0.8512738095238096,
+                0.11080666666666666,
+                0.9364595238095238,
+                0.12803666666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "SHEET NOTES",
+              "bbox": [
+                0.8500785714285714,
+                0.4238933333333333,
+                0.8964785714285713,
+                0.43320333333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1 INSULATED HOLLOW METAL SERVICE DOOR AND FRAME. PAINT SEMI-GLOSS. GROUT FRAME SOLID AT CONCRETE OPENINGS. PAINT INTERIOR SIDE SAFETY RED PT-7. INSULATED MANLIAL OVERHEAD SECTIONAL DOCK DOOR & DOCK LEVELER EQUIPMENT, WHERE SCHEDULED. LINE OF PID PLATFORM ABOVE 2",
+              "bbox": [
+                0.8508738095238095,
+                0.43825333333333333,
+                0.9412071428571429,
+                0.47152
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PID PLATFORM STAIR 5 8' DIA, CONCRETE-FILLED GALVANIZED STEEL BOLLARDS. PROVIDE REPLACEABLE YELLOW SLEEVE. (TYP.) (SEE DETAILS ON SHEET A7.2)",
+              "bbox": [
+                0.8510880952380953,
+                0.47037999999999996,
+                0.9396166666666668,
+                0.4943933333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "6 INSULATED MOTORIZED OVERHEAD SECTIONAL DOOR. SEE DOOR AND FRAME SCHEDULE. BOA Y EN A LONG CONCRETE-FILLED GALVANIZED STEEL O DIA. XIU AT CONECTOR AND TRANSFORMERS P REPLACEABLE YELLOW SLEEVE. (TYP.) SEE 40/5D DETAILS FOR 8",
+              "bbox": [
+                0.8507214285714285,
+                0.4929733333333333,
+                0.935304761904762,
+                0.5249833333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ROOF LADDER WITH ROOF HATCH ABOVE - SEE ME FOR DETAILS",
+              "bbox": [
+                0.8512547619047618,
+                0.52576,
+                0.9322285714285714,
+                0.5360133333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "10 HOSE VALVE CONNECTION -MAINTAIN 12\" CLEARANCE AT LATCH SIDE OF DOORS - REFER TO FIRE PROTECTION DRAWINGS DOMEINTAIN 12\" CLEARANCE AT LATCH SIDE OF DOORS - SEE DETAIL 2EJAD.6 - REFER TO FIRE PROTECTION DRAWINGS",
+              "bbox": [
+                0.8509880952380953,
+                0.5362066666666667,
+                0.9419976190476189,
+                0.5635633333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "12 ROOF DRAIN AND OVERFLOW DRAIN, CENTER BETWEEN LIRA ERRONOTOVER FLOW DRAIN THROUGH PRE-CAST. OPENINGS. EXTEND OVER PROVIDE LAMBS TONGUE",
+              "bbox": [
+                0.8509690476190476,
+                0.5640666666666667,
+                0.937802380952381,
+                0.5793833333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "13 PROVIDE 15MIL VAPOR RETARDER UNDER ALL SLABS ON GROUND",
+              "bbox": [
+                0.8512357142857143,
+                0.5799733333333333,
+                0.9334761904761906,
+                0.5898833333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "14 INTERIOR COLUMN - SHALL BE PAINTED SAFETY YELLOW UP TO 12' A.F.F. AND NO PAINT SHALL BE APPLIED FROM 12' A.F.F. TO COLUMNS WITH FIRE EXTINGUISHERS, PAINT 24\" LONG SAFETY LERDEARE VE BODFOR MEZZANINE STRUCTURE. ON RED BAND, ALL 4 SIDES OF COLUMN, 20 A.F.F. PAINT ENTIRE COLUMN SAFETY RED WHERE FIRE HOSE CONNECTIONS ARE LOCATED. REFER TO SHEET 14.02",
+              "bbox": [
+                0.8506595238095238,
+                0.5906166666666667,
+                0.9409000000000001,
+                0.6274966666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "19 HOSE BB - REFER TO PLUMBING DRAWINGS. PROVIDE FROST PROOF BILLCOCK AT EXTERIOR WALLS. ENSURE ALL PIPING IS WITHIN THE THERMAL ENVELOPE. PRE-ENGINEERED EXT. BREAK ROOM",
+              "bbox": [
+                0.8509738095238096,
+                0.6274766666666667,
+                0.9393119047619047,
+                0.6500933333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "WIRE MESH PARTITION TO GO UP TO WITHIN AN INCH OR TWO OF THE BOTTOM OF THE CANOPY. INSTALL PER MANUFACTURER'S RECOMMENDATIONS. KNOKKE BOX MOUNTED &' ABOVE FINISHED FLOOR.",
+              "bbox": [
+                0.8566452380952382,
+                0.6496166666666666,
+                0.9383142857142857,
+                0.6716133333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "23 COMPACTOR CONTRACTOR TO COORDINATION WALL OPENING WITH OWNER. PROVIDE DOCK BUMPERS AT COMPACTOR.",
+              "bbox": [
+                0.8501642857142857,
+                0.6666533333333333,
+                0.9411714285714287,
+                0.6862533333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "25",
+              "bbox": [
+                0.8504999999999999,
+                0.6825399999999999,
+                0.8534142857142858,
+                0.6883
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "VAC - REFER TO ELECTRICAL FOR POWER REQUIREMENTS",
+              "bbox": [
+                0.855897619047619,
+                0.6814766666666666,
+                0.9342357142857144,
+                0.6883366666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "MOF SDEN - REFER TO ELECTRICAL DRAWINGS STEEL BARRIER. REFER TO FIRE RISER BARRIERS 26/0 6. BARREN, FRENTE WITH ELECTRICAL",
+              "bbox": [
+                0.8561738095238095,
+                0.6876266666666666,
+                0.9333880952380953,
+                0.7056766666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "COORDINATE CLEARANCE MERING PAD - REFER TO STRUCTURAL DETAIL 9/84.5. COORDINATE WITH PANEL PROVIDER. AUGER. CONTRACTOR TO COORDINATE WALL OPENING WITH OWNER",
+              "bbox": [
+                0.856597619047619,
+                0.7019733333333333,
+                0.9416428571428571,
+                0.7318233333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2 DOWNSPOUT",
+              "bbox": [
+                0.8504714285714285,
+                0.7290933333333334,
+                0.8747476190476191,
+                0.7366133333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "EMERGENCY SHOWER - REFER TO PLUMBING REMOTE HOSE VALVE CONNECTION AT INTERIOR COLUMN - COORDINATE VE IHREPROTECTIONAND LAYOUT - REFER TO FIRE PROTECTION DRAWINGS SURFACE MOUNTED STEEL BOLLARD. LOCATE SUCH THAT ANCHORS ARE MIN 3' FROM ALL CONCRETE JOINTS - SEE DETAIL 4AA11.1",
+              "bbox": [
+                0.8559642857142856,
+                0.7336533333333333,
+                0.9395119047619047,
+                0.7734366666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "TRANSFORMER - COORDINATE WITH OWNER",
+              "bbox": [
+                0.8570809523809524,
+                0.7718733333333333,
+                0.916042857142857,
+                0.7784933333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "40 GENERATOR - REFER TO ELECTRICAL",
+              "bbox": [
+                0.8507119047619047,
+                0.7789033333333334,
+                0.9071166666666667,
+                0.7852433333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROJECT YELLOW JACKET",
+              "bbox": [
+                0.9484357142857143,
+                0.5631966666666667,
+                0.959,
+                0.7515066666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "AMBROSE PROPERTY GROUP 9240 FREMONT PIICE PERRYSBURG, OH 43551",
+              "bbox": [
+                0.9604642857142858,
+                0.6538433333333333,
+                0.984157142857143,
+                0.75217
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PERMIT SET 05.13.2024 REVISIONS",
+              "bbox": [
+                0.9465285714285714,
+                0.78801,
+                0.9752095238095237,
+                0.8101166666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ACCNOOIT 6/26/2004 ACIDIWOCHE 894/2004 ACIDWO04 9/16/2004",
+              "bbox": [
+                0.945604761904762,
+                0.81078,
+                0.9666285714285714,
+                0.82629
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "25-24107-00",
+              "bbox": [
+                0.9476309523809524,
+                0.8897466666666667,
+                0.9667857142857142,
+                0.8955166666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "FIRST FLOOR PLAN - AREA C",
+              "bbox": [
+                0.9480309523809525,
+                0.9028033333333333,
+                0.9823761904761904,
+                0.9176133333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "A1.1C",
+              "bbox": [
+                0.9519500000000001,
+                0.9503166666666666,
+                0.9842738095238095,
+                0.9655633333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "KEY PLAN",
+              "bbox": [
+                0.881402380952381,
+                0.8325066666666667,
+                0.9167404761904763,
+                0.8438566666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image",
+              "bbox": [
+                0.8602119047619048,
+                0.8788699999999999,
+                0.9370119047619048,
+                0.9493966666666667
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "DLRGROUP",
+              "bbox": [
+                0.9513952380952381,
+                0.01933,
+                0.9664095238095237,
+                0.17460333333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "O DR Group",
+              "bbox": [
+                0.9669214285714286,
+                0.14218666666666666,
+                0.9714023809523811,
+                0.17152333333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "N",
+              "bbox": [
+                0.0842904761904762,
+                0.9511833333333333,
+                0.08654761904761904,
+                0.95323
+              ],
+              "header": "paragraph",
+              "tableList": null
+            }
+          ],
+          "text": "9/23/2024 11:22:16 AM\n\nImage With Text:\n-AREA B\nMATCHLINE -AKTA C\n15\nH\u00e2\n14\n17\n18\n19\n19.9\n20\n60'-0\"\n60'-0\"\n60'-0\"\n80'-0\"\n30-9\u00ba\n52 -1 3/8\"\n4 5/8\"\n-6\"\n-6\n-4\u00aa\n3 -\n3\n5' - 0\"\n9-0\n11-2\n3\n-\n9-0\"\n9-0\n11-2 3\n4\n9-0\"\n14-0\"\nB-6\n10-8\n2-61/4\n3C\na\nI\nU\nL\nA\nA\nI\nE\n2\n10\n3\n3\n\u00ae\n23\n(23)\n1\n3\n114\n113\nIF\n111\n110\nL\n100\n108\n107\nL\n105\n104\n2\n102\n101\nA\n1\nA\nA\nE03\nY\nEU41\n41 FE\nROOF ACCESS\n1\nL\n5D\nFIRE\nSTAIR 601\n13 -2\"\nFE\n1\n2\n10\n2\nA\n10\n.\n.\n10\n2\n+\nCENTER\n23\n2\n6\n10\n604\nTRULICKER'S\n904\n<\nC\nELECTRIC\nFIRE PUMP ROOM 602\n3A\n803\n12 14\n00\nA\n43 -8\nT\n0\n4\n33\n5-07\n13 -4\"\nFE\n- 4\"\nB\n\u00a3\nDE\n1\nB\nA\nA\nA1\nFEL\n111\n1\nB.1\nSTORAGE\nA\n112\n.\nINTERVIEW\n17 -238\"\nROOM\n13 -\n1'-23/8.\n8.12\n5- 0\n104\n4-4\u00aa\n8 15\nRECRUITING OPEN AREA 102\nWAREHOUSE 001\nWOMEN'S TOILET\n9\nMEN'S TOLET\n108 FEC\nA\nHER\n2T = 11/4\"\n6-55\n42-0\n.\nA\n109\nCOFFEE EAK ROOM\nRECRUITING\nVESTIBULE 101\nE\n54\n1\n108\n105\n804\nD\nTYP.\nHR OPEN\nC\nGM OFFICE\nONFERENCE\nC\n16-0TY\n115\nP\n1\n120\n121\n9\n- 0\"\n6 -8\nChain Link Fence &ft\nHO\nHO OTEL OFFICE\nC.1\n20' - 3 1/2\"\n15-0\"\nDescription\nQuantity\nUnit\n23-2 58'\n116\nEN\nHR MOR\nCLP OFFICE OFDICE\n12\n5' - 0\"\n7'6\"X6' GAL SLIDE GATE 1\nCount\nOBSERVATION M\n118\n119\nTOM TIE CAGE\n10-0\n8' Corner Post\n12\nCount\nOPEN OFFICE\n-\nFEC\n-\n8' GALV CL\n186.83\nOBSERVATION 114\nft\n15/8\n125\nADD00\nPLY ROC\n128\n8'X10'4\" GAL SLIDE GATE\n2\nCount\nWELLNESS CENTER\n125\n13\n9-0\n43' -\nCUTTING ZONE 1578\n3 - 10\n'-556\"\nA\n\u00ae\n124\nY\n?\nIDF\nCONFEREN\n123\nR\n122\nDA\nUNISEX TOL\nTORAG\nCORRIDOR 134\n- 0\"\nD\nOFE\n1582\n130\n129\nSTORAGE 8045\n136\n4\"\nD\n3 REBUILD ZONE 1582\nFIRST DAY TRAINING\nUTILITY\n131\n.\n15 -01/8\n9\n1324\nU\n0.1\n44\n35-858\"\nIN\nL\nHALLWAY IL\n133\nB\n.\ne\nCAREER\n0\" 5' - 0\"\n12 -5 7/8\"\n2.3\nL\n-\nCLASSROOM\n135\n- 0\"\n0.6\nFEC\n8\nT-3 12\n5.0\n8\n-\n=\nA\n1328\nW\nFEC\nV\nFEC\n-1\n2\n3-6\n13-10\n18-4\n0.8\nA\n-\n-\n-\n-\nD.9\nFE\nE\nB\n11' -3\"\nE\n5\n-\n1\n8001\nE3\n9-0\nA\n0\"\n7' -\n- 4\"\n-\n4.5\n9'\nes\n2\n5' -\nSECURITY\nES\n- 8\"\n7' -\n- 0\"\non\n139\nE.7\nMATCHUNE - AREA\n1\n5' 0\"\n12 -912\nI\nE.B\n- 0\"\n0\"\n\u00c9S\nDa\nF\n7\nSECURITY 140\n004\n- 0\"\nI\n11' - 3\"\n0-10 1/2\nFE\n11\n-\n10'\nMATCHLINE - AREA C\nF\nMATCHLINE - AREA F\nMATCHLINE - AREA\nIT-10 12\n0\"\nHOVEL CLOSET\nMATCHLINE - AREA F\n7-734\n12\nS\n3' -\nA\nF.2\nFEC\n138\nF.5\n1\n=\n=\nF3\n1' -\nFA\n14\n15\n18\n17\n18\n19\n19:5\n20\nFLOOR PLAN - AREA C\nSCALE: 1/16\" = 1-0\"\n\nFLOOR PLAN GENERAL NOTES\n\nBOLLARDS ARE TO BE LOCATED WITHIN THE BUILDING TO PROTECT EXPOSED ELECTRICAL PANELS, ELECTRICAL GEAR, ROOF DRAIN PIPING, WATER LINES, GAS LINES, AND SPRINKLER TEST DRAIN PIPING WITHIN & OF WAREHOUSE FLOOR - PROVIDE REPLACEABLE YELLOW SLEEVE.\n\nPROVIDE BARRIER RAILS TO PROTECT EXPOSED FIRE\n\nMOUTURE PROVIDE 2X2 X48 HIGH STAINLESS STEEL CORNER GUARDS (TYP.) AT ALL EXPOSED CORNERS, ADHERE TO WALL (NO\n\nPROVIDE SEALANT WHERE EDGE OF TILE ABUTS GYPSUM. REFER TO DE [AL 21 A8 28 FOR TYPICAL METAL STUD OPENINGS AND CONTROL JOINT DETAILS. GC TO DETERMINE CONSTRUCTION METHODOLOGY.\n\nREFER TO DE [AL 21 A11.1 FOR TYPICAL CHAIR RAIL DETAIL. . REFER TO SHEET A115 FOR FLOOR TRANSITION DETAILS 44, 48,4C, SA, 58, AND 5C.\n\nSHEET NOTES\n\n1 INSULATED HOLLOW METAL SERVICE DOOR AND FRAME. PAINT SEMI-GLOSS. GROUT FRAME SOLID AT CONCRETE OPENINGS. PAINT INTERIOR SIDE SAFETY RED PT-7. INSULATED MANLIAL OVERHEAD SECTIONAL DOCK DOOR & DOCK LEVELER EQUIPMENT, WHERE SCHEDULED. LINE OF PID PLATFORM ABOVE 2\n\nPID PLATFORM STAIR 5 8' DIA, CONCRETE-FILLED GALVANIZED STEEL BOLLARDS. PROVIDE REPLACEABLE YELLOW SLEEVE. (TYP.) (SEE DETAILS ON SHEET A7.2)\n\n6 INSULATED MOTORIZED OVERHEAD SECTIONAL DOOR. SEE DOOR AND FRAME SCHEDULE. BOA Y EN A LONG CONCRETE-FILLED GALVANIZED STEEL O DIA. XIU AT CONECTOR AND TRANSFORMERS P REPLACEABLE YELLOW SLEEVE. (TYP.) SEE 40/5D DETAILS FOR 8\n\nROOF LADDER WITH ROOF HATCH ABOVE - SEE ME FOR DETAILS\n\n10 HOSE VALVE CONNECTION -MAINTAIN 12\" CLEARANCE AT LATCH SIDE OF DOORS - REFER TO FIRE PROTECTION DRAWINGS DOMEINTAIN 12\" CLEARANCE AT LATCH SIDE OF DOORS - SEE DETAIL 2EJAD.6 - REFER TO FIRE PROTECTION DRAWINGS\n\n12 ROOF DRAIN AND OVERFLOW DRAIN, CENTER BETWEEN LIRA ERRONOTOVER FLOW DRAIN THROUGH PRE-CAST. OPENINGS. EXTEND OVER PROVIDE LAMBS TONGUE\n\n13 PROVIDE 15MIL VAPOR RETARDER UNDER ALL SLABS ON GROUND\n\n14 INTERIOR COLUMN - SHALL BE PAINTED SAFETY YELLOW UP TO 12' A.F.F. AND NO PAINT SHALL BE APPLIED FROM 12' A.F.F. TO COLUMNS WITH FIRE EXTINGUISHERS, PAINT 24\" LONG SAFETY LERDEARE VE BODFOR MEZZANINE STRUCTURE. ON RED BAND, ALL 4 SIDES OF COLUMN, 20 A.F.F. PAINT ENTIRE COLUMN SAFETY RED WHERE FIRE HOSE CONNECTIONS ARE LOCATED. REFER TO SHEET 14.02\n\n19 HOSE BB - REFER TO PLUMBING DRAWINGS. PROVIDE FROST PROOF BILLCOCK AT EXTERIOR WALLS. ENSURE ALL PIPING IS WITHIN THE THERMAL ENVELOPE. PRE-ENGINEERED EXT. BREAK ROOM\n\nWIRE MESH PARTITION TO GO UP TO WITHIN AN INCH OR TWO OF THE BOTTOM OF THE CANOPY. INSTALL PER MANUFACTURER'S RECOMMENDATIONS. KNOKKE BOX MOUNTED &' ABOVE FINISHED FLOOR.\n\n23 COMPACTOR CONTRACTOR TO COORDINATION WALL OPENING WITH OWNER. PROVIDE DOCK BUMPERS AT COMPACTOR.\n\n25\n\nVAC - REFER TO ELECTRICAL FOR POWER REQUIREMENTS\n\nMOF SDEN - REFER TO ELECTRICAL DRAWINGS STEEL BARRIER. REFER TO FIRE RISER BARRIERS 26/0 6. BARREN, FRENTE WITH ELECTRICAL\n\nCOORDINATE CLEARANCE MERING PAD - REFER TO STRUCTURAL DETAIL 9/84.5. COORDINATE WITH PANEL PROVIDER. AUGER. CONTRACTOR TO COORDINATE WALL OPENING WITH OWNER\n\n2 DOWNSPOUT\n\nEMERGENCY SHOWER - REFER TO PLUMBING REMOTE HOSE VALVE CONNECTION AT INTERIOR COLUMN - COORDINATE VE IHREPROTECTIONAND LAYOUT - REFER TO FIRE PROTECTION DRAWINGS SURFACE MOUNTED STEEL BOLLARD. LOCATE SUCH THAT ANCHORS ARE MIN 3' FROM ALL CONCRETE JOINTS - SEE DETAIL 4AA11.1\n\nTRANSFORMER - COORDINATE WITH OWNER\n\n40 GENERATOR - REFER TO ELECTRICAL\n\nPROJECT YELLOW JACKET\n\nAMBROSE PROPERTY GROUP 9240 FREMONT PIICE PERRYSBURG, OH 43551\n\nPERMIT SET 05.13.2024 REVISIONS\n\nACCNOOIT 6/26/2004 ACIDIWOCHE 894/2004 ACIDWO04 9/16/2004\n\n25-24107-00\n\nFIRST FLOOR PLAN - AREA C\n\nA1.1C\n\nKEY PLAN\n\nImage\n\nDLRGROUP\n\nO DR Group\n\nN",
+          "pageNum": 0
+        }
+      ],
+      "numPages": 1,
+      "text": "9/23/2024 11:22:16 AM\n\nImage With Text:\n-AREA B\nMATCHLINE -AKTA C\n15\nH\u00e2\n14\n17\n18\n19\n19.9\n20\n60'-0\"\n60'-0\"\n60'-0\"\n80'-0\"\n30-9\u00ba\n52 -1 3/8\"\n4 5/8\"\n-6\"\n-6\n-4\u00aa\n3 -\n3\n5' - 0\"\n9-0\n11-2\n3\n-\n9-0\"\n9-0\n11-2 3\n4\n9-0\"\n14-0\"\nB-6\n10-8\n2-61/4\n3C\na\nI\nU\nL\nA\nA\nI\nE\n2\n10\n3\n3\n\u00ae\n23\n(23)\n1\n3\n114\n113\nIF\n111\n110\nL\n100\n108\n107\nL\n105\n104\n2\n102\n101\nA\n1\nA\nA\nE03\nY\nEU41\n41 FE\nROOF ACCESS\n1\nL\n5D\nFIRE\nSTAIR 601\n13 -2\"\nFE\n1\n2\n10\n2\nA\n10\n.\n.\n10\n2\n+\nCENTER\n23\n2\n6\n10\n604\nTRULICKER'S\n904\n<\nC\nELECTRIC\nFIRE PUMP ROOM 602\n3A\n803\n12 14\n00\nA\n43 -8\nT\n0\n4\n33\n5-07\n13 -4\"\nFE\n- 4\"\nB\n\u00a3\nDE\n1\nB\nA\nA\nA1\nFEL\n111\n1\nB.1\nSTORAGE\nA\n112\n.\nINTERVIEW\n17 -238\"\nROOM\n13 -\n1'-23/8.\n8.12\n5- 0\n104\n4-4\u00aa\n8 15\nRECRUITING OPEN AREA 102\nWAREHOUSE 001\nWOMEN'S TOILET\n9\nMEN'S TOLET\n108 FEC\nA\nHER\n2T = 11/4\"\n6-55\n42-0\n.\nA\n109\nCOFFEE EAK ROOM\nRECRUITING\nVESTIBULE 101\nE\n54\n1\n108\n105\n804\nD\nTYP.\nHR OPEN\nC\nGM OFFICE\nONFERENCE\nC\n16-0TY\n115\nP\n1\n120\n121\n9\n- 0\"\n6 -8\nChain Link Fence &ft\nHO\nHO OTEL OFFICE\nC.1\n20' - 3 1/2\"\n15-0\"\nDescription\nQuantity\nUnit\n23-2 58'\n116\nEN\nHR MOR\nCLP OFFICE OFDICE\n12\n5' - 0\"\n7'6\"X6' GAL SLIDE GATE 1\nCount\nOBSERVATION M\n118\n119\nTOM TIE CAGE\n10-0\n8' Corner Post\n12\nCount\nOPEN OFFICE\n-\nFEC\n-\n8' GALV CL\n186.83\nOBSERVATION 114\nft\n15/8\n125\nADD00\nPLY ROC\n128\n8'X10'4\" GAL SLIDE GATE\n2\nCount\nWELLNESS CENTER\n125\n13\n9-0\n43' -\nCUTTING ZONE 1578\n3 - 10\n'-556\"\nA\n\u00ae\n124\nY\n?\nIDF\nCONFEREN\n123\nR\n122\nDA\nUNISEX TOL\nTORAG\nCORRIDOR 134\n- 0\"\nD\nOFE\n1582\n130\n129\nSTORAGE 8045\n136\n4\"\nD\n3 REBUILD ZONE 1582\nFIRST DAY TRAINING\nUTILITY\n131\n.\n15 -01/8\n9\n1324\nU\n0.1\n44\n35-858\"\nIN\nL\nHALLWAY IL\n133\nB\n.\ne\nCAREER\n0\" 5' - 0\"\n12 -5 7/8\"\n2.3\nL\n-\nCLASSROOM\n135\n- 0\"\n0.6\nFEC\n8\nT-3 12\n5.0\n8\n-\n=\nA\n1328\nW\nFEC\nV\nFEC\n-1\n2\n3-6\n13-10\n18-4\n0.8\nA\n-\n-\n-\n-\nD.9\nFE\nE\nB\n11' -3\"\nE\n5\n-\n1\n8001\nE3\n9-0\nA\n0\"\n7' -\n- 4\"\n-\n4.5\n9'\nes\n2\n5' -\nSECURITY\nES\n- 8\"\n7' -\n- 0\"\non\n139\nE.7\nMATCHUNE - AREA\n1\n5' 0\"\n12 -912\nI\nE.B\n- 0\"\n0\"\n\u00c9S\nDa\nF\n7\nSECURITY 140\n004\n- 0\"\nI\n11' - 3\"\n0-10 1/2\nFE\n11\n-\n10'\nMATCHLINE - AREA C\nF\nMATCHLINE - AREA F\nMATCHLINE - AREA\nIT-10 12\n0\"\nHOVEL CLOSET\nMATCHLINE - AREA F\n7-734\n12\nS\n3' -\nA\nF.2\nFEC\n138\nF.5\n1\n=\n=\nF3\n1' -\nFA\n14\n15\n18\n17\n18\n19\n19:5\n20\nFLOOR PLAN - AREA C\nSCALE: 1/16\" = 1-0\"\n\nFLOOR PLAN GENERAL NOTES\n\nBOLLARDS ARE TO BE LOCATED WITHIN THE BUILDING TO PROTECT EXPOSED ELECTRICAL PANELS, ELECTRICAL GEAR, ROOF DRAIN PIPING, WATER LINES, GAS LINES, AND SPRINKLER TEST DRAIN PIPING WITHIN & OF WAREHOUSE FLOOR - PROVIDE REPLACEABLE YELLOW SLEEVE.\n\nPROVIDE BARRIER RAILS TO PROTECT EXPOSED FIRE\n\nMOUTURE PROVIDE 2X2 X48 HIGH STAINLESS STEEL CORNER GUARDS (TYP.) AT ALL EXPOSED CORNERS, ADHERE TO WALL (NO\n\nPROVIDE SEALANT WHERE EDGE OF TILE ABUTS GYPSUM. REFER TO DE [AL 21 A8 28 FOR TYPICAL METAL STUD OPENINGS AND CONTROL JOINT DETAILS. GC TO DETERMINE CONSTRUCTION METHODOLOGY.\n\nREFER TO DE [AL 21 A11.1 FOR TYPICAL CHAIR RAIL DETAIL. . REFER TO SHEET A115 FOR FLOOR TRANSITION DETAILS 44, 48,4C, SA, 58, AND 5C.\n\nSHEET NOTES\n\n1 INSULATED HOLLOW METAL SERVICE DOOR AND FRAME. PAINT SEMI-GLOSS. GROUT FRAME SOLID AT CONCRETE OPENINGS. PAINT INTERIOR SIDE SAFETY RED PT-7. INSULATED MANLIAL OVERHEAD SECTIONAL DOCK DOOR & DOCK LEVELER EQUIPMENT, WHERE SCHEDULED. LINE OF PID PLATFORM ABOVE 2\n\nPID PLATFORM STAIR 5 8' DIA, CONCRETE-FILLED GALVANIZED STEEL BOLLARDS. PROVIDE REPLACEABLE YELLOW SLEEVE. (TYP.) (SEE DETAILS ON SHEET A7.2)\n\n6 INSULATED MOTORIZED OVERHEAD SECTIONAL DOOR. SEE DOOR AND FRAME SCHEDULE. BOA Y EN A LONG CONCRETE-FILLED GALVANIZED STEEL O DIA. XIU AT CONECTOR AND TRANSFORMERS P REPLACEABLE YELLOW SLEEVE. (TYP.) SEE 40/5D DETAILS FOR 8\n\nROOF LADDER WITH ROOF HATCH ABOVE - SEE ME FOR DETAILS\n\n10 HOSE VALVE CONNECTION -MAINTAIN 12\" CLEARANCE AT LATCH SIDE OF DOORS - REFER TO FIRE PROTECTION DRAWINGS DOMEINTAIN 12\" CLEARANCE AT LATCH SIDE OF DOORS - SEE DETAIL 2EJAD.6 - REFER TO FIRE PROTECTION DRAWINGS\n\n12 ROOF DRAIN AND OVERFLOW DRAIN, CENTER BETWEEN LIRA ERRONOTOVER FLOW DRAIN THROUGH PRE-CAST. OPENINGS. EXTEND OVER PROVIDE LAMBS TONGUE\n\n13 PROVIDE 15MIL VAPOR RETARDER UNDER ALL SLABS ON GROUND\n\n14 INTERIOR COLUMN - SHALL BE PAINTED SAFETY YELLOW UP TO 12' A.F.F. AND NO PAINT SHALL BE APPLIED FROM 12' A.F.F. TO COLUMNS WITH FIRE EXTINGUISHERS, PAINT 24\" LONG SAFETY LERDEARE VE BODFOR MEZZANINE STRUCTURE. ON RED BAND, ALL 4 SIDES OF COLUMN, 20 A.F.F. PAINT ENTIRE COLUMN SAFETY RED WHERE FIRE HOSE CONNECTIONS ARE LOCATED. REFER TO SHEET 14.02\n\n19 HOSE BB - REFER TO PLUMBING DRAWINGS. PROVIDE FROST PROOF BILLCOCK AT EXTERIOR WALLS. ENSURE ALL PIPING IS WITHIN THE THERMAL ENVELOPE. PRE-ENGINEERED EXT. BREAK ROOM\n\nWIRE MESH PARTITION TO GO UP TO WITHIN AN INCH OR TWO OF THE BOTTOM OF THE CANOPY. INSTALL PER MANUFACTURER'S RECOMMENDATIONS. KNOKKE BOX MOUNTED &' ABOVE FINISHED FLOOR.\n\n23 COMPACTOR CONTRACTOR TO COORDINATION WALL OPENING WITH OWNER. PROVIDE DOCK BUMPERS AT COMPACTOR.\n\n25\n\nVAC - REFER TO ELECTRICAL FOR POWER REQUIREMENTS\n\nMOF SDEN - REFER TO ELECTRICAL DRAWINGS STEEL BARRIER. REFER TO FIRE RISER BARRIERS 26/0 6. BARREN, FRENTE WITH ELECTRICAL\n\nCOORDINATE CLEARANCE MERING PAD - REFER TO STRUCTURAL DETAIL 9/84.5. COORDINATE WITH PANEL PROVIDER. AUGER. CONTRACTOR TO COORDINATE WALL OPENING WITH OWNER\n\n2 DOWNSPOUT\n\nEMERGENCY SHOWER - REFER TO PLUMBING REMOTE HOSE VALVE CONNECTION AT INTERIOR COLUMN - COORDINATE VE IHREPROTECTIONAND LAYOUT - REFER TO FIRE PROTECTION DRAWINGS SURFACE MOUNTED STEEL BOLLARD. LOCATE SUCH THAT ANCHORS ARE MIN 3' FROM ALL CONCRETE JOINTS - SEE DETAIL 4AA11.1\n\nTRANSFORMER - COORDINATE WITH OWNER\n\n40 GENERATOR - REFER TO ELECTRICAL\n\nPROJECT YELLOW JACKET\n\nAMBROSE PROPERTY GROUP 9240 FREMONT PIICE PERRYSBURG, OH 43551\n\nPERMIT SET 05.13.2024 REVISIONS\n\nACCNOOIT 6/26/2004 ACIDIWOCHE 894/2004 ACIDWO04 9/16/2004\n\n25-24107-00\n\nFIRST FLOOR PLAN - AREA C\n\nA1.1C\n\nKEY PLAN\n\nImage\n\nDLRGROUP\n\nO DR Group\n\nN",
+      "language": "en"
+    },
+    "numPages": 1,
+    "language": "en",
+    "metadata": null,
+    "status": "completed",
+    "timestamp": "2025-08-07T17:20:59.185000Z"
+  }
+}

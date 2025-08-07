@@ -1,0 +1,17 @@
+{
+  "doc_id": "xfGBBPIC",
+  "response_type": "schema",
+  "timestamp": "2025-08-07T22:15:00.430456",
+  "response_data": {
+    "jobId": "X33FkuCJ",
+    "status": "processing",
+    "schemaId": "VTE7XOQd",
+    "schemaName": "robust_utility_xfGBBPIC",
+    "standardizationIds": [
+      "Pf0ZHHer"
+    ],
+    "standardizationJobIds": [
+      "CfdL5L0q"
+    ]
+  }
+}

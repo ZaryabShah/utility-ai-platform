@@ -1,0 +1,49 @@
+# Underground Utilities AI Training Configuration
+project:
+  name: "underground-utilities-extraction"
+  version: "1.0.0"
+  description: "AI model for extracting structured data from civil engineering PDFs"
+
+dataset:
+  raw_pdf_roots:
+    - "./data/raw_pdfs"  # Modify this path as needed
+  work_dir: "./data"
+  train_split: 0.7
+  val_split: 0.2
+  test_split: 0.1
+  min_annotations_per_doc: 5
+
+rendering:
+  dpi: 144
+  max_pages_per_doc: 50  # Limit for development; set to -1 for unlimited
+  cache_images: true
+
+model:
+  architecture: "yolov8n"  # Start with nano for speed (yolov8n, yolov8s, yolov8m, yolov8l, yolov8x)
+  input_size: 640
+  batch_size: 16
+  epochs: 100
+  learning_rate: 0.001
+  patience: 10
+
+labels:
+  - from_structure_id
+  - from_structure_type
+  - casting
+  - location
+  - rim_elev_ft
+  - outlet_invert_elev_ft
+  - sump_elev_ft
+  - to_structure_id
+  - inlet_invert_elev_ft
+  - pipe_diameter_in
+  - pipe_type
+  - run_length_ft
+  - length_in_pvmt_ft
+  - length_in_road_ft
+  - pipe_material
+
+output:
+  model_dir: "./models"
+  results_dir: "./results"
+  export_formats: ["onnx", "torchscript"]

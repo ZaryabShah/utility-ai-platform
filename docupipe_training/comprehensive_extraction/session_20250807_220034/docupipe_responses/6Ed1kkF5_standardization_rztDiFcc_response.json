@@ -1,0 +1,118 @@
+{
+  "doc_id": "6Ed1kkF5",
+  "response_type": "standardization_rztDiFcc",
+  "timestamp": "2025-08-07T22:11:22.076638",
+  "response_data": {
+    "standardizationId": "rztDiFcc",
+    "documentId": "6Ed1kkF5",
+    "data": {
+      "utilityStructures": [
+        {
+          "structureType": "Storm Manhole",
+          "structureId": null,
+          "elevationData": {
+            "rimElevation": null,
+            "invertElevation": null
+          }
+        },
+        {
+          "structureType": "Sanitary Manhole",
+          "structureId": null,
+          "elevationData": {
+            "rimElevation": null,
+            "invertElevation": null
+          }
+        },
+        {
+          "structureType": "Catch Basin",
+          "structureId": null,
+          "elevationData": {
+            "rimElevation": null,
+            "invertElevation": null
+          }
+        },
+        {
+          "structureType": "Cleanout",
+          "structureId": null,
+          "elevationData": {
+            "rimElevation": null,
+            "invertElevation": null
+          }
+        },
+        {
+          "structureType": "Headwall",
+          "structureId": null,
+          "elevationData": {
+            "rimElevation": null,
+            "invertElevation": null
+          }
+        },
+        {
+          "structureType": "Down Spout",
+          "structureId": null,
+          "elevationData": {
+            "rimElevation": null,
+            "invertElevation": null
+          }
+        }
+      ],
+      "drainageBasins": [
+        {
+          "basinType": "Dry Collection Basin",
+          "dimensions": {
+            "length": 220,
+            "width": null
+          }
+        },
+        {
+          "basinType": "Wet Collection Basin",
+          "dimensions": {
+            "length": null,
+            "width": null
+          }
+        }
+      ],
+      "utilityEasements": [
+        {
+          "easementType": "Gas Line",
+          "easementStatus": "Permanent",
+          "width": 50
+        },
+        {
+          "easementType": "Gas Line",
+          "easementStatus": "Temporary",
+          "width": 25
+        },
+        {
+          "easementType": "Sewer",
+          "easementStatus": "Permanent",
+          "width": 25
+        },
+        {
+          "easementType": "Electrical",
+          "easementStatus": "Permanent",
+          "width": 4
+        }
+      ],
+      "stormwaterFeatures": [
+        {
+          "featureType": "Bypass Swale",
+          "width": null
+        },
+        {
+          "featureType": "Mandatory Stormwater Easement",
+          "width": 50
+        }
+      ],
+      "utilityLines": [],
+      "fireHydrants": []
+    },
+    "schemaId": "G6ciTkv3",
+    "schemaName": "robust_utility_6Ed1kkF5",
+    "jobId": "ULg3biF4",
+    "dataset": "robust_utility_extraction",
+    "filename": "AMZ TOL3 (Civil Set DL 9.13.24) 8 - DC",
+    "timestamp": "2025-08-07T17:11:14.236000Z",
+    "metadata": null
+  }
+}

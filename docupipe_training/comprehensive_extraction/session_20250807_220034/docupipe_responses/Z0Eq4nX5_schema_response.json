@@ -1,0 +1,17 @@
+{
+  "doc_id": "Z0Eq4nX5",
+  "response_type": "schema",
+  "timestamp": "2025-08-07T22:09:10.155622",
+  "response_data": {
+    "jobId": "sLbUNGnC",
+    "status": "processing",
+    "schemaId": "VwnSB6zY",
+    "schemaName": "robust_utility_Z0Eq4nX5",
+    "standardizationIds": [
+      "4gPYc3qP"
+    ],
+    "standardizationJobIds": [
+      "HMT6fb3g"
+    ]
+  }
+}

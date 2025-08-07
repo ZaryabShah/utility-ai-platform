@@ -1,0 +1,14 @@
+{
+  "doc_id": "XJCp2VSx",
+  "response_type": "schema_info",
+  "timestamp": "2025-08-07T22:04:34.405084",
+  "response_data": {
+    "jobId": "wW6nJxSK",
+    "status": "completed",
+    "schemaId": "cty0PRe4",
+    "standardizationIds": [
+      "TZLNiNJJ"
+    ],
+    "errorMessage": null
+  }
+}

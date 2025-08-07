@@ -1,0 +1,843 @@
+{
+  "doc_id": "iSmTbAqC",
+  "response_type": "document",
+  "timestamp": "2025-08-07T22:06:09.346484",
+  "response_data": {
+    "documentId": "iSmTbAqC",
+    "dataset": "robust_utility_extraction",
+    "classified": false,
+    "classIds": null,
+    "filename": "1. Architectural Drawings A2.03",
+    "fileType": "pdf",
+    "fileExtension": "pdf",
+    "result": {
+      "pages": [
+        {
+          "sections": [
+            {
+              "type": "text",
+              "text": "ODLR Group",
+              "bbox": [
+                0.9668333333333333,
+                0.14232666666666666,
+                0.9717166666666667,
+                0.17059333333333332
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "* STATE OF OVI GISTERED ARCHITECT",
+              "bbox": [
+                0.95075,
+                0.192,
+                0.9836285714285713,
+                0.23679666666666668
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROJECT YELLOW JACKET",
+              "bbox": [
+                0.9476738095238095,
+                0.5627533333333333,
+                0.9592285714285713,
+                0.7518833333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "9240 FREMONT PIKE AMBROSE PROPERTY GROUP PERRYSBURG, OH 43551",
+              "bbox": [
+                0.9604761904761906,
+                0.6536866666666667,
+                0.9841404761904762,
+                0.7518499999999999
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PERMIT SET 05.13.2024 REVISIONS",
+              "bbox": [
+                0.9466119047619047,
+                0.7880233333333333,
+                0.9751880952380952,
+                0.80959
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "FLOOR PLAN GENERAL NOTES",
+              "bbox": [
+                0.029790476190476194,
+                0.8326533333333334,
+                0.11146428571428571,
+                0.8420566666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "A. BOLLARDS ARE TO BE LOCATED WITHIN THE BUILDING TO PROTECT EXPOSED ELECTRICAL PANELS, ELECTRICAL GEAR ROCE DRAIN PIPINO, WATERLINES, GAS LINES, AND SPRINKLER TEST DRAIN PIPING WITHIN & OF WAREHOUSE FLOOR - PROVIDE REPLACEABLE YELLOW SLEEVE.",
+              "bbox": [
+                0.02935714285714286,
+                0.85248,
+                0.12108333333333332,
+                0.8778633333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "B. PROVIDE BARRIER RAL S TO PROTECT EXPOSED FIRE SPRINKLER RISER - PAINT SAFETY YELLOW.",
+              "bbox": [
+                0.02974761904761905,
+                0.8778666666666666,
+                0.10769047619047618,
+                0.8894033333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "C. PROMDE 2\"X2 X48' HIGH STAINLESS STEEL CORNER GUARDS (TYP.) AT ALL EXPOSED CORNERS, ADHERE TO WALL (NO",
+              "bbox": [
+                0.02995,
+                0.8882466666666667,
+                0.1181904761904762,
+                0.8993966666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "D. PROVIDE SEALANT WHERE EDGE OF TIE ABUTS GYPSUML E. REFER TO DETAIL 21043.28 FOR TYPICAL METAL STUD OPENINGS AND CONTROL JOINT DETALS. GC TO DETERMINE CONSTRUCTION OOY",
+              "bbox": [
+                0.03007142857142857,
+                0.9024066666666666,
+                0.11741904761904763,
+                0.92266
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "F. REFER TO DETAIL ZEI11. 1 FOR TYPICAL CHAIR RAIL DETAIL. G. REFER TO SHEET A11.2 FOR FLOOR TRANSITION DETAILS 4A, 48. 40, 5A, 5B, AND 5C.",
+              "bbox": [
+                0.03035,
+                0.9222166666666667,
+                0.1169642857142857,
+                0.9392466666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "SHEET NOTES",
+              "bbox": [
+                0.1460595238095238,
+                0.8357233333333334,
+                0.19330000000000003,
+                0.8450133333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1 WALK OFF CARPET TO FILL ENTIRE WIDTH & LENGTH OF VESTIBULE |SEE FINISH SCHEDULE)",
+              "bbox": [
+                0.14805714285714286,
+                0.8519966666666666,
+                0.2763,
+                0.8583433333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2 MEDICAL CURTAIN -MEDICAL SUPPLIES & EQUIPMENT COMPANY (OR APPROVED EQUAL) (PH) 877-706-4480 100% POLYESTER FABRIC, 120Z., ANTI-VICROBIAL TREATED, SFT. STRAIGHT CUBICLE TRACK.",
+              "bbox": [
+                0.14759523809523808,
+                0.8572633333333334,
+                0.29474047619047616,
+                0.8692133333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROVIDE 1 1(2 x1 12 PREFINISHED BENT -LES METAL (22 GA] ANGLE FULL HEIGHT OF PARTITION. (WHITE) ATTACH TO CONCRETE PANELS ONLY. SEE DETAL 3CM33",
+              "bbox": [
+                0.15451428571428572,
+                0.86925,
+                0.294847619047619,
+                0.88083
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "4 METAL DETECTION EQUIPMENT PROVIDED BY TENANT. CONTRACTOR TO COORDINATE & PROVIDE ELECTRICAL EQUIPMENT.",
+              "bbox": [
+                0.14820952380952382,
+                0.8800966666666666,
+                0.2840285714285714,
+                0.8907
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "5 METAL LOCKERS TO BE FURNISHED BY TENANT OR TENANT'S VENDOR AND INSTALLED BY OC WHERE HUNICATED DIAN PONUDE EN ADEL SOURIANTLOCKERE, ALL",
+              "bbox": [
+                0.14790952380952382,
+                0.8896766666666667,
+                0.3000547619047619,
+                0.9005433333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ALL OPERABLE CONTROLS BETWEEN 15\u00b0-45' AFF. INDI CATED ON PLANL PROMDE 5% ADA COMPLIANT LOCKERS. ADA COMPLIANT LOCKERS MAX. HEIGHT 48\" AND VENDING EQUIPMENT BY TENANT (SEE ELECTRICAL SHEETS).",
+              "bbox": [
+                0.15427142857142856,
+                0.8954766666666667,
+                0.3004071428571429,
+                0.9145533333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2'>2*old\" HIGH STAINLESS STEEL CORNER GUARD (TYP.) PROVIDE AT ALL EXPOSED CORNERS, ADHERE TO & PROVIDE ELECTRICAL POWER AS REQUIRED.",
+              "bbox": [
+                0.15415,
+                0.9127066666666667,
+                0.2955547619047619,
+                0.9349366666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ACCESSIBLE SPEEDLANE TURNSTILE BARRIER PROVIDED BY TENANT. CONTRACTOR TO INSTALL, COORDINATE",
+              "bbox": [
+                0.15391904761904762,
+                0.9239700000000001,
+                0.3007095238095238,
+                0.9312566666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "HOLD FRAMING TIGHT TO FACE OF COLUMN ANDVOR INTERIOR ROOF DRAIN. PROVIDE CLEAN OUT ACCESS BANELAS BEOUBED",
+              "bbox": [
+                0.15399047619047618,
+                0.9351633333333333,
+                0.29429285714285713,
+                0.9440066666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ROOF & OVERFLOW DRAIN LEADER - SEE DETAIL GBIAE.G.",
+              "bbox": [
+                0.1539357142857143,
+                0.9460433333333333,
+                0.2291642857142857,
+                0.95184
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "11 PROVIDE BWx IZ'L OPENING IN COUNTERTOP. CENTER OPENING BETWEEN SINKS & FRONT TO BACK.",
+              "bbox": [
+                0.14843095238095239,
+                0.952,
+                0.289297619047619,
+                0.9580533333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2 LINE OF 22' DIA. : 28\"HIGH x 32 GAL. TRASH CONTAINER WITHOUT LID BELOW COUNTER. CONTAINER BY' TENANT (NJ.C.)",
+              "bbox": [
+                0.14985238095238096,
+                0.9583033333333333,
+                0.2910738095238095,
+                0.96941
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "13 WOOD CHAIR RAL - TOP OF RAI AT 2'- AJ.F. CONTINUE CHAIR RAIL FOR ENTIRE LENGTH OF WALL THIS SIDE OF ROOM. VITER CORNERS OF WALL JOGS.",
+              "bbox": [
+                0.14851666666666669,
+                0.96953,
+                0.29974999999999996,
+                0.98072
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "14 LINE OF TENANT PROVIDED & INSTALLED, MANUALLY OPERATED PULL-DOWN PROJECTOR SCREEN ABOVE.",
+              "bbox": [
+                0.3093095238095238,
+                0.8520466666666666,
+                0.4576142857142857,
+                0.8581933333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "15 LINE OF TENANT PROVIDED & INSTALLED PROJECTOR ABOVE. GO TO PROMDE () 125A. THE WIRES FROMRDO MOUNT TO BE SUPPLIED & INSTALLED BY AV CONTRACTOR (N.LC.) (SEE ADJUSTABLE SUSPENDED CEILING CHANNEL KIT #ELPMBPO1 BY PEERLESS MOUNTS FOR REQUIREMENTS. 800.729.0307).",
+              "bbox": [
+                0.3103642857142857,
+                0.85914,
+                0.46017380952380954,
+                0.8790566666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "16 LOCATION OF WALL OR CELING MOUNTED TELEVISION MONITOR ABOVE. G.C. TO PROVIDE BLOCKING. MONITOR PROVIDEN AND INSTALLED BY TENANT, G.G. TO COORDINATE ALL ROOF PENETRATIONS FOR SATELLITE CABLING WITH THE ROOFING CONTRACTOR. (SEE ELECTRICAL AND ITWY SHEETS)",
+              "bbox": [
+                0.30985,
+                0.8786933333333333,
+                0.45119999999999993,
+                0.89499
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "17 LINE OF RECESSED TY MONITOR PROVIDED & INSTALLED BY TENANT, OC TO PROVIDE BLOCKING FOR BRACKET SUPPORT & ELECTRICAL & DATA OUTLETS FOR EACH MONITOR. VERIFY & COORDINATE FINAL LOCATION WITH TENANT REP. SEE DETAIL SF/A11.1 & 540411.1. (SEE ELECTRICAL SHEETS).",
+              "bbox": [
+                0.3097595238095238,
+                0.8940466666666667,
+                0.45216190476190476,
+                0.9108833333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "18 REFRIGERATOR PROVIDED & INSTALLED BY TENANT (SEE ELECTRICAL SHEETS).",
+              "bbox": [
+                0.30997619047619046,
+                0.9107366666666666,
+                0.4220666666666667,
+                0.9168733333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ICE MACHINE WITH DEPENSER PROVIDED AND INSTALLED BY TENANT. GC TO PROMDE WATER, FLOOR SINK POWER, AND SEWER. (SEE PLUMBING & ELECTRICAL SHEETS).",
+              "bbox": [
+                0.3144047619047619,
+                0.9172933333333333,
+                0.4591,
+                0.92867
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "20 COFFEE VENDING MACHINE BY TENANT. GC TO PROVIDE WATER AND POWER. (SEE PLUMBING AND ELECTRICAL SHEETS!",
+              "bbox": [
+                0.3104857142857143,
+                0.92845,
+                0.44656666666666667,
+                0.9379233333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "21 METAL COAT RACKS PROVIDED TENANT & INSTALLED BY GC - SEE DETAL ZENZ. DE. AUTO OPERATOR FOR ADA. PROVIDE CONDUIT FOR DOOR OPENER.",
+              "bbox": [
+                0.3097857142857143,
+                0.9391700000000001,
+                0.4255071428571429,
+                0.9513966666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "23 COLUIMINS & BRACING FOR OPERABLE PARTITION. (SEE STRUCTURAL SHEETS)",
+              "bbox": [
+                0.30930714285714284,
+                0.9506966666666667,
+                0.4191357142857143,
+                0.95749
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "4 STEEL ROOF ACCESS LADDER WITH LADDER-UP SAFETY POST AND ROOF HATCH ABOVE WITH SAFETY RAILING SYSTEM - SEE DETAIL SB/AS.A.",
+              "bbox": [
+                0.3112095238095238,
+                0.9572466666666667,
+                0.4511238095238095,
+                0.96879
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "25 STAND ALONE UNISTRUT FRAME PLEXIGLASS BARRIER. 5MM (VIN. | PLEXIGLASS TO SPAN FROM BOTTOM OF COUNTERTOP TO 7-0\" A.F.F. BARRIER SHALL HAVE NO COVERAGE GAPS, INCLUDING AT ROUNDED COUNTERTOP CORNERS. PLEXIGLASS SHALL PROVIDE COVERAGE FOR ALL LEVELS OF THE COUNTER AND CORNERS.",
+              "bbox": [
+                0.46981666666666666,
+                0.8517933333333333,
+                0.6180190476190477,
+                0.8723533333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "26 UNDER COUNTER MOUNTED SINK | SEE PLUMBING SHEETS).",
+              "bbox": [
+                0.47024285714285713,
+                0.87297,
+                0.5557119047619048,
+                0.8790133333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ACCESSIBLE HH.O DRINKING FOUNTAINS. (SEE PLUMBING AND ELECTRICAL SHEETS]",
+              "bbox": [
+                0.47348571428571423,
+                0.8792966666666667,
+                0.5882809523809523,
+                0.8853966666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "JANITOR MOP / FLOOR SINK. PROVIDE 48TH F.R.P. PANELS TO 48\" ON ALL WALLS, LUN.O. (SEE PLUMBING SHEETS",
+              "bbox": [
+                0.4742119047619047,
+                0.8851366666666666,
+                0.6115857142857143,
+                0.89485
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "P VINYL BASE TO WRAP WALL MINIMUM WIDTH OF FLOOR TRANSITION RAMP & CORNER GUARD. START TILE BASE AT EDGE OF FLOOR TRANSITION, CORNER GUARD TO START AT TOP OF VINYL BASE. TOP OF FIRE EXTINGUISHER HANDLE TO BE MOUNTED AT 48\" MAX. A.F.F. INSTALL PER ANSI A117. 1 308 & 308. IN FLOOR POWER J DATA BOX. COORDINATE LOCATION WITH TENANT FURNITURE. SEE ELECTRICAL",
+              "bbox": [
+                0.4706785714285714,
+                0.8960033333333333,
+                0.6183547619047619,
+                0.9196000000000001
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "TRASHRECYLING BIN, OFOL",
+              "bbox": [
+                0.4754261904761905,
+                0.9240333333333334,
+                0.5134166666666667,
+                0.93042
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "7 8-2\" HIGH GALVANIZED DRIVER'S CACE WITH MAIL SLOT AND CEL ING. FIRE EXTINGUISHER MOUNTED TO WALL",
+              "bbox": [
+                0.47120476190476196,
+                0.9300533333333333,
+                0.5680690476190475,
+                0.9426433333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "49 SURFACE MOUNTED BOLLARD - SEE DETAIL 44/11.1",
+              "bbox": [
+                0.46995,
+                0.9421700000000001,
+                0.5452047619047619,
+                0.9489933333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "51 GALVANIZED CHAIN LINK FENCE ENCLOSURE CELING AT 8-Z' HEIGHT TO BE PROVIDED AND INSTALLED BY GC. PROVIDE DOORBELL ON EXTERIOR SIDE - TYP.",
+              "bbox": [
+                0.4698785714285714,
+                0.9480533333333334,
+                0.6221738095238095,
+                0.95989
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "INTERCOM AT VESTIBULE TO RING AT SECURITY DESK.",
+              "bbox": [
+                0.4723,
+                0.9595333333333333,
+                0.5485238095238095,
+                0.9658
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "KNOX BOX",
+              "bbox": [
+                0.4726785714285714,
+                0.9645266666666666,
+                0.49105952380952383,
+                0.9713033333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "54 PRE-ENGINEERED CANOPY",
+              "bbox": [
+                0.4696666666666666,
+                0.9712466666666667,
+                0.5124952380952381,
+                0.9777133333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "55 WIRE MESH PARTITION TO GO UP TO WITHIN AN INCHTOR TWO OF THE BOTTOM OF THE CANOPY. INSTALL PER MANUFACTURER'S RECOMMENDATIONS.",
+              "bbox": [
+                0.6286404761904761,
+                0.8525200000000001,
+                0.780104761904762,
+                0.8625433333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROVIDE 5 x 5 CONCRETE PAD AT EXT. BREAK ROOM",
+              "bbox": [
+                0.6345999999999999,
+                0.8630133333333333,
+                0.7062928571428572,
+                0.8686366666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "FOOTWASH STATION, REFER TO DETAIL 24/CP3.2 FOR MOUNTING HEIGHTS.",
+              "bbox": [
+                0.6348238095238096,
+                0.8689633333333333,
+                0.7341190476190476,
+                0.8761133333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1-17 BARRIER BAR- MN. 28' EXTENSION FROM WALL -VERIFY EXCEEDS OUTERMOST EDGE OF DRINKING FOUNTAIN.(SEE DETAL 4B/11. 1)",
+              "bbox": [
+                0.6351357142857142,
+                0.8749333333333333,
+                0.7746619047619048,
+                0.8855799999999999
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "18\" HIGH BENCH AFFIXED TO ADJACENT WALLS AND FLOOR. ALLOWABLE STRESS OF BENCH SHALL NOT BE EXCEEDED FOR MATERIALS USED WHEN A VERTICAL OR HORCONTAL FORCE DE 3SOIRS IS APPLIED &T AATS POINT ON THE SEAT, FASTENER, MOUNTING DEVICE, OR SUPPORTING STRUCTURE. REFER TO DETAIL 2EV2. BEST CHANGING STRININ BABY STATION FLOOR DRAIN (SEE PLUMBING SHEETS) PROVIDE SENLENT AT FLOOR JOINTS AT PANEL OPENINGS",
+              "bbox": [
+                0.6347928571428572,
+                0.8859333333333334,
+                0.7777880952380952,
+                0.9196033333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "LOCATION OF TENANT PROVIDED AND GC INSTALLED ADA LOCKERS, MIN.5% OF TOTAL, SEE DETAIL JEJA2.06 LOCATION OF TENANT PROMDED ADA COAT RACK, CONTRACTOR TO INSTALL. SEE DETAL 25/42.06.",
+              "bbox": [
+                0.630402380952381,
+                0.9200266666666667,
+                0.7781571428571429,
+                0.93263
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "DEMARC ROOM FIRE EXTINGUISHER- SEE SPECIFICATIONS",
+              "bbox": [
+                0.634447619047619,
+                0.9313466666666667,
+                0.7135476190476191,
+                0.93797
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "71 VAPOR MITIGATION SYSTEM RISER, COORDINATE WITH ROOF DRAINS - REFER TO VMS DRAWINGS",
+              "bbox": [
+                0.628802380952381,
+                0.9383433333333334,
+                0.7638404761904761,
+                0.9445833333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "KEY PLAN",
+              "bbox": [
+                0.8813761904761905,
+                0.8324466666666667,
+                0.9167928571428571,
+                0.84366
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "table",
+              "text": "|:--|:--|:--|:-|\n| A | B | C |  |\n| D | E | F |  |",
+              "bbox": [
+                0.8599571428571429,
+                0.8789266666666666,
+                0.9387738095238095,
+                0.94836
+              ],
+              "header": null,
+              "tableList": [
+                [
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "A",
+                  "B",
+                  "C",
+                  ""
+                ],
+                [
+                  "D",
+                  "E",
+                  "F",
+                  ""
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "text": "1",
+              "bbox": [
+                0.8574738095238095,
+                0.87257,
+                0.8633833333333333,
+                0.88206
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "25-24107-00",
+              "bbox": [
+                0.9477166666666667,
+                0.8897200000000001,
+                0.9670833333333333,
+                0.8952733333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "MAIN OFFICE AREA FLOOR PLAN - WEST",
+              "bbox": [
+                0.9480619047619049,
+                0.90315,
+                0.9788119047619048,
+                0.9243433333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "A2.03",
+              "bbox": [
+                0.9529761904761904,
+                0.9505333333333332,
+                0.9832190476190477,
+                0.9658800000000001
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1 42.09",
+              "bbox": [
+                0.9295928571428572,
+                0.9645566666666666,
+                0.9358166666666666,
+                0.97461
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "5/14/2024 7:49:18 AM",
+              "bbox": [
+                0.018338095238095237,
+                0.93932,
+                0.022580952380952382,
+                0.9825566666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nK\nMATCHLINE - 44/A2.01\nDLRGROUP\nH\n1.1\nPLS\n.\nKA\nL\n5\n2\n5%\nE\n47.4\n15-11 53\"\n24 -8 35\"\n15.5\n33 -8\u00aa\n1'-2\n204 -8 5/8\"\nTYP\nTYP\nA1\nV\nNO\n10\nW\nW\nV3\nW\nW3\nW3\nW3\nNI\n10\n12\nA1\nA\nA\n-\n20\nVa\nC3\nC3\n(\nW2\n16\n8\n16\n11\n4\n1\nH1\n82\n1\n32\nW\nTO\n9.\n9\n03\nN\nN\n5\nE\n[TYP.]\n81\nEl\n53'-1 3/6\"\n59'-138\"\nSIM\n30\n-\nEMPLOYEE LOCKERS\n21\nV\n[TYP.]\n154A\n15\n15\n8\" ht. CLD Securis S1\nL.7\nLA\nDescription\nQuantity\nUnit\nBREAK ROOM 154\n5-6\n12'-0\"\n3' -6\" ORN Man Gate 1 Count\nSEAL ALL FLOOR JOINTS\n2 -1034-\n19'-0\"\n8' Securis S1Fence 57.7067 ft\nSecuris S1 8' End Post\n4-558\n2\nCount\n55\nDOS 8\nSecuris S1 Comer Post Count 1\n19\n2\n6-934\n7 -10 14\nA11.\n14\n3-6\n411.\n411.\n14\n32\n511.1\n55-9\n14'-0 5/8\"\nESTIMA\nW\n17- D\nWOMEN'S TOILET\nBLUTIO\n156\n10'- 10\"\nMEN'S TOILET\n153G\nC1\nVENDING STORAGE\n14-10\nOPP\n411.1\nOBB\n1598\nABLUTION 1530\n155\n8.6\n54\n&\n1458\n4\nHALLWAY 149\n4'-0'\nANITOR\nO\n& Securis\n17-0\"\n32\n157\n5-8\nANDMEN'S TOILET\nMULTIFAITH\n9-0\n8\n36 -11\"\n9-0\"\n36 - 11\"\n9-0\nK\nLACTATION\nMEN'S TOLET\nROCH 146\nHALLWAY\n152\n12'-0\n15%\nVENDING\n32\n2BY A2.07\n155\n13'-\n81\n5\n.\n8.4\n153A\nIANTOR\n-6\n18\ndi\nTYP.\nP\nDEMARC\n0\n67\n6 -10\"\n160\nMATCHENE - 4A 1 A2.01\n16-5 78\n411.1\n8 1/4\n@\n3\n12.05\nIT-11 3/87\n3 5/8\"",
+              "bbox": [
+                0.02577857142857143,
+                0.016679999999999997,
+                0.9614499999999999,
+                0.6018733333333334
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ENLARGED MAIN OFFICE FLOOR PLAN - WEST",
+              "bbox": [
+                0.10277857142857143,
+                0.6158,
+                0.22499999999999998,
+                0.6255666666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "A2.03 SCALE: 10 - 1-",
+              "bbox": [
+                0.09276904761904763,
+                0.6257866666666666,
+                0.1283690476190476,
+                0.6317633333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            }
+          ],
+          "text": "ODLR Group\n\n* STATE OF OVI GISTERED ARCHITECT\n\nPROJECT YELLOW JACKET\n\n9240 FREMONT PIKE AMBROSE PROPERTY GROUP PERRYSBURG, OH 43551\n\nPERMIT SET 05.13.2024 REVISIONS\n\nFLOOR PLAN GENERAL NOTES\n\nA. BOLLARDS ARE TO BE LOCATED WITHIN THE BUILDING TO PROTECT EXPOSED ELECTRICAL PANELS, ELECTRICAL GEAR ROCE DRAIN PIPINO, WATERLINES, GAS LINES, AND SPRINKLER TEST DRAIN PIPING WITHIN & OF WAREHOUSE FLOOR - PROVIDE REPLACEABLE YELLOW SLEEVE.\n\nB. PROVIDE BARRIER RAL S TO PROTECT EXPOSED FIRE SPRINKLER RISER - PAINT SAFETY YELLOW.\n\nC. PROMDE 2\"X2 X48' HIGH STAINLESS STEEL CORNER GUARDS (TYP.) AT ALL EXPOSED CORNERS, ADHERE TO WALL (NO\n\nD. PROVIDE SEALANT WHERE EDGE OF TIE ABUTS GYPSUML E. REFER TO DETAIL 21043.28 FOR TYPICAL METAL STUD OPENINGS AND CONTROL JOINT DETALS. GC TO DETERMINE CONSTRUCTION OOY\n\nF. REFER TO DETAIL ZEI11. 1 FOR TYPICAL CHAIR RAIL DETAIL. G. REFER TO SHEET A11.2 FOR FLOOR TRANSITION DETAILS 4A, 48. 40, 5A, 5B, AND 5C.\n\nSHEET NOTES\n\n1 WALK OFF CARPET TO FILL ENTIRE WIDTH & LENGTH OF VESTIBULE |SEE FINISH SCHEDULE)\n\n2 MEDICAL CURTAIN -MEDICAL SUPPLIES & EQUIPMENT COMPANY (OR APPROVED EQUAL) (PH) 877-706-4480 100% POLYESTER FABRIC, 120Z., ANTI-VICROBIAL TREATED, SFT. STRAIGHT CUBICLE TRACK.\n\nPROVIDE 1 1(2 x1 12 PREFINISHED BENT -LES METAL (22 GA] ANGLE FULL HEIGHT OF PARTITION. (WHITE) ATTACH TO CONCRETE PANELS ONLY. SEE DETAL 3CM33\n\n4 METAL DETECTION EQUIPMENT PROVIDED BY TENANT. CONTRACTOR TO COORDINATE & PROVIDE ELECTRICAL EQUIPMENT.\n\n5 METAL LOCKERS TO BE FURNISHED BY TENANT OR TENANT'S VENDOR AND INSTALLED BY OC WHERE HUNICATED DIAN PONUDE EN ADEL SOURIANTLOCKERE, ALL\n\nALL OPERABLE CONTROLS BETWEEN 15\u00b0-45' AFF. INDI CATED ON PLANL PROMDE 5% ADA COMPLIANT LOCKERS. ADA COMPLIANT LOCKERS MAX. HEIGHT 48\" AND VENDING EQUIPMENT BY TENANT (SEE ELECTRICAL SHEETS).\n\n2'>2*old\" HIGH STAINLESS STEEL CORNER GUARD (TYP.) PROVIDE AT ALL EXPOSED CORNERS, ADHERE TO & PROVIDE ELECTRICAL POWER AS REQUIRED.\n\nACCESSIBLE SPEEDLANE TURNSTILE BARRIER PROVIDED BY TENANT. CONTRACTOR TO INSTALL, COORDINATE\n\nHOLD FRAMING TIGHT TO FACE OF COLUMN ANDVOR INTERIOR ROOF DRAIN. PROVIDE CLEAN OUT ACCESS BANELAS BEOUBED\n\nROOF & OVERFLOW DRAIN LEADER - SEE DETAIL GBIAE.G.\n\n11 PROVIDE BWx IZ'L OPENING IN COUNTERTOP. CENTER OPENING BETWEEN SINKS & FRONT TO BACK.\n\n2 LINE OF 22' DIA. : 28\"HIGH x 32 GAL. TRASH CONTAINER WITHOUT LID BELOW COUNTER. CONTAINER BY' TENANT (NJ.C.)\n\n13 WOOD CHAIR RAL - TOP OF RAI AT 2'- AJ.F. CONTINUE CHAIR RAIL FOR ENTIRE LENGTH OF WALL THIS SIDE OF ROOM. VITER CORNERS OF WALL JOGS.\n\n14 LINE OF TENANT PROVIDED & INSTALLED, MANUALLY OPERATED PULL-DOWN PROJECTOR SCREEN ABOVE.\n\n15 LINE OF TENANT PROVIDED & INSTALLED PROJECTOR ABOVE. GO TO PROMDE () 125A. THE WIRES FROMRDO MOUNT TO BE SUPPLIED & INSTALLED BY AV CONTRACTOR (N.LC.) (SEE ADJUSTABLE SUSPENDED CEILING CHANNEL KIT #ELPMBPO1 BY PEERLESS MOUNTS FOR REQUIREMENTS. 800.729.0307).\n\n16 LOCATION OF WALL OR CELING MOUNTED TELEVISION MONITOR ABOVE. G.C. TO PROVIDE BLOCKING. MONITOR PROVIDEN AND INSTALLED BY TENANT, G.G. TO COORDINATE ALL ROOF PENETRATIONS FOR SATELLITE CABLING WITH THE ROOFING CONTRACTOR. (SEE ELECTRICAL AND ITWY SHEETS)\n\n17 LINE OF RECESSED TY MONITOR PROVIDED & INSTALLED BY TENANT, OC TO PROVIDE BLOCKING FOR BRACKET SUPPORT & ELECTRICAL & DATA OUTLETS FOR EACH MONITOR. VERIFY & COORDINATE FINAL LOCATION WITH TENANT REP. SEE DETAIL SF/A11.1 & 540411.1. (SEE ELECTRICAL SHEETS).\n\n18 REFRIGERATOR PROVIDED & INSTALLED BY TENANT (SEE ELECTRICAL SHEETS).\n\nICE MACHINE WITH DEPENSER PROVIDED AND INSTALLED BY TENANT. GC TO PROMDE WATER, FLOOR SINK POWER, AND SEWER. (SEE PLUMBING & ELECTRICAL SHEETS).\n\n20 COFFEE VENDING MACHINE BY TENANT. GC TO PROVIDE WATER AND POWER. (SEE PLUMBING AND ELECTRICAL SHEETS!\n\n21 METAL COAT RACKS PROVIDED TENANT & INSTALLED BY GC - SEE DETAL ZENZ. DE. AUTO OPERATOR FOR ADA. PROVIDE CONDUIT FOR DOOR OPENER.\n\n23 COLUIMINS & BRACING FOR OPERABLE PARTITION. (SEE STRUCTURAL SHEETS)\n\n4 STEEL ROOF ACCESS LADDER WITH LADDER-UP SAFETY POST AND ROOF HATCH ABOVE WITH SAFETY RAILING SYSTEM - SEE DETAIL SB/AS.A.\n\n25 STAND ALONE UNISTRUT FRAME PLEXIGLASS BARRIER. 5MM (VIN. | PLEXIGLASS TO SPAN FROM BOTTOM OF COUNTERTOP TO 7-0\" A.F.F. BARRIER SHALL HAVE NO COVERAGE GAPS, INCLUDING AT ROUNDED COUNTERTOP CORNERS. PLEXIGLASS SHALL PROVIDE COVERAGE FOR ALL LEVELS OF THE COUNTER AND CORNERS.\n\n26 UNDER COUNTER MOUNTED SINK | SEE PLUMBING SHEETS).\n\nACCESSIBLE HH.O DRINKING FOUNTAINS. (SEE PLUMBING AND ELECTRICAL SHEETS]\n\nJANITOR MOP / FLOOR SINK. PROVIDE 48TH F.R.P. PANELS TO 48\" ON ALL WALLS, LUN.O. (SEE PLUMBING SHEETS\n\nP VINYL BASE TO WRAP WALL MINIMUM WIDTH OF FLOOR TRANSITION RAMP & CORNER GUARD. START TILE BASE AT EDGE OF FLOOR TRANSITION, CORNER GUARD TO START AT TOP OF VINYL BASE. TOP OF FIRE EXTINGUISHER HANDLE TO BE MOUNTED AT 48\" MAX. A.F.F. INSTALL PER ANSI A117. 1 308 & 308. IN FLOOR POWER J DATA BOX. COORDINATE LOCATION WITH TENANT FURNITURE. SEE ELECTRICAL\n\nTRASHRECYLING BIN, OFOL\n\n7 8-2\" HIGH GALVANIZED DRIVER'S CACE WITH MAIL SLOT AND CEL ING. FIRE EXTINGUISHER MOUNTED TO WALL\n\n49 SURFACE MOUNTED BOLLARD - SEE DETAIL 44/11.1\n\n51 GALVANIZED CHAIN LINK FENCE ENCLOSURE CELING AT 8-Z' HEIGHT TO BE PROVIDED AND INSTALLED BY GC. PROVIDE DOORBELL ON EXTERIOR SIDE - TYP.\n\nINTERCOM AT VESTIBULE TO RING AT SECURITY DESK.\n\nKNOX BOX\n\n54 PRE-ENGINEERED CANOPY\n\n55 WIRE MESH PARTITION TO GO UP TO WITHIN AN INCHTOR TWO OF THE BOTTOM OF THE CANOPY. INSTALL PER MANUFACTURER'S RECOMMENDATIONS.\n\nPROVIDE 5 x 5 CONCRETE PAD AT EXT. BREAK ROOM\n\nFOOTWASH STATION, REFER TO DETAIL 24/CP3.2 FOR MOUNTING HEIGHTS.\n\n1-17 BARRIER BAR- MN. 28' EXTENSION FROM WALL -VERIFY EXCEEDS OUTERMOST EDGE OF DRINKING FOUNTAIN.(SEE DETAL 4B/11. 1)\n\n18\" HIGH BENCH AFFIXED TO ADJACENT WALLS AND FLOOR. ALLOWABLE STRESS OF BENCH SHALL NOT BE EXCEEDED FOR MATERIALS USED WHEN A VERTICAL OR HORCONTAL FORCE DE 3SOIRS IS APPLIED &T AATS POINT ON THE SEAT, FASTENER, MOUNTING DEVICE, OR SUPPORTING STRUCTURE. REFER TO DETAIL 2EV2. BEST CHANGING STRININ BABY STATION FLOOR DRAIN (SEE PLUMBING SHEETS) PROVIDE SENLENT AT FLOOR JOINTS AT PANEL OPENINGS\n\nLOCATION OF TENANT PROVIDED AND GC INSTALLED ADA LOCKERS, MIN.5% OF TOTAL, SEE DETAIL JEJA2.06 LOCATION OF TENANT PROMDED ADA COAT RACK, CONTRACTOR TO INSTALL. SEE DETAL 25/42.06.\n\nDEMARC ROOM FIRE EXTINGUISHER- SEE SPECIFICATIONS\n\n71 VAPOR MITIGATION SYSTEM RISER, COORDINATE WITH ROOF DRAINS - REFER TO VMS DRAWINGS\n\nKEY PLAN\n\n|:--|:--|:--|:-|\n| A | B | C |  |\n| D | E | F |  |\n\n1\n\n25-24107-00\n\nMAIN OFFICE AREA FLOOR PLAN - WEST\n\nA2.03\n\n1 42.09\n\n5/14/2024 7:49:18 AM\n\nImage With Text:\nK\nMATCHLINE - 44/A2.01\nDLRGROUP\nH\n1.1\nPLS\n.\nKA\nL\n5\n2\n5%\nE\n47.4\n15-11 53\"\n24 -8 35\"\n15.5\n33 -8\u00aa\n1'-2\n204 -8 5/8\"\nTYP\nTYP\nA1\nV\nNO\n10\nW\nW\nV3\nW\nW3\nW3\nW3\nNI\n10\n12\nA1\nA\nA\n-\n20\nVa\nC3\nC3\n(\nW2\n16\n8\n16\n11\n4\n1\nH1\n82\n1\n32\nW\nTO\n9.\n9\n03\nN\nN\n5\nE\n[TYP.]\n81\nEl\n53'-1 3/6\"\n59'-138\"\nSIM\n30\n-\nEMPLOYEE LOCKERS\n21\nV\n[TYP.]\n154A\n15\n15\n8\" ht. CLD Securis S1\nL.7\nLA\nDescription\nQuantity\nUnit\nBREAK ROOM 154\n5-6\n12'-0\"\n3' -6\" ORN Man Gate 1 Count\nSEAL ALL FLOOR JOINTS\n2 -1034-\n19'-0\"\n8' Securis S1Fence 57.7067 ft\nSecuris S1 8' End Post\n4-558\n2\nCount\n55\nDOS 8\nSecuris S1 Comer Post Count 1\n19\n2\n6-934\n7 -10 14\nA11.\n14\n3-6\n411.\n411.\n14\n32\n511.1\n55-9\n14'-0 5/8\"\nESTIMA\nW\n17- D\nWOMEN'S TOILET\nBLUTIO\n156\n10'- 10\"\nMEN'S TOILET\n153G\nC1\nVENDING STORAGE\n14-10\nOPP\n411.1\nOBB\n1598\nABLUTION 1530\n155\n8.6\n54\n&\n1458\n4\nHALLWAY 149\n4'-0'\nANITOR\nO\n& Securis\n17-0\"\n32\n157\n5-8\nANDMEN'S TOILET\nMULTIFAITH\n9-0\n8\n36 -11\"\n9-0\"\n36 - 11\"\n9-0\nK\nLACTATION\nMEN'S TOLET\nROCH 146\nHALLWAY\n152\n12'-0\n15%\nVENDING\n32\n2BY A2.07\n155\n13'-\n81\n5\n.\n8.4\n153A\nIANTOR\n-6\n18\ndi\nTYP.\nP\nDEMARC\n0\n67\n6 -10\"\n160\nMATCHENE - 4A 1 A2.01\n16-5 78\n411.1\n8 1/4\n@\n3\n12.05\nIT-11 3/87\n3 5/8\"\n\nENLARGED MAIN OFFICE FLOOR PLAN - WEST\n\nA2.03 SCALE: 10 - 1-",
+          "pageNum": 0
+        }
+      ],
+      "numPages": 1,
+      "text": "ODLR Group\n\n* STATE OF OVI GISTERED ARCHITECT\n\nPROJECT YELLOW JACKET\n\n9240 FREMONT PIKE AMBROSE PROPERTY GROUP PERRYSBURG, OH 43551\n\nPERMIT SET 05.13.2024 REVISIONS\n\nFLOOR PLAN GENERAL NOTES\n\nA. BOLLARDS ARE TO BE LOCATED WITHIN THE BUILDING TO PROTECT EXPOSED ELECTRICAL PANELS, ELECTRICAL GEAR ROCE DRAIN PIPINO, WATERLINES, GAS LINES, AND SPRINKLER TEST DRAIN PIPING WITHIN & OF WAREHOUSE FLOOR - PROVIDE REPLACEABLE YELLOW SLEEVE.\n\nB. PROVIDE BARRIER RAL S TO PROTECT EXPOSED FIRE SPRINKLER RISER - PAINT SAFETY YELLOW.\n\nC. PROMDE 2\"X2 X48' HIGH STAINLESS STEEL CORNER GUARDS (TYP.) AT ALL EXPOSED CORNERS, ADHERE TO WALL (NO\n\nD. PROVIDE SEALANT WHERE EDGE OF TIE ABUTS GYPSUML E. REFER TO DETAIL 21043.28 FOR TYPICAL METAL STUD OPENINGS AND CONTROL JOINT DETALS. GC TO DETERMINE CONSTRUCTION OOY\n\nF. REFER TO DETAIL ZEI11. 1 FOR TYPICAL CHAIR RAIL DETAIL. G. REFER TO SHEET A11.2 FOR FLOOR TRANSITION DETAILS 4A, 48. 40, 5A, 5B, AND 5C.\n\nSHEET NOTES\n\n1 WALK OFF CARPET TO FILL ENTIRE WIDTH & LENGTH OF VESTIBULE |SEE FINISH SCHEDULE)\n\n2 MEDICAL CURTAIN -MEDICAL SUPPLIES & EQUIPMENT COMPANY (OR APPROVED EQUAL) (PH) 877-706-4480 100% POLYESTER FABRIC, 120Z., ANTI-VICROBIAL TREATED, SFT. STRAIGHT CUBICLE TRACK.\n\nPROVIDE 1 1(2 x1 12 PREFINISHED BENT -LES METAL (22 GA] ANGLE FULL HEIGHT OF PARTITION. (WHITE) ATTACH TO CONCRETE PANELS ONLY. SEE DETAL 3CM33\n\n4 METAL DETECTION EQUIPMENT PROVIDED BY TENANT. CONTRACTOR TO COORDINATE & PROVIDE ELECTRICAL EQUIPMENT.\n\n5 METAL LOCKERS TO BE FURNISHED BY TENANT OR TENANT'S VENDOR AND INSTALLED BY OC WHERE HUNICATED DIAN PONUDE EN ADEL SOURIANTLOCKERE, ALL\n\nALL OPERABLE CONTROLS BETWEEN 15\u00b0-45' AFF. INDI CATED ON PLANL PROMDE 5% ADA COMPLIANT LOCKERS. ADA COMPLIANT LOCKERS MAX. HEIGHT 48\" AND VENDING EQUIPMENT BY TENANT (SEE ELECTRICAL SHEETS).\n\n2'>2*old\" HIGH STAINLESS STEEL CORNER GUARD (TYP.) PROVIDE AT ALL EXPOSED CORNERS, ADHERE TO & PROVIDE ELECTRICAL POWER AS REQUIRED.\n\nACCESSIBLE SPEEDLANE TURNSTILE BARRIER PROVIDED BY TENANT. CONTRACTOR TO INSTALL, COORDINATE\n\nHOLD FRAMING TIGHT TO FACE OF COLUMN ANDVOR INTERIOR ROOF DRAIN. PROVIDE CLEAN OUT ACCESS BANELAS BEOUBED\n\nROOF & OVERFLOW DRAIN LEADER - SEE DETAIL GBIAE.G.\n\n11 PROVIDE BWx IZ'L OPENING IN COUNTERTOP. CENTER OPENING BETWEEN SINKS & FRONT TO BACK.\n\n2 LINE OF 22' DIA. : 28\"HIGH x 32 GAL. TRASH CONTAINER WITHOUT LID BELOW COUNTER. CONTAINER BY' TENANT (NJ.C.)\n\n13 WOOD CHAIR RAL - TOP OF RAI AT 2'- AJ.F. CONTINUE CHAIR RAIL FOR ENTIRE LENGTH OF WALL THIS SIDE OF ROOM. VITER CORNERS OF WALL JOGS.\n\n14 LINE OF TENANT PROVIDED & INSTALLED, MANUALLY OPERATED PULL-DOWN PROJECTOR SCREEN ABOVE.\n\n15 LINE OF TENANT PROVIDED & INSTALLED PROJECTOR ABOVE. GO TO PROMDE () 125A. THE WIRES FROMRDO MOUNT TO BE SUPPLIED & INSTALLED BY AV CONTRACTOR (N.LC.) (SEE ADJUSTABLE SUSPENDED CEILING CHANNEL KIT #ELPMBPO1 BY PEERLESS MOUNTS FOR REQUIREMENTS. 800.729.0307).\n\n16 LOCATION OF WALL OR CELING MOUNTED TELEVISION MONITOR ABOVE. G.C. TO PROVIDE BLOCKING. MONITOR PROVIDEN AND INSTALLED BY TENANT, G.G. TO COORDINATE ALL ROOF PENETRATIONS FOR SATELLITE CABLING WITH THE ROOFING CONTRACTOR. (SEE ELECTRICAL AND ITWY SHEETS)\n\n17 LINE OF RECESSED TY MONITOR PROVIDED & INSTALLED BY TENANT, OC TO PROVIDE BLOCKING FOR BRACKET SUPPORT & ELECTRICAL & DATA OUTLETS FOR EACH MONITOR. VERIFY & COORDINATE FINAL LOCATION WITH TENANT REP. SEE DETAIL SF/A11.1 & 540411.1. (SEE ELECTRICAL SHEETS).\n\n18 REFRIGERATOR PROVIDED & INSTALLED BY TENANT (SEE ELECTRICAL SHEETS).\n\nICE MACHINE WITH DEPENSER PROVIDED AND INSTALLED BY TENANT. GC TO PROMDE WATER, FLOOR SINK POWER, AND SEWER. (SEE PLUMBING & ELECTRICAL SHEETS).\n\n20 COFFEE VENDING MACHINE BY TENANT. GC TO PROVIDE WATER AND POWER. (SEE PLUMBING AND ELECTRICAL SHEETS!\n\n21 METAL COAT RACKS PROVIDED TENANT & INSTALLED BY GC - SEE DETAL ZENZ. DE. AUTO OPERATOR FOR ADA. PROVIDE CONDUIT FOR DOOR OPENER.\n\n23 COLUIMINS & BRACING FOR OPERABLE PARTITION. (SEE STRUCTURAL SHEETS)\n\n4 STEEL ROOF ACCESS LADDER WITH LADDER-UP SAFETY POST AND ROOF HATCH ABOVE WITH SAFETY RAILING SYSTEM - SEE DETAIL SB/AS.A.\n\n25 STAND ALONE UNISTRUT FRAME PLEXIGLASS BARRIER. 5MM (VIN. | PLEXIGLASS TO SPAN FROM BOTTOM OF COUNTERTOP TO 7-0\" A.F.F. BARRIER SHALL HAVE NO COVERAGE GAPS, INCLUDING AT ROUNDED COUNTERTOP CORNERS. PLEXIGLASS SHALL PROVIDE COVERAGE FOR ALL LEVELS OF THE COUNTER AND CORNERS.\n\n26 UNDER COUNTER MOUNTED SINK | SEE PLUMBING SHEETS).\n\nACCESSIBLE HH.O DRINKING FOUNTAINS. (SEE PLUMBING AND ELECTRICAL SHEETS]\n\nJANITOR MOP / FLOOR SINK. PROVIDE 48TH F.R.P. PANELS TO 48\" ON ALL WALLS, LUN.O. (SEE PLUMBING SHEETS\n\nP VINYL BASE TO WRAP WALL MINIMUM WIDTH OF FLOOR TRANSITION RAMP & CORNER GUARD. START TILE BASE AT EDGE OF FLOOR TRANSITION, CORNER GUARD TO START AT TOP OF VINYL BASE. TOP OF FIRE EXTINGUISHER HANDLE TO BE MOUNTED AT 48\" MAX. A.F.F. INSTALL PER ANSI A117. 1 308 & 308. IN FLOOR POWER J DATA BOX. COORDINATE LOCATION WITH TENANT FURNITURE. SEE ELECTRICAL\n\nTRASHRECYLING BIN, OFOL\n\n7 8-2\" HIGH GALVANIZED DRIVER'S CACE WITH MAIL SLOT AND CEL ING. FIRE EXTINGUISHER MOUNTED TO WALL\n\n49 SURFACE MOUNTED BOLLARD - SEE DETAIL 44/11.1\n\n51 GALVANIZED CHAIN LINK FENCE ENCLOSURE CELING AT 8-Z' HEIGHT TO BE PROVIDED AND INSTALLED BY GC. PROVIDE DOORBELL ON EXTERIOR SIDE - TYP.\n\nINTERCOM AT VESTIBULE TO RING AT SECURITY DESK.\n\nKNOX BOX\n\n54 PRE-ENGINEERED CANOPY\n\n55 WIRE MESH PARTITION TO GO UP TO WITHIN AN INCHTOR TWO OF THE BOTTOM OF THE CANOPY. INSTALL PER MANUFACTURER'S RECOMMENDATIONS.\n\nPROVIDE 5 x 5 CONCRETE PAD AT EXT. BREAK ROOM\n\nFOOTWASH STATION, REFER TO DETAIL 24/CP3.2 FOR MOUNTING HEIGHTS.\n\n1-17 BARRIER BAR- MN. 28' EXTENSION FROM WALL -VERIFY EXCEEDS OUTERMOST EDGE OF DRINKING FOUNTAIN.(SEE DETAL 4B/11. 1)\n\n18\" HIGH BENCH AFFIXED TO ADJACENT WALLS AND FLOOR. ALLOWABLE STRESS OF BENCH SHALL NOT BE EXCEEDED FOR MATERIALS USED WHEN A VERTICAL OR HORCONTAL FORCE DE 3SOIRS IS APPLIED &T AATS POINT ON THE SEAT, FASTENER, MOUNTING DEVICE, OR SUPPORTING STRUCTURE. REFER TO DETAIL 2EV2. BEST CHANGING STRININ BABY STATION FLOOR DRAIN (SEE PLUMBING SHEETS) PROVIDE SENLENT AT FLOOR JOINTS AT PANEL OPENINGS\n\nLOCATION OF TENANT PROVIDED AND GC INSTALLED ADA LOCKERS, MIN.5% OF TOTAL, SEE DETAIL JEJA2.06 LOCATION OF TENANT PROMDED ADA COAT RACK, CONTRACTOR TO INSTALL. SEE DETAL 25/42.06.\n\nDEMARC ROOM FIRE EXTINGUISHER- SEE SPECIFICATIONS\n\n71 VAPOR MITIGATION SYSTEM RISER, COORDINATE WITH ROOF DRAINS - REFER TO VMS DRAWINGS\n\nKEY PLAN\n\n|:--|:--|:--|:-|\n| A | B | C |  |\n| D | E | F |  |\n\n1\n\n25-24107-00\n\nMAIN OFFICE AREA FLOOR PLAN - WEST\n\nA2.03\n\n1 42.09\n\n5/14/2024 7:49:18 AM\n\nImage With Text:\nK\nMATCHLINE - 44/A2.01\nDLRGROUP\nH\n1.1\nPLS\n.\nKA\nL\n5\n2\n5%\nE\n47.4\n15-11 53\"\n24 -8 35\"\n15.5\n33 -8\u00aa\n1'-2\n204 -8 5/8\"\nTYP\nTYP\nA1\nV\nNO\n10\nW\nW\nV3\nW\nW3\nW3\nW3\nNI\n10\n12\nA1\nA\nA\n-\n20\nVa\nC3\nC3\n(\nW2\n16\n8\n16\n11\n4\n1\nH1\n82\n1\n32\nW\nTO\n9.\n9\n03\nN\nN\n5\nE\n[TYP.]\n81\nEl\n53'-1 3/6\"\n59'-138\"\nSIM\n30\n-\nEMPLOYEE LOCKERS\n21\nV\n[TYP.]\n154A\n15\n15\n8\" ht. CLD Securis S1\nL.7\nLA\nDescription\nQuantity\nUnit\nBREAK ROOM 154\n5-6\n12'-0\"\n3' -6\" ORN Man Gate 1 Count\nSEAL ALL FLOOR JOINTS\n2 -1034-\n19'-0\"\n8' Securis S1Fence 57.7067 ft\nSecuris S1 8' End Post\n4-558\n2\nCount\n55\nDOS 8\nSecuris S1 Comer Post Count 1\n19\n2\n6-934\n7 -10 14\nA11.\n14\n3-6\n411.\n411.\n14\n32\n511.1\n55-9\n14'-0 5/8\"\nESTIMA\nW\n17- D\nWOMEN'S TOILET\nBLUTIO\n156\n10'- 10\"\nMEN'S TOILET\n153G\nC1\nVENDING STORAGE\n14-10\nOPP\n411.1\nOBB\n1598\nABLUTION 1530\n155\n8.6\n54\n&\n1458\n4\nHALLWAY 149\n4'-0'\nANITOR\nO\n& Securis\n17-0\"\n32\n157\n5-8\nANDMEN'S TOILET\nMULTIFAITH\n9-0\n8\n36 -11\"\n9-0\"\n36 - 11\"\n9-0\nK\nLACTATION\nMEN'S TOLET\nROCH 146\nHALLWAY\n152\n12'-0\n15%\nVENDING\n32\n2BY A2.07\n155\n13'-\n81\n5\n.\n8.4\n153A\nIANTOR\n-6\n18\ndi\nTYP.\nP\nDEMARC\n0\n67\n6 -10\"\n160\nMATCHENE - 4A 1 A2.01\n16-5 78\n411.1\n8 1/4\n@\n3\n12.05\nIT-11 3/87\n3 5/8\"\n\nENLARGED MAIN OFFICE FLOOR PLAN - WEST\n\nA2.03 SCALE: 10 - 1-",
+      "language": "en"
+    },
+    "numPages": 1,
+    "language": "en",
+    "metadata": null,
+    "status": "completed",
+    "timestamp": "2025-08-07T17:05:50.503000Z"
+  }
+}

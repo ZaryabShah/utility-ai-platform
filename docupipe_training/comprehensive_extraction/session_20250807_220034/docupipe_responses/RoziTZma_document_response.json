@@ -1,0 +1,267 @@
+{
+  "doc_id": "RoziTZma",
+  "response_type": "document",
+  "timestamp": "2025-08-07T22:10:11.882435",
+  "response_data": {
+    "documentId": "RoziTZma",
+    "dataset": "robust_utility_extraction",
+    "classified": false,
+    "classIds": null,
+    "filename": "HWY 20 Improvements -Concept Plan",
+    "fileType": "pdf",
+    "fileExtension": "pdf",
+    "result": {
+      "pages": [
+        {
+          "sections": [
+            {
+              "type": "text",
+              "text": "PLOTTED: May 10, 2024 - 3:46pm DRAWING: M:\\24061 (Ambrose - Project Yellow Jacket)\\400-Engineering\\Roadway\\ Basemaps\\24061 Public Improvements Concept.dig: Concept Plan",
+              "bbox": [
+                0.04513235294117647,
+                0.5418590909090909,
+                0.05712941176470588,
+                0.9741227272727273
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nUS-20\nEx R/W\nEx R/W\nNOTE: ROUNDABOUT LOCATION IS CONCEPTUAL AND SUBJECT TO CHANGE PER COORDINATION WITH PERRYSBURG TOWNSHIP, PROPERTY OWNERS AND THE ODOT STATE HIGHWAY ACCESS MANAGEMENT MANUAL.\n-\n-\n-\n-\nEx R/W\n-\n-\n-\n-\n-\nEx R/W.\n2140' - LIMITS OF IMPROVEMENTS\nEx R/W\nEx-R/W\n8\n0\n8\nR/W\nM\nA\n0\nADDITIONAL 0.24\nSUBJECT DEVELOPMENT PROPERTY\n0\nREQUIRED\nACRES OF R/W\nEx R/W\nU\n0\nEx f/#\nU\n0\nU\n0\nU\nEx R/W\nT\n4\n.\n8\nB\nEx-R/W\n2,075' OF FRONTAGE\nDRIVE\nRIGHT-IN RIGHT-OUT\nEx R/W\nEx-RAW",
+              "bbox": [
+                0.05474705882352941,
+                0.02215,
+                0.9213588235294118,
+                0.9778772727272728
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "24061 Public Intavements Concept.dwg",
+              "bbox": [
+                0.8831823529411764,
+                0.887490909090909,
+                0.984464705882353,
+                0.8978863636363635
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ISSUED:",
+              "bbox": [
+                0.920179411764706,
+                0.9219772727272727,
+                0.940464705882353,
+                0.930440909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "JOB NO .:",
+              "bbox": [
+                0.9209117647058823,
+                0.8988909090909091,
+                0.9428147058823529,
+                0.9076818181818183
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1",
+              "bbox": [
+                0.946820588235294,
+                0.9418,
+                0.9576529411764706,
+                0.9674954545454546
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "DRAWN BY:",
+              "bbox": [
+                0.9207147058823529,
+                0.9101545454545454,
+                0.9503882352941178,
+                0.919240909090909
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "CML CMS",
+              "bbox": [
+                0.9725764705882353,
+                0.911009090909091,
+                0.984120588235294,
+                0.9303545454545454
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "24061",
+              "bbox": [
+                0.9684882352941178,
+                0.8993909090909091,
+                0.9835470588235296,
+                0.9075409090909091
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROJECT YELLOW JACKET",
+              "bbox": [
+                0.9400852941176471,
+                0.6668227272727273,
+                0.9511352941176471,
+                0.8554363636363637
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PUBLIC IMPROVEMENT CONCEPT",
+              "bbox": [
+                0.9723794117647058,
+                0.6368727272727273,
+                0.9837558823529411,
+                0.8848454545454545
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nDGI\nDGL CONSULTING ENGINEERS, LLC 3455 BRIARFIELD BLVD. SUITE E MAUMEE, OH 43537 PHONE: 419.535.1015 www.dgl-ltd.com",
+              "bbox": [
+                0.9229382352941177,
+                0.5079,
+                0.9826970588235295,
+                0.6159909090909091
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "table",
+              "text": "|:---|:---------|:-|:-----|\n| 9  |          |  |      |\n| 8  |          |  |      |\n| 7  |          |  |      |\n| 6  |          |  |      |\n| 5  |          |  |      |\n| 4  |          |  |      |\n| 3  |          |  |      |\n| 2  |          |  |      |\n| 1  |          |  |      |\n| NO | REVISION |  | DATE |",
+              "bbox": [
+                0.9191029411764706,
+                0.2359,
+                0.9851029411764705,
+                0.5040227272727272
+              ],
+              "header": null,
+              "tableList": [
+                [
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "9",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "8",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "7",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "6",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "5",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "4",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "3",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "2",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "1",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "NO",
+                  "REVISION",
+                  "",
+                  "DATE"
+                ]
+              ]
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nZ\n0\n100\n200\nSCALE: 1\" = 100'",
+              "bbox": [
+                0.9189323529411765,
+                0.022654545454545455,
+                0.9844117647058823,
+                0.13204545454545455
+              ],
+              "header": null,
+              "tableList": null
+            }
+          ],
+          "text": "PLOTTED: May 10, 2024 - 3:46pm DRAWING: M:\\24061 (Ambrose - Project Yellow Jacket)\\400-Engineering\\Roadway\\ Basemaps\\24061 Public Improvements Concept.dig: Concept Plan\n\nImage With Text:\nUS-20\nEx R/W\nEx R/W\nNOTE: ROUNDABOUT LOCATION IS CONCEPTUAL AND SUBJECT TO CHANGE PER COORDINATION WITH PERRYSBURG TOWNSHIP, PROPERTY OWNERS AND THE ODOT STATE HIGHWAY ACCESS MANAGEMENT MANUAL.\n-\n-\n-\n-\nEx R/W\n-\n-\n-\n-\n-\nEx R/W.\n2140' - LIMITS OF IMPROVEMENTS\nEx R/W\nEx-R/W\n8\n0\n8\nR/W\nM\nA\n0\nADDITIONAL 0.24\nSUBJECT DEVELOPMENT PROPERTY\n0\nREQUIRED\nACRES OF R/W\nEx R/W\nU\n0\nEx f/#\nU\n0\nU\n0\nU\nEx R/W\nT\n4\n.\n8\nB\nEx-R/W\n2,075' OF FRONTAGE\nDRIVE\nRIGHT-IN RIGHT-OUT\nEx R/W\nEx-RAW\n\n24061 Public Intavements Concept.dwg\n\nISSUED:\n\nJOB NO .:\n\n1\n\nDRAWN BY:\n\nCML CMS\n\n24061\n\nPROJECT YELLOW JACKET\n\nPUBLIC IMPROVEMENT CONCEPT\n\nImage With Text:\nDGI\nDGL CONSULTING ENGINEERS, LLC 3455 BRIARFIELD BLVD. SUITE E MAUMEE, OH 43537 PHONE: 419.535.1015 www.dgl-ltd.com\n\n|:---|:---------|:-|:-----|\n| 9  |          |  |      |\n| 8  |          |  |      |\n| 7  |          |  |      |\n| 6  |          |  |      |\n| 5  |          |  |      |\n| 4  |          |  |      |\n| 3  |          |  |      |\n| 2  |          |  |      |\n| 1  |          |  |      |\n| NO | REVISION |  | DATE |\n\nImage With Text:\nZ\n0\n100\n200\nSCALE: 1\" = 100'",
+          "pageNum": 0
+        }
+      ],
+      "numPages": 1,
+      "text": "PLOTTED: May 10, 2024 - 3:46pm DRAWING: M:\\24061 (Ambrose - Project Yellow Jacket)\\400-Engineering\\Roadway\\ Basemaps\\24061 Public Improvements Concept.dig: Concept Plan\n\nImage With Text:\nUS-20\nEx R/W\nEx R/W\nNOTE: ROUNDABOUT LOCATION IS CONCEPTUAL AND SUBJECT TO CHANGE PER COORDINATION WITH PERRYSBURG TOWNSHIP, PROPERTY OWNERS AND THE ODOT STATE HIGHWAY ACCESS MANAGEMENT MANUAL.\n-\n-\n-\n-\nEx R/W\n-\n-\n-\n-\n-\nEx R/W.\n2140' - LIMITS OF IMPROVEMENTS\nEx R/W\nEx-R/W\n8\n0\n8\nR/W\nM\nA\n0\nADDITIONAL 0.24\nSUBJECT DEVELOPMENT PROPERTY\n0\nREQUIRED\nACRES OF R/W\nEx R/W\nU\n0\nEx f/#\nU\n0\nU\n0\nU\nEx R/W\nT\n4\n.\n8\nB\nEx-R/W\n2,075' OF FRONTAGE\nDRIVE\nRIGHT-IN RIGHT-OUT\nEx R/W\nEx-RAW\n\n24061 Public Intavements Concept.dwg\n\nISSUED:\n\nJOB NO .:\n\n1\n\nDRAWN BY:\n\nCML CMS\n\n24061\n\nPROJECT YELLOW JACKET\n\nPUBLIC IMPROVEMENT CONCEPT\n\nImage With Text:\nDGI\nDGL CONSULTING ENGINEERS, LLC 3455 BRIARFIELD BLVD. SUITE E MAUMEE, OH 43537 PHONE: 419.535.1015 www.dgl-ltd.com\n\n|:---|:---------|:-|:-----|\n| 9  |          |  |      |\n| 8  |          |  |      |\n| 7  |          |  |      |\n| 6  |          |  |      |\n| 5  |          |  |      |\n| 4  |          |  |      |\n| 3  |          |  |      |\n| 2  |          |  |      |\n| 1  |          |  |      |\n| NO | REVISION |  | DATE |\n\nImage With Text:\nZ\n0\n100\n200\nSCALE: 1\" = 100'",
+      "language": "en"
+    },
+    "numPages": 1,
+    "language": "en",
+    "metadata": null,
+    "status": "completed",
+    "timestamp": "2025-08-07T17:09:53.732000Z"
+  }
+}

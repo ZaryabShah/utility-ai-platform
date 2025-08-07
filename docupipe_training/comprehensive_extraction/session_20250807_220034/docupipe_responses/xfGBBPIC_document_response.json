@@ -1,0 +1,1136 @@
+{
+  "doc_id": "xfGBBPIC",
+  "response_type": "document",
+  "timestamp": "2025-08-07T22:14:59.590903",
+  "response_data": {
+    "documentId": "xfGBBPIC",
+    "dataset": "robust_utility_extraction",
+    "classified": false,
+    "classIds": null,
+    "filename": "AMZ TOL3 (Civil Set DL 9.13.24) 14",
+    "fileType": "pdf",
+    "fileExtension": "pdf",
+    "result": {
+      "pages": [
+        {
+          "sections": [
+            {
+              "type": "text",
+              "text": "MATCHLINE - SEE SHEET C4.1 AND C4.3",
+              "bbox": [
+                0.39490277777777777,
+                0.0536,
+                0.479925,
+                0.06241666666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nX\nX\nX\nX\nX\nX\nR50\nR200\"\n20\nM\nR3' (TYP.)\n4\n3\nR200\nX\nTYP\nMATCHLINE - SEE SHEET C4.1\n13\nR200\nTYP\nD\nX\nTYPJ\nC\nX\n-\nTYPI\nDE\n14' -\n+\n14'\n10' (TYP.)\n6'\n9\n4\nR75\n5\n- 10 (TYP.\n.\n6\n2\nT\nX\nX\nX\nX\nX\nX\nX\n*\nO\nL\n\"\n3\nX\nX\nX\n56\n(TYP.)\n(19\n0\nO\n1\n13\n(TYP.)\nTYP\nR30'\n-R10\nX\n40\nC\n10\n70'\n16\n8\n.\n10\nTYP\n-\n(TYP\nX\nR10\nX\nX\nX\n10\n55'\nTYP.\n(TYP.\n19\n3\n-\nR100\u00b0\nX\nX\nX\nX\nE\nX\nX\n10\nX\nX\nX\nX\nX\nX\nX\nX\nX\n13\n(TYP.)\n(TYP.)\n43'\n+\n3\nY\nTYPJ\nO\nO\n0\nWET COLLECTION BASIN SEE SHEET C5.14 FOR DETAIL\nMANDATORY STORMWATER EASEMENT (WIDTH VARIES)",
+              "bbox": [
+                0.10229722222222222,
+                0.05840416666666667,
+                0.7197833333333333,
+                0.6603583333333333
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "MATCHLINE - SEE SHEET C4.7",
+              "bbox": [
+                0.7179666666666668,
+                0.3274333333333333,
+                0.7237166666666667,
+                0.4235291666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "CODED NOTES:",
+              "bbox": [
+                0.066925,
+                0.7500375,
+                0.10376666666666666,
+                0.7587041666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1. PROPOSED 629,176 SF BUILDING. REFER TO ARCHITECTURAL PLANS FOR DETAILS.",
+              "bbox": [
+                0.057577777777777776,
+                0.7666916666666667,
+                0.19724722222222224,
+                0.7744916666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "2. PROPOSED CONCRETE SIDEWALK. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",
+              "bbox": [
+                0.05782777777777778,
+                0.7784291666666667,
+                0.19259444444444443,
+                0.7918541666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "3. PROPOSED INTEGRAL CONCRETE CURB AND SIDEWALK. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",
+              "bbox": [
+                0.057444444444444444,
+                0.7967833333333334,
+                0.17419444444444443,
+                0.8106583333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "4. PROPOSED ADA ACCESSIBLE CURB RAMP. REFER TO CONSTRUCTION DETAILS, SHEET C8.1.",
+              "bbox": [
+                0.057402777777777775,
+                0.8142874999999999,
+                0.19302222222222223,
+                0.8290458333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "5. PROPOSED ADA ACCESSIBLE PARKING SPACE WITH SIGNAGE. REFER TO TENENT SIGNAGE AND STRIPING DETAILS.",
+              "bbox": [
+                0.05741944444444444,
+                0.8326541666666666,
+                0.19655833333333333,
+                0.8472791666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "6. PROPOSED CONCRETE PARKING BLOCK. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",
+              "bbox": [
+                0.05748055555555556,
+                0.8509375,
+                0.19055833333333333,
+                0.8654208333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "7. PROPOSED 6\" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2.",
+              "bbox": [
+                0.05726944444444445,
+                0.8693583333333333,
+                0.18431944444444445,
+                0.8767458333333332
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "8. PROPOSED HEAVY DUTY ASPHALT PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET CB.O.",
+              "bbox": [
+                0.057444444444444444,
+                0.8804333333333334,
+                0.1854361111111111,
+                0.8947416666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "9. PROPOSED STANDARD DUTY ASPHALT PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",
+              "bbox": [
+                0.05729722222222222,
+                0.8986833333333334,
+                0.1917472222222222,
+                0.9132333333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "10. PROPOSED HEAVY DUTY CONCRETE PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",
+              "bbox": [
+                0.05775277777777778,
+                0.9169999999999999,
+                0.18856944444444446,
+                0.9312708333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "11. PROPOSED STANDARD DUTY CONCRETE PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",
+              "bbox": [
+                0.05756666666666667,
+                0.9354166666666667,
+                0.19543333333333332,
+                0.9490041666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "12. PROPOSED FLAG POLE. REFER TO CONSTRUCTION DETAILS, SHEET C8.3.",
+              "bbox": [
+                0.05732777777777778,
+                0.95355,
+                0.18375555555555556,
+                0.9611333333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "13. PROPOSED VERTICAL CURB. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",
+              "bbox": [
+                0.20322222222222222,
+                0.7666583333333333,
+                0.33673055555555553,
+                0.7741041666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "14. PROPOSED MOTORCYCLE PARKING. STALL DIMENSIONS SHALL BE 4.5' X 9.",
+              "bbox": [
+                0.20326944444444445,
+                0.7784416666666667,
+                0.33121666666666666,
+                0.7858875
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "15. TEN (10) PROPOSED ELECTRIC VEHICLE PARKING STALLS. REFER TO ELECTRICAL PLANS FOR DETAILS.",
+              "bbox": [
+                0.203325,
+                0.7892583333333333,
+                0.34247500000000003,
+                0.8038958333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "16. PROPOSED 8' TALL CHAINLINK PERIMETER FENCE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.",
+              "bbox": [
+                0.20305833333333334,
+                0.8077416666666667,
+                0.3364388888888889,
+                0.8216875
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "17. PROPOSED DRIVE IN RAMP. REFER TO ARCHITECTURAL PLANS FOR DETAILS.",
+              "bbox": [
+                0.203375,
+                0.825975,
+                0.3340611111111111,
+                0.8333916666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "18. PROPOSED GUARD SHACK. REFER TO ARCHITECTURAL PLANS FOR DETAILS.",
+              "bbox": [
+                0.20345833333333332,
+                0.8370291666666666,
+                0.3343611111111111,
+                0.8444916666666668
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "19. PROPOSED HEAVY DUTY CONCRETE DOLLY PAD. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",
+              "bbox": [
+                0.203575,
+                0.8479208333333333,
+                0.33470833333333333,
+                0.8627625
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "20. PROPOSED SPEED BUMP. REFER TO TENANT SIGNAGE AND STRIPING DETAILS.",
+              "bbox": [
+                0.20309166666666667,
+                0.8663291666666666,
+                0.336825,
+                0.8738250000000001
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "21. PROPOSED LIGHT POLE. SEE ELECTRICAL AND STRUCTURAL PLANS FOR MORE INFORMATION.",
+              "bbox": [
+                0.20349166666666668,
+                0.8772833333333333,
+                0.3380222222222222,
+                0.8921625
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "22. PROPOSED AUTOMATIC LICENSE PLATE RECOGNITION (ALPR) SYSTEM PROVIDED BY TENANT.",
+              "bbox": [
+                0.20304166666666668,
+                0.8955625,
+                0.34121388888888887,
+                0.9106708333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "23. PROPOSED PEDESTRIAN BARRIER. REFER TO ARCHITECTURAL PLANS FOR MORE INFORMATION.",
+              "bbox": [
+                0.20338055555555556,
+                0.9140166666666666,
+                0.3422277777777778,
+                0.9283666666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "24. PROPOSED SWING GATE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.",
+              "bbox": [
+                0.20298055555555555,
+                0.9321125,
+                0.33146111111111115,
+                0.9398916666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "25. PROPOSED DROP-OFF SHELTER. REFER TO ARCHITECTURAL PLANS FOR DETAILS",
+              "bbox": [
+                0.2031611111111111,
+                0.9432791666666667,
+                0.3289944444444444,
+                0.9576333333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "26. PROPOSED FLUSH CURB.",
+              "bbox": [
+                0.20274722222222222,
+                0.9617666666666667,
+                0.25200833333333333,
+                0.9691875
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "27. PROPOSED 4' TALL CHAINLINK FENCE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.",
+              "bbox": [
+                0.34844444444444445,
+                0.7667916666666666,
+                0.47735277777777774,
+                0.7811166666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "28. PROPOSED GRASS PAVERS FOR FIRE ACCESS. NDS TUFFTRACK GRASS PAVERS OR APPROVED EQUAL.",
+              "bbox": [
+                0.3492027777777778,
+                0.7850458333333333,
+                0.4857083333333333,
+                0.7998124999999999
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "29. PROPOSED BIKE RACK. REFER TO CONSTRUCTION DETAILS, SHEET C8.3.",
+              "bbox": [
+                0.34877777777777774,
+                0.8032333333333334,
+                0.4736138888888889,
+                0.8110958333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "30. PROPOSED PEDESTRIAN SPEED TABLE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.",
+              "bbox": [
+                0.34884166666666666,
+                0.8143125000000001,
+                0.47975,
+                0.8290625
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "31. PROPOSED MOUNTABLE CURA. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.",
+              "bbox": [
+                0.34852777777777777,
+                0.8323916666666666,
+                0.48660833333333336,
+                0.839975
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "32. PROPOSED FIRE ACCESS SWING GATE WITH KNOX BOX. REFER TO CONSTRUCTION DETAILS, SHEET C8.1 AND C8.4.",
+              "bbox": [
+                0.3486416666666667,
+                0.8442916666666668,
+                0.46374444444444446,
+                0.8583791666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "33. 20' WIDE EMERGENCY SPILLWAY FOR DRY DETENTION BASIN. REFER TO BMP DETAILS, SHEET C5.12.",
+              "bbox": [
+                0.34854444444444443,
+                0.8619791666666666,
+                0.4802388888888889,
+                0.8766708333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "34. PROPOSED TRASH REFUSE. SEE ARCHITECTURAL PLANS FOR MORE INFORMATION.",
+              "bbox": [
+                0.34842222222222224,
+                0.8803958333333334,
+                0.4664527777777778,
+                0.89475
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "35. PROPOSED SOUND WALL.",
+              "bbox": [
+                0.34844722222222224,
+                0.898875,
+                0.3980138888888889,
+                0.9057583333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nC4.2\nG\nCA.A\nG\nC4.5\nC4.1\nC43\nCA 9\nG\nC4.6\nC4.7\nC4.8\nC4.10\n\u20b9",
+              "bbox": [
+                0.7630361111111111,
+                0.024395833333333335,
+                0.8908722222222222,
+                0.1945625
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nCESO .............\n2000 Corporate Exchange Dr., Suite-400\nPhone: 654.794.7080 Fax: 188.200.4826",
+              "bbox": [
+                0.8980777777777779,
+                0.022275,
+                0.9840583333333333,
+                0.15789166666666668
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "KEY MAP SCALE: 1\"=1000'",
+              "bbox": [
+                0.8145777777777777,
+                0.20050416666666668,
+                0.8392305555555555,
+                0.21694166666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "SITE LEGEND",
+              "bbox": [
+                0.8108972222222222,
+                0.222525,
+                0.8434638888888889,
+                0.23121250000000002
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "EXISTING",
+              "bbox": [
+                0.8172305555555556,
+                0.23729166666666668,
+                0.8373083333333333,
+                0.24563333333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "REFER TO C3.0 FOR EXISTING FEATURES LEGEND",
+              "bbox": [
+                0.7871361111111111,
+                0.248775,
+                0.867113888888889,
+                0.2561833333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROPOSED",
+              "bbox": [
+                0.8150055555555555,
+                0.2600375,
+                0.8392916666666667,
+                0.2672083333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROPOSED HEAVY DUTY ASPHALT PAVEMENT",
+              "bbox": [
+                0.8281194444444444,
+                0.27587500000000004,
+                0.8838722222222223,
+                0.2898041666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROPOSED HEAVY DUTY CONCRETE PAVEMENT",
+              "bbox": [
+                0.8279111111111112,
+                0.3017,
+                0.8870916666666667,
+                0.31622500000000003
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROPOSED STANDARD DUTY CONCRETE PAVEMENT",
+              "bbox": [
+                0.8281638888888889,
+                0.3272625,
+                0.8749805555555557,
+                0.3416666666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROPOSED CONCRETE SIDEWALK",
+              "bbox": [
+                0.8282027777777778,
+                0.35656249999999995,
+                0.8833472222222222,
+                0.36356666666666665
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROPOSED MEDIUM DUTY ASPHALT PAVEMENT",
+              "bbox": [
+                0.8281416666666667,
+                0.37912083333333335,
+                0.8859138888888889,
+                0.3933125
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "SETBACK",
+              "bbox": [
+                0.8282861111111112,
+                0.40178749999999996,
+                0.8445277777777778,
+                0.40805833333333336
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "EASEMENT",
+              "bbox": [
+                0.8280916666666667,
+                0.41187083333333335,
+                0.8467638888888889,
+                0.41837083333333336
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "BUILDING",
+              "bbox": [
+                0.8278333333333333,
+                0.4238875,
+                0.8441138888888889,
+                0.4303166666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "CONCRETE CURB",
+              "bbox": [
+                0.8281027777777777,
+                0.43600833333333333,
+                0.8568722222222223,
+                0.4428125
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PAVEMENT/WALK",
+              "bbox": [
+                0.8280861111111111,
+                0.44625000000000004,
+                0.8567555555555555,
+                0.4532791666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "7",
+              "bbox": [
+                0.7954472222222222,
+                0.4590166666666667,
+                0.7969194444444444,
+                0.4631958333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PARKING SPACE COUNT",
+              "bbox": [
+                0.8281944444444445,
+                0.4570708333333333,
+                0.8673611111111111,
+                0.4639708333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "SIGN",
+              "bbox": [
+                0.8285694444444444,
+                0.4693541666666667,
+                0.8365888888888889,
+                0.475425
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "CATCH BASIN",
+              "bbox": [
+                0.8284972222222222,
+                0.47928333333333334,
+                0.8507833333333333,
+                0.4859291666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "D",
+              "bbox": [
+                0.795286111111111,
+                0.4923666666666667,
+                0.7971694444444445,
+                0.49659583333333335
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "STORM MANHOLE",
+              "bbox": [
+                0.828425,
+                0.4907958333333333,
+                0.8573055555555555,
+                0.4975791666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "S",
+              "bbox": [
+                0.7952583333333334,
+                0.5035458333333334,
+                0.7970722222222223,
+                0.5079166666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "SANITARY MANHOLE",
+              "bbox": [
+                0.8282833333333334,
+                0.5018166666666667,
+                0.8618722222222223,
+                0.5087083333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "CURB INLET",
+              "bbox": [
+                0.8280333333333334,
+                0.5129,
+                0.8489083333333334,
+                0.5197083333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "CLEANOUT",
+              "bbox": [
+                0.8282777777777778,
+                0.5239166666666667,
+                0.8469222222222222,
+                0.5307000000000001
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "DOWN SPOUT",
+              "bbox": [
+                0.8277388888888889,
+                0.536,
+                0.8515055555555555,
+                0.5431958333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "FIRE HYDRANT",
+              "bbox": [
+                0.8279527777777778,
+                0.5470958333333333,
+                0.8529,
+                0.5540416666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "WATER VALVE",
+              "bbox": [
+                0.8279222222222222,
+                0.5576791666666666,
+                0.8524861111111111,
+                0.5645958333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "LIGHT POLE",
+              "bbox": [
+                0.8282916666666666,
+                0.5682958333333333,
+                0.8483388888888889,
+                0.57545
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "CONCRETE BUMPER BLOCK",
+              "bbox": [
+                0.8282861111111112,
+                0.578475,
+                0.8737638888888889,
+                0.5856833333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "TREE LINE",
+              "bbox": [
+                0.8285472222222222,
+                0.5896666666666667,
+                0.8461944444444445,
+                0.5963291666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "REFER TO SHEET C2.0 FOR GENERAL SITE NOTES",
+              "bbox": [
+                0.7878305555555555,
+                0.6180666666666667,
+                0.8676555555555556,
+                0.625525
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nZ\n40\n0\n40\n80\nGRAPHIC SCALE (IN FEET) 1 in. = 40 ft",
+              "bbox": [
+                0.7786416666666667,
+                0.7663708333333333,
+                0.8702444444444445,
+                0.8419208333333333
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nOHIO81.CO",
+              "bbox": [
+                0.7521611111111111,
+                0.8857916666666666,
+                0.8331333333333333,
+                0.9333416666666667
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "FORTY-EIGHT (48) HOURS BEFORE DIGGING IS TO COMMENCE, THE CONTRACTORS SHALL NOTIFY THE FOLLOWING AGENCIES: OHIO UTILITIES PROTECTION SERVICE AT 811 OR 800-362-2764 AND ALL OTHER AGENCIES WHICH MIGHT HAVE UNDERGROUND UTILITIES INVOLVING THIS PROJECT AND ARE NONMEMBERS OF STATE UTILITIES PROTECTION SERVICE",
+              "bbox": [
+                0.8347833333333333,
+                0.8673083333333333,
+                0.8883666666666667,
+                0.951425
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "AMBROSE PROPERTY GROUP",
+              "bbox": [
+                0.9062444444444444,
+                0.43290416666666665,
+                0.9165888888888889,
+                0.649075
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROJECT",
+              "bbox": [
+                0.9358083333333335,
+                0.5467583333333333,
+                0.9496972222222223,
+                0.6500458333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "9240 FREMONT PIKE YELLOW JACKET PERRYSBURG, OHIO 43551",
+              "bbox": [
+                0.9527194444444445,
+                0.46165833333333334,
+                0.9811916666666666,
+                0.6506958333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Revisions / Submissions",
+              "bbox": [
+                0.9201027777777777,
+                0.6570541666666666,
+                0.9608500000000001,
+                0.6632125
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ID Description",
+              "bbox": [
+                0.9016638888888888,
+                0.6682250000000001,
+                0.9312722222222222,
+                0.6750208333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "0",
+              "bbox": [
+                0.9025083333333332,
+                0.6767458333333334,
+                0.9057944444444446,
+                0.682525
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "CONSTRUCTION SET 08/19/2024",
+              "bbox": [
+                0.9121194444444445,
+                0.6756625,
+                0.9768666666666667,
+                0.6824458333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "1 CONSTRUCTION SET REV1 09/04/2024",
+              "bbox": [
+                0.9027305555555556,
+                0.6834250000000001,
+                0.9772055555555555,
+                0.6905916666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "table",
+              "text": "|:----------------|:-|:-----------------|\n| Project Number: |  | 763990           |\n| Scale:          |  | AS SHOWN         |\n| Drawn By:       |  | CTM              |\n| Checked By:     |  | JMB              |\n| Date:           |  | 08/19/2024       |\n| Issue:          |  | FOR CONSTRUCTION |",
+              "bbox": [
+                0.9007111111111112,
+                0.8074333333333333,
+                0.9831777777777777,
+                0.8688166666666667
+              ],
+              "header": null,
+              "tableList": [
+                [
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Project Number:",
+                  "",
+                  "763990"
+                ],
+                [
+                  "Scale:",
+                  "",
+                  "AS SHOWN"
+                ],
+                [
+                  "Drawn By:",
+                  "",
+                  "CTM"
+                ],
+                [
+                  "Checked By:",
+                  "",
+                  "JMB"
+                ],
+                [
+                  "Date:",
+                  "",
+                  "08/19/2024"
+                ],
+                [
+                  "Issue:",
+                  "",
+                  "FOR CONSTRUCTION"
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Drawing Title:",
+              "bbox": [
+                0.8998305555555556,
+                0.8738,
+                0.9303277777777778,
+                0.8809999999999999
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "SITE PLAN",
+              "bbox": [
+                0.9216361111111111,
+                0.8837666666666667,
+                0.9599305555555555,
+                0.8938708333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "C4.6",
+              "bbox": [
+                0.9253194444444445,
+                0.9542291666666666,
+                0.9562527777777778,
+                0.9725166666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "Date",
+              "bbox": [
+                0.9652861111111112,
+                0.6687249999999999,
+                0.9728833333333333,
+                0.6745333333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            }
+          ],
+          "text": "MATCHLINE - SEE SHEET C4.1 AND C4.3\n\nImage With Text:\nX\nX\nX\nX\nX\nX\nR50\nR200\"\n20\nM\nR3' (TYP.)\n4\n3\nR200\nX\nTYP\nMATCHLINE - SEE SHEET C4.1\n13\nR200\nTYP\nD\nX\nTYPJ\nC\nX\n-\nTYPI\nDE\n14' -\n+\n14'\n10' (TYP.)\n6'\n9\n4\nR75\n5\n- 10 (TYP.\n.\n6\n2\nT\nX\nX\nX\nX\nX\nX\nX\n*\nO\nL\n\"\n3\nX\nX\nX\n56\n(TYP.)\n(19\n0\nO\n1\n13\n(TYP.)\nTYP\nR30'\n-R10\nX\n40\nC\n10\n70'\n16\n8\n.\n10\nTYP\n-\n(TYP\nX\nR10\nX\nX\nX\n10\n55'\nTYP.\n(TYP.\n19\n3\n-\nR100\u00b0\nX\nX\nX\nX\nE\nX\nX\n10\nX\nX\nX\nX\nX\nX\nX\nX\nX\n13\n(TYP.)\n(TYP.)\n43'\n+\n3\nY\nTYPJ\nO\nO\n0\nWET COLLECTION BASIN SEE SHEET C5.14 FOR DETAIL\nMANDATORY STORMWATER EASEMENT (WIDTH VARIES)\n\nMATCHLINE - SEE SHEET C4.7\n\nCODED NOTES:\n\n1. PROPOSED 629,176 SF BUILDING. REFER TO ARCHITECTURAL PLANS FOR DETAILS.\n\n2. PROPOSED CONCRETE SIDEWALK. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n3. PROPOSED INTEGRAL CONCRETE CURB AND SIDEWALK. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n4. PROPOSED ADA ACCESSIBLE CURB RAMP. REFER TO CONSTRUCTION DETAILS, SHEET C8.1.\n\n5. PROPOSED ADA ACCESSIBLE PARKING SPACE WITH SIGNAGE. REFER TO TENENT SIGNAGE AND STRIPING DETAILS.\n\n6. PROPOSED CONCRETE PARKING BLOCK. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n7. PROPOSED 6\" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2.\n\n8. PROPOSED HEAVY DUTY ASPHALT PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET CB.O.\n\n9. PROPOSED STANDARD DUTY ASPHALT PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n10. PROPOSED HEAVY DUTY CONCRETE PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n11. PROPOSED STANDARD DUTY CONCRETE PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n12. PROPOSED FLAG POLE. REFER TO CONSTRUCTION DETAILS, SHEET C8.3.\n\n13. PROPOSED VERTICAL CURB. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n14. PROPOSED MOTORCYCLE PARKING. STALL DIMENSIONS SHALL BE 4.5' X 9.\n\n15. TEN (10) PROPOSED ELECTRIC VEHICLE PARKING STALLS. REFER TO ELECTRICAL PLANS FOR DETAILS.\n\n16. PROPOSED 8' TALL CHAINLINK PERIMETER FENCE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.\n\n17. PROPOSED DRIVE IN RAMP. REFER TO ARCHITECTURAL PLANS FOR DETAILS.\n\n18. PROPOSED GUARD SHACK. REFER TO ARCHITECTURAL PLANS FOR DETAILS.\n\n19. PROPOSED HEAVY DUTY CONCRETE DOLLY PAD. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n20. PROPOSED SPEED BUMP. REFER TO TENANT SIGNAGE AND STRIPING DETAILS.\n\n21. PROPOSED LIGHT POLE. SEE ELECTRICAL AND STRUCTURAL PLANS FOR MORE INFORMATION.\n\n22. PROPOSED AUTOMATIC LICENSE PLATE RECOGNITION (ALPR) SYSTEM PROVIDED BY TENANT.\n\n23. PROPOSED PEDESTRIAN BARRIER. REFER TO ARCHITECTURAL PLANS FOR MORE INFORMATION.\n\n24. PROPOSED SWING GATE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.\n\n25. PROPOSED DROP-OFF SHELTER. REFER TO ARCHITECTURAL PLANS FOR DETAILS\n\n26. PROPOSED FLUSH CURB.\n\n27. PROPOSED 4' TALL CHAINLINK FENCE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.\n\n28. PROPOSED GRASS PAVERS FOR FIRE ACCESS. NDS TUFFTRACK GRASS PAVERS OR APPROVED EQUAL.\n\n29. PROPOSED BIKE RACK. REFER TO CONSTRUCTION DETAILS, SHEET C8.3.\n\n30. PROPOSED PEDESTRIAN SPEED TABLE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.\n\n31. PROPOSED MOUNTABLE CURA. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n32. PROPOSED FIRE ACCESS SWING GATE WITH KNOX BOX. REFER TO CONSTRUCTION DETAILS, SHEET C8.1 AND C8.4.\n\n33. 20' WIDE EMERGENCY SPILLWAY FOR DRY DETENTION BASIN. REFER TO BMP DETAILS, SHEET C5.12.\n\n34. PROPOSED TRASH REFUSE. SEE ARCHITECTURAL PLANS FOR MORE INFORMATION.\n\n35. PROPOSED SOUND WALL.\n\nImage With Text:\nC4.2\nG\nCA.A\nG\nC4.5\nC4.1\nC43\nCA 9\nG\nC4.6\nC4.7\nC4.8\nC4.10\n\u20b9\n\nImage With Text:\nCESO .............\n2000 Corporate Exchange Dr., Suite-400\nPhone: 654.794.7080 Fax: 188.200.4826\n\nKEY MAP SCALE: 1\"=1000'\n\nSITE LEGEND\n\nEXISTING\n\nREFER TO C3.0 FOR EXISTING FEATURES LEGEND\n\nPROPOSED\n\nPROPOSED HEAVY DUTY ASPHALT PAVEMENT\n\nPROPOSED HEAVY DUTY CONCRETE PAVEMENT\n\nPROPOSED STANDARD DUTY CONCRETE PAVEMENT\n\nPROPOSED CONCRETE SIDEWALK\n\nPROPOSED MEDIUM DUTY ASPHALT PAVEMENT\n\nSETBACK\n\nEASEMENT\n\nBUILDING\n\nCONCRETE CURB\n\nPAVEMENT/WALK\n\n7\n\nPARKING SPACE COUNT\n\nSIGN\n\nCATCH BASIN\n\nD\n\nSTORM MANHOLE\n\nS\n\nSANITARY MANHOLE\n\nCURB INLET\n\nCLEANOUT\n\nDOWN SPOUT\n\nFIRE HYDRANT\n\nWATER VALVE\n\nLIGHT POLE\n\nCONCRETE BUMPER BLOCK\n\nTREE LINE\n\nREFER TO SHEET C2.0 FOR GENERAL SITE NOTES\n\nImage With Text:\nZ\n40\n0\n40\n80\nGRAPHIC SCALE (IN FEET) 1 in. = 40 ft\n\nImage With Text:\nOHIO81.CO\n\nFORTY-EIGHT (48) HOURS BEFORE DIGGING IS TO COMMENCE, THE CONTRACTORS SHALL NOTIFY THE FOLLOWING AGENCIES: OHIO UTILITIES PROTECTION SERVICE AT 811 OR 800-362-2764 AND ALL OTHER AGENCIES WHICH MIGHT HAVE UNDERGROUND UTILITIES INVOLVING THIS PROJECT AND ARE NONMEMBERS OF STATE UTILITIES PROTECTION SERVICE\n\nAMBROSE PROPERTY GROUP\n\nPROJECT\n\n9240 FREMONT PIKE YELLOW JACKET PERRYSBURG, OHIO 43551\n\nRevisions / Submissions\n\nID Description\n\n0\n\nCONSTRUCTION SET 08/19/2024\n\n1 CONSTRUCTION SET REV1 09/04/2024\n\n|:----------------|:-|:-----------------|\n| Project Number: |  | 763990           |\n| Scale:          |  | AS SHOWN         |\n| Drawn By:       |  | CTM              |\n| Checked By:     |  | JMB              |\n| Date:           |  | 08/19/2024       |\n| Issue:          |  | FOR CONSTRUCTION |\n\nDrawing Title:\n\nSITE PLAN\n\nC4.6\n\nDate",
+          "pageNum": 0
+        }
+      ],
+      "numPages": 1,
+      "text": "MATCHLINE - SEE SHEET C4.1 AND C4.3\n\nImage With Text:\nX\nX\nX\nX\nX\nX\nR50\nR200\"\n20\nM\nR3' (TYP.)\n4\n3\nR200\nX\nTYP\nMATCHLINE - SEE SHEET C4.1\n13\nR200\nTYP\nD\nX\nTYPJ\nC\nX\n-\nTYPI\nDE\n14' -\n+\n14'\n10' (TYP.)\n6'\n9\n4\nR75\n5\n- 10 (TYP.\n.\n6\n2\nT\nX\nX\nX\nX\nX\nX\nX\n*\nO\nL\n\"\n3\nX\nX\nX\n56\n(TYP.)\n(19\n0\nO\n1\n13\n(TYP.)\nTYP\nR30'\n-R10\nX\n40\nC\n10\n70'\n16\n8\n.\n10\nTYP\n-\n(TYP\nX\nR10\nX\nX\nX\n10\n55'\nTYP.\n(TYP.\n19\n3\n-\nR100\u00b0\nX\nX\nX\nX\nE\nX\nX\n10\nX\nX\nX\nX\nX\nX\nX\nX\nX\n13\n(TYP.)\n(TYP.)\n43'\n+\n3\nY\nTYPJ\nO\nO\n0\nWET COLLECTION BASIN SEE SHEET C5.14 FOR DETAIL\nMANDATORY STORMWATER EASEMENT (WIDTH VARIES)\n\nMATCHLINE - SEE SHEET C4.7\n\nCODED NOTES:\n\n1. PROPOSED 629,176 SF BUILDING. REFER TO ARCHITECTURAL PLANS FOR DETAILS.\n\n2. PROPOSED CONCRETE SIDEWALK. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n3. PROPOSED INTEGRAL CONCRETE CURB AND SIDEWALK. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n4. PROPOSED ADA ACCESSIBLE CURB RAMP. REFER TO CONSTRUCTION DETAILS, SHEET C8.1.\n\n5. PROPOSED ADA ACCESSIBLE PARKING SPACE WITH SIGNAGE. REFER TO TENENT SIGNAGE AND STRIPING DETAILS.\n\n6. PROPOSED CONCRETE PARKING BLOCK. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n7. PROPOSED 6\" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2.\n\n8. PROPOSED HEAVY DUTY ASPHALT PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET CB.O.\n\n9. PROPOSED STANDARD DUTY ASPHALT PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n10. PROPOSED HEAVY DUTY CONCRETE PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n11. PROPOSED STANDARD DUTY CONCRETE PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n12. PROPOSED FLAG POLE. REFER TO CONSTRUCTION DETAILS, SHEET C8.3.\n\n13. PROPOSED VERTICAL CURB. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n14. PROPOSED MOTORCYCLE PARKING. STALL DIMENSIONS SHALL BE 4.5' X 9.\n\n15. TEN (10) PROPOSED ELECTRIC VEHICLE PARKING STALLS. REFER TO ELECTRICAL PLANS FOR DETAILS.\n\n16. PROPOSED 8' TALL CHAINLINK PERIMETER FENCE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.\n\n17. PROPOSED DRIVE IN RAMP. REFER TO ARCHITECTURAL PLANS FOR DETAILS.\n\n18. PROPOSED GUARD SHACK. REFER TO ARCHITECTURAL PLANS FOR DETAILS.\n\n19. PROPOSED HEAVY DUTY CONCRETE DOLLY PAD. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n20. PROPOSED SPEED BUMP. REFER TO TENANT SIGNAGE AND STRIPING DETAILS.\n\n21. PROPOSED LIGHT POLE. SEE ELECTRICAL AND STRUCTURAL PLANS FOR MORE INFORMATION.\n\n22. PROPOSED AUTOMATIC LICENSE PLATE RECOGNITION (ALPR) SYSTEM PROVIDED BY TENANT.\n\n23. PROPOSED PEDESTRIAN BARRIER. REFER TO ARCHITECTURAL PLANS FOR MORE INFORMATION.\n\n24. PROPOSED SWING GATE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.\n\n25. PROPOSED DROP-OFF SHELTER. REFER TO ARCHITECTURAL PLANS FOR DETAILS\n\n26. PROPOSED FLUSH CURB.\n\n27. PROPOSED 4' TALL CHAINLINK FENCE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.\n\n28. PROPOSED GRASS PAVERS FOR FIRE ACCESS. NDS TUFFTRACK GRASS PAVERS OR APPROVED EQUAL.\n\n29. PROPOSED BIKE RACK. REFER TO CONSTRUCTION DETAILS, SHEET C8.3.\n\n30. PROPOSED PEDESTRIAN SPEED TABLE. REFER TO CONSTRUCTION DETAILS, SHEET C8.4.\n\n31. PROPOSED MOUNTABLE CURA. REFER TO CONSTRUCTION DETAILS, SHEET C8.0.\n\n32. PROPOSED FIRE ACCESS SWING GATE WITH KNOX BOX. REFER TO CONSTRUCTION DETAILS, SHEET C8.1 AND C8.4.\n\n33. 20' WIDE EMERGENCY SPILLWAY FOR DRY DETENTION BASIN. REFER TO BMP DETAILS, SHEET C5.12.\n\n34. PROPOSED TRASH REFUSE. SEE ARCHITECTURAL PLANS FOR MORE INFORMATION.\n\n35. PROPOSED SOUND WALL.\n\nImage With Text:\nC4.2\nG\nCA.A\nG\nC4.5\nC4.1\nC43\nCA 9\nG\nC4.6\nC4.7\nC4.8\nC4.10\n\u20b9\n\nImage With Text:\nCESO .............\n2000 Corporate Exchange Dr., Suite-400\nPhone: 654.794.7080 Fax: 188.200.4826\n\nKEY MAP SCALE: 1\"=1000'\n\nSITE LEGEND\n\nEXISTING\n\nREFER TO C3.0 FOR EXISTING FEATURES LEGEND\n\nPROPOSED\n\nPROPOSED HEAVY DUTY ASPHALT PAVEMENT\n\nPROPOSED HEAVY DUTY CONCRETE PAVEMENT\n\nPROPOSED STANDARD DUTY CONCRETE PAVEMENT\n\nPROPOSED CONCRETE SIDEWALK\n\nPROPOSED MEDIUM DUTY ASPHALT PAVEMENT\n\nSETBACK\n\nEASEMENT\n\nBUILDING\n\nCONCRETE CURB\n\nPAVEMENT/WALK\n\n7\n\nPARKING SPACE COUNT\n\nSIGN\n\nCATCH BASIN\n\nD\n\nSTORM MANHOLE\n\nS\n\nSANITARY MANHOLE\n\nCURB INLET\n\nCLEANOUT\n\nDOWN SPOUT\n\nFIRE HYDRANT\n\nWATER VALVE\n\nLIGHT POLE\n\nCONCRETE BUMPER BLOCK\n\nTREE LINE\n\nREFER TO SHEET C2.0 FOR GENERAL SITE NOTES\n\nImage With Text:\nZ\n40\n0\n40\n80\nGRAPHIC SCALE (IN FEET) 1 in. = 40 ft\n\nImage With Text:\nOHIO81.CO\n\nFORTY-EIGHT (48) HOURS BEFORE DIGGING IS TO COMMENCE, THE CONTRACTORS SHALL NOTIFY THE FOLLOWING AGENCIES: OHIO UTILITIES PROTECTION SERVICE AT 811 OR 800-362-2764 AND ALL OTHER AGENCIES WHICH MIGHT HAVE UNDERGROUND UTILITIES INVOLVING THIS PROJECT AND ARE NONMEMBERS OF STATE UTILITIES PROTECTION SERVICE\n\nAMBROSE PROPERTY GROUP\n\nPROJECT\n\n9240 FREMONT PIKE YELLOW JACKET PERRYSBURG, OHIO 43551\n\nRevisions / Submissions\n\nID Description\n\n0\n\nCONSTRUCTION SET 08/19/2024\n\n1 CONSTRUCTION SET REV1 09/04/2024\n\n|:----------------|:-|:-----------------|\n| Project Number: |  | 763990           |\n| Scale:          |  | AS SHOWN         |\n| Drawn By:       |  | CTM              |\n| Checked By:     |  | JMB              |\n| Date:           |  | 08/19/2024       |\n| Issue:          |  | FOR CONSTRUCTION |\n\nDrawing Title:\n\nSITE PLAN\n\nC4.6\n\nDate",
+      "language": "en"
+    },
+    "numPages": 1,
+    "language": "en",
+    "metadata": null,
+    "status": "completed",
+    "timestamp": "2025-08-07T17:14:31.266000Z"
+  }
+}

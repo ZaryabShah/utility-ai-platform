@@ -1,0 +1,368 @@
+{
+  "doc_id": "mXRptbBK",
+  "response_type": "document",
+  "timestamp": "2025-08-07T22:05:47.786384",
+  "response_data": {
+    "documentId": "mXRptbBK",
+    "dataset": "robust_utility_extraction",
+    "classified": false,
+    "classIds": null,
+    "filename": "1. Architectural Drawings A1.1",
+    "fileType": "pdf",
+    "fileExtension": "pdf",
+    "result": {
+      "pages": [
+        {
+          "sections": [
+            {
+              "type": "image",
+              "text": "Image With Text:\ne\n-\nC\nIN\n1\nA\nSN\n6\nV\n3\n9\n10\n1%\nK\n=\n4\na\n8\n4\n4\n19\n20\n1000'-0\"\n12-2\nAT-IT\nHATCH INE - ANERA\n\u20ba\n,\n2.1\n-\nA\n507- D'\n.\nA\nB\nC\nq\n90 -D\"\n1\nC\nC\n0\n0\n=\n44\n0\n59-0\"\n0\nA2. 0g\nD\nD\n50'-g\nQ\n0\na\nSO\n50'-0\"\nE\n0\nu\nt\nE\n620'-D'\nO\n0\n50'-D'\n0\n\u00ae\nMATCHLINE - AREA A\nK\nMATCHLINE - AREA C\nO\nATCHLINE - AREA D\n0\nA\n:\nMATCHLINE -AREA F\n0\n90' -0\"\nU\ni\nTrucker Gate Locations\nG\n1\nS\n0\nU\nX\nu\n0\nH\n1\ny\nh\nH\ng\nL\n50'-0\"\nJ\n0\nO\nJ\nU\n\u20ba\n1\n50'-4\nN\nK\ng\nn\nK\n3\nL\n0\nt\n0\nL\n5\nU\nT\nSB\n0\nF\n2\nM\nZ\nMATCHLINE - AMEA D MATCHLINE - AREA E\n1\n2\n3\n4\n5\n\u00b7\nY\n-\n0\n5\n5\n-\n\u00a5\nV\n1a\n18\n3\n14\nOVERALL FLOOR PLAN, LEVEL 1\nSCALE: 1\" = 50-0\"",
+              "bbox": [
+                0.09430238095238096,
+                0.03082333333333333,
+                0.8061642857142857,
+                0.67963
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "5/14/2024 7:47:54 AM",
+              "bbox": [
+                0.018442857142857143,
+                0.9391733333333333,
+                0.02281666666666667,
+                0.9833433333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "GENERAL ARCHITECTURAL NOTES",
+              "bbox": [
+                0.8503976190476191,
+                0.022456666666666666,
+                0.942102380952381,
+                0.03138666666666667
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": ". ALLINTERIOR CMU WALLS SHALL BE B INCHES NOMINAL THICKNESS, UNLESS NOTED OTHERWISE.",
+              "bbox": [
+                0.8510714285714285,
+                0.04192666666666667,
+                0.9297404761904763,
+                0.05281333333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": ". WALL TYPES SHALL BE DESIGNATED ON FLOOR PLANS THUS: (11 ) SEE SHEET AR. 1 FOR WALL TYPES.",
+              "bbox": [
+                0.8509238095238094,
+                0.051723333333333336,
+                0.9372476190476191,
+                0.06345333333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PUMASUNNY WALLS AND INTERIOR STUD WALLS SHALL EXTEND TO UNDERSIDE OF FLOOR OR ROOF DECK ABOVE",
+              "bbox": [
+                0.8525499999999999,
+                0.06296,
+                0.9332642857142857,
+                0.07454000000000001
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": ". PROVISIONS SHALL BE MADE AT ALL FULL HEIGHT NOM- BEARING WIRLES FOR ZNICH VERTICAL MOVEMENT OF THE AND DECK ABOVE WITH MINERNI WOOL INSULATION OR FI STOPPING MATERIALS AS REQUIRED TO MEET FIRE RATING OF RESPECTIVE WALLS.",
+              "bbox": [
+                0.8515071428571429,
+                0.07737333333333334,
+                0.9402833333333334,
+                0.11288333333333332
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "SEE STRUCTURAL DRAWINGS FOR BRACING OF NON-LDAD BEARING MASONRY WALLS.",
+              "bbox": [
+                0.8521119047619047,
+                0.11214666666666666,
+                0.9339619047619048,
+                0.12326666666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": ". FURNISH AND INSTALL FIRE-TREATED WOOD BLOCKING OR METAL BACKING PLATE IN METAL STUD PARTITIONS FOR THE PROPER ANCHORAGE OF ALL WALL ATTACHEDTIEMS TE TOILET ACCESSORIES, CASEWORK, MILLWORK, WALL- MOUNTED FIXTURES, MARKER BOARDS, TACK BOARDE, DOOR STOPS, AUDIO VISUAL BRACKETS AND OTHER WALL ATTACHED",
+              "bbox": [
+                0.8510809523809523,
+                0.12313666666666667,
+                0.9404452380952381,
+                0.15300333333333332
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "GYPSUM BOARD SURFACES SHALL BE ISOLATED WITH COMO DED IN THE SPECIFICATIONS. CONTROL JOINTS WHERE SHOWN ON DRAWINGS AND AG MASONRY CONTROL JOINTS (CJ] AND CONTROL JOINTS ABOVE (CIA) SHALL BE LOCATED AS SHOWN ON THE FLOOR PLAN AND OR RISERS OCCUR IN SINGLE WYTHE MASONRY WALLS, AND WHERE MASONRY WALLS BEARING ON THE CONCRETE FLOOR SLAB PEUT MASDAIRY WALLS BEARING ON CONCRETE FOOTINGS OR AS INDICATED ON DRAWINGS.",
+              "bbox": [
+                0.8519976190476191,
+                0.15709,
+                0.9403595238095238,
+                0.21042666666666668
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": ". \"MBD\" AND \"TED\"INDICATE MARKER BOARDS AND TACK DESIGNATION (EXAMPLE 15 MBDI, ALL BOARDS ARE 4'0\" TALL SEE WALL ELEVATIONS OR SPECIFICATIONS FOR MOUNTING HEIGHT.",
+              "bbox": [
+                0.8516214285714285,
+                0.20926666666666666,
+                0.9386119047619048,
+                0.23312
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "D. EXTEND FURRING CHANNELS AND GYPSUM BOARD UP6 INCHES ABOVE FINISHED CELING ON CMU WALLS. SPORE PUDE U WAL BOARD OF WALLS AND PARTITIONS TO IRREGULARITIES OF DECK ABOVE. SEAL TIGHTLY AROUND ALL PENETRATIONS.",
+              "bbox": [
+                0.8511142857142857,
+                0.23348666666666668,
+                0.9394214285714286,
+                0.25965
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "DLRGROUP",
+              "bbox": [
+                0.9514880952380952,
+                0.020633333333333333,
+                0.9656714285714285,
+                0.17268666666666668
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "ODLR Group",
+              "bbox": [
+                0.967347619047619,
+                0.14311666666666667,
+                0.9712642857142858,
+                0.17017333333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "image",
+              "text": "Image With Text:\nSTATE OF OG",
+              "bbox": [
+                0.9486833333333334,
+                0.18338000000000002,
+                0.9899095238095238,
+                0.24033000000000002
+              ],
+              "header": null,
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PROJECT YELLOW JACKET",
+              "bbox": [
+                0.9486357142857142,
+                0.5636466666666667,
+                0.9586666666666668,
+                0.75168
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "AMBROSE PROPERTY GROUP 8240 FREMONT PIKE",
+              "bbox": [
+                0.9610238095238095,
+                0.6542433333333334,
+                0.9802547619047618,
+                0.7517933333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PERRYSBURG, OH 43551",
+              "bbox": [
+                0.9795571428571428,
+                0.69679,
+                0.9839142857142856,
+                0.7511533333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "PERMIT SET 05.13.2024 REVISIONS",
+              "bbox": [
+                0.9469880952380952,
+                0.7881833333333332,
+                0.9751047619047619,
+                0.8097166666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "KEY PLAN",
+              "bbox": [
+                0.8818619047619048,
+                0.8329033333333334,
+                0.9166428571428572,
+                0.8434699999999999
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "A",
+              "bbox": [
+                0.8718119047619048,
+                0.89189,
+                0.8772595238095239,
+                0.9030266666666668
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "B",
+              "bbox": [
+                0.8966428571428571,
+                0.89188,
+                0.9006214285714285,
+                0.9024
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "C",
+              "bbox": [
+                0.9201833333333334,
+                0.8917666666666667,
+                0.9244023809523809,
+                0.9035666666666666
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "D",
+              "bbox": [
+                0.8726785714285715,
+                0.9235766666666667,
+                0.877145238095238,
+                0.9362499999999999
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "E",
+              "bbox": [
+                0.8965642857142858,
+                0.92369,
+                0.9008761904761904,
+                0.9355133333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "F",
+              "bbox": [
+                0.9199404761904763,
+                0.92356,
+                0.9246428571428572,
+                0.9349433333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "25-24107-00 OVERALL FIRST FLOOR PLAN",
+              "bbox": [
+                0.9479,
+                0.8898466666666667,
+                0.9853357142857142,
+                0.9174433333333333
+              ],
+              "header": "paragraph",
+              "tableList": null
+            },
+            {
+              "type": "text",
+              "text": "A1.1",
+              "bbox": [
+                0.9562833333333333,
+                0.9510533333333334,
+                0.9788476190476191,
+                0.9657033333333334
+              ],
+              "header": "paragraph",
+              "tableList": null
+            }
+          ],
+          "text": "Image With Text:\ne\n-\nC\nIN\n1\nA\nSN\n6\nV\n3\n9\n10\n1%\nK\n=\n4\na\n8\n4\n4\n19\n20\n1000'-0\"\n12-2\nAT-IT\nHATCH INE - ANERA\n\u20ba\n,\n2.1\n-\nA\n507- D'\n.\nA\nB\nC\nq\n90 -D\"\n1\nC\nC\n0\n0\n=\n44\n0\n59-0\"\n0\nA2. 0g\nD\nD\n50'-g\nQ\n0\na\nSO\n50'-0\"\nE\n0\nu\nt\nE\n620'-D'\nO\n0\n50'-D'\n0\n\u00ae\nMATCHLINE - AREA A\nK\nMATCHLINE - AREA C\nO\nATCHLINE - AREA D\n0\nA\n:\nMATCHLINE -AREA F\n0\n90' -0\"\nU\ni\nTrucker Gate Locations\nG\n1\nS\n0\nU\nX\nu\n0\nH\n1\ny\nh\nH\ng\nL\n50'-0\"\nJ\n0\nO\nJ\nU\n\u20ba\n1\n50'-4\nN\nK\ng\nn\nK\n3\nL\n0\nt\n0\nL\n5\nU\nT\nSB\n0\nF\n2\nM\nZ\nMATCHLINE - AMEA D MATCHLINE - AREA E\n1\n2\n3\n4\n5\n\u00b7\nY\n-\n0\n5\n5\n-\n\u00a5\nV\n1a\n18\n3\n14\nOVERALL FLOOR PLAN, LEVEL 1\nSCALE: 1\" = 50-0\"\n\n5/14/2024 7:47:54 AM\n\nGENERAL ARCHITECTURAL NOTES\n\n. ALLINTERIOR CMU WALLS SHALL BE B INCHES NOMINAL THICKNESS, UNLESS NOTED OTHERWISE.\n\n. WALL TYPES SHALL BE DESIGNATED ON FLOOR PLANS THUS: (11 ) SEE SHEET AR. 1 FOR WALL TYPES.\n\nPUMASUNNY WALLS AND INTERIOR STUD WALLS SHALL EXTEND TO UNDERSIDE OF FLOOR OR ROOF DECK ABOVE\n\n. PROVISIONS SHALL BE MADE AT ALL FULL HEIGHT NOM- BEARING WIRLES FOR ZNICH VERTICAL MOVEMENT OF THE AND DECK ABOVE WITH MINERNI WOOL INSULATION OR FI STOPPING MATERIALS AS REQUIRED TO MEET FIRE RATING OF RESPECTIVE WALLS.\n\nSEE STRUCTURAL DRAWINGS FOR BRACING OF NON-LDAD BEARING MASONRY WALLS.\n\n. FURNISH AND INSTALL FIRE-TREATED WOOD BLOCKING OR METAL BACKING PLATE IN METAL STUD PARTITIONS FOR THE PROPER ANCHORAGE OF ALL WALL ATTACHEDTIEMS TE TOILET ACCESSORIES, CASEWORK, MILLWORK, WALL- MOUNTED FIXTURES, MARKER BOARDS, TACK BOARDE, DOOR STOPS, AUDIO VISUAL BRACKETS AND OTHER WALL ATTACHED\n\nGYPSUM BOARD SURFACES SHALL BE ISOLATED WITH COMO DED IN THE SPECIFICATIONS. CONTROL JOINTS WHERE SHOWN ON DRAWINGS AND AG MASONRY CONTROL JOINTS (CJ] AND CONTROL JOINTS ABOVE (CIA) SHALL BE LOCATED AS SHOWN ON THE FLOOR PLAN AND OR RISERS OCCUR IN SINGLE WYTHE MASONRY WALLS, AND WHERE MASONRY WALLS BEARING ON THE CONCRETE FLOOR SLAB PEUT MASDAIRY WALLS BEARING ON CONCRETE FOOTINGS OR AS INDICATED ON DRAWINGS.\n\n. \"MBD\" AND \"TED\"INDICATE MARKER BOARDS AND TACK DESIGNATION (EXAMPLE 15 MBDI, ALL BOARDS ARE 4'0\" TALL SEE WALL ELEVATIONS OR SPECIFICATIONS FOR MOUNTING HEIGHT.\n\nD. EXTEND FURRING CHANNELS AND GYPSUM BOARD UP6 INCHES ABOVE FINISHED CELING ON CMU WALLS. SPORE PUDE U WAL BOARD OF WALLS AND PARTITIONS TO IRREGULARITIES OF DECK ABOVE. SEAL TIGHTLY AROUND ALL PENETRATIONS.\n\nDLRGROUP\n\nODLR Group\n\nImage With Text:\nSTATE OF OG\n\nPROJECT YELLOW JACKET\n\nAMBROSE PROPERTY GROUP 8240 FREMONT PIKE\n\nPERRYSBURG, OH 43551\n\nPERMIT SET 05.13.2024 REVISIONS\n\nKEY PLAN\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\n25-24107-00 OVERALL FIRST FLOOR PLAN\n\nA1.1",
+          "pageNum": 0
+        }
+      ],
+      "numPages": 1,
+      "text": "Image With Text:\ne\n-\nC\nIN\n1\nA\nSN\n6\nV\n3\n9\n10\n1%\nK\n=\n4\na\n8\n4\n4\n19\n20\n1000'-0\"\n12-2\nAT-IT\nHATCH INE - ANERA\n\u20ba\n,\n2.1\n-\nA\n507- D'\n.\nA\nB\nC\nq\n90 -D\"\n1\nC\nC\n0\n0\n=\n44\n0\n59-0\"\n0\nA2. 0g\nD\nD\n50'-g\nQ\n0\na\nSO\n50'-0\"\nE\n0\nu\nt\nE\n620'-D'\nO\n0\n50'-D'\n0\n\u00ae\nMATCHLINE - AREA A\nK\nMATCHLINE - AREA C\nO\nATCHLINE - AREA D\n0\nA\n:\nMATCHLINE -AREA F\n0\n90' -0\"\nU\ni\nTrucker Gate Locations\nG\n1\nS\n0\nU\nX\nu\n0\nH\n1\ny\nh\nH\ng\nL\n50'-0\"\nJ\n0\nO\nJ\nU\n\u20ba\n1\n50'-4\nN\nK\ng\nn\nK\n3\nL\n0\nt\n0\nL\n5\nU\nT\nSB\n0\nF\n2\nM\nZ\nMATCHLINE - AMEA D MATCHLINE - AREA E\n1\n2\n3\n4\n5\n\u00b7\nY\n-\n0\n5\n5\n-\n\u00a5\nV\n1a\n18\n3\n14\nOVERALL FLOOR PLAN, LEVEL 1\nSCALE: 1\" = 50-0\"\n\n5/14/2024 7:47:54 AM\n\nGENERAL ARCHITECTURAL NOTES\n\n. ALLINTERIOR CMU WALLS SHALL BE B INCHES NOMINAL THICKNESS, UNLESS NOTED OTHERWISE.\n\n. WALL TYPES SHALL BE DESIGNATED ON FLOOR PLANS THUS: (11 ) SEE SHEET AR. 1 FOR WALL TYPES.\n\nPUMASUNNY WALLS AND INTERIOR STUD WALLS SHALL EXTEND TO UNDERSIDE OF FLOOR OR ROOF DECK ABOVE\n\n. PROVISIONS SHALL BE MADE AT ALL FULL HEIGHT NOM- BEARING WIRLES FOR ZNICH VERTICAL MOVEMENT OF THE AND DECK ABOVE WITH MINERNI WOOL INSULATION OR FI STOPPING MATERIALS AS REQUIRED TO MEET FIRE RATING OF RESPECTIVE WALLS.\n\nSEE STRUCTURAL DRAWINGS FOR BRACING OF NON-LDAD BEARING MASONRY WALLS.\n\n. FURNISH AND INSTALL FIRE-TREATED WOOD BLOCKING OR METAL BACKING PLATE IN METAL STUD PARTITIONS FOR THE PROPER ANCHORAGE OF ALL WALL ATTACHEDTIEMS TE TOILET ACCESSORIES, CASEWORK, MILLWORK, WALL- MOUNTED FIXTURES, MARKER BOARDS, TACK BOARDE, DOOR STOPS, AUDIO VISUAL BRACKETS AND OTHER WALL ATTACHED\n\nGYPSUM BOARD SURFACES SHALL BE ISOLATED WITH COMO DED IN THE SPECIFICATIONS. CONTROL JOINTS WHERE SHOWN ON DRAWINGS AND AG MASONRY CONTROL JOINTS (CJ] AND CONTROL JOINTS ABOVE (CIA) SHALL BE LOCATED AS SHOWN ON THE FLOOR PLAN AND OR RISERS OCCUR IN SINGLE WYTHE MASONRY WALLS, AND WHERE MASONRY WALLS BEARING ON THE CONCRETE FLOOR SLAB PEUT MASDAIRY WALLS BEARING ON CONCRETE FOOTINGS OR AS INDICATED ON DRAWINGS.\n\n. \"MBD\" AND \"TED\"INDICATE MARKER BOARDS AND TACK DESIGNATION (EXAMPLE 15 MBDI, ALL BOARDS ARE 4'0\" TALL SEE WALL ELEVATIONS OR SPECIFICATIONS FOR MOUNTING HEIGHT.\n\nD. EXTEND FURRING CHANNELS AND GYPSUM BOARD UP6 INCHES ABOVE FINISHED CELING ON CMU WALLS. SPORE PUDE U WAL BOARD OF WALLS AND PARTITIONS TO IRREGULARITIES OF DECK ABOVE. SEAL TIGHTLY AROUND ALL PENETRATIONS.\n\nDLRGROUP\n\nODLR Group\n\nImage With Text:\nSTATE OF OG\n\nPROJECT YELLOW JACKET\n\nAMBROSE PROPERTY GROUP 8240 FREMONT PIKE\n\nPERRYSBURG, OH 43551\n\nPERMIT SET 05.13.2024 REVISIONS\n\nKEY PLAN\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\n25-24107-00 OVERALL FIRST FLOOR PLAN\n\nA1.1",
+      "language": "en"
+    },
+    "numPages": 1,
+    "language": "en",
+    "metadata": null,
+    "status": "completed",
+    "timestamp": "2025-08-07T17:05:25.167000Z"
+  }
+}

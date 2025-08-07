@@ -1,0 +1,108 @@
+{
+  "doc_id": "Z0Eq4nX5",
+  "response_type": "standardization_4gPYc3qP",
+  "timestamp": "2025-08-07T22:09:50.802793",
+  "response_data": {
+    "standardizationId": "4gPYc3qP",
+    "documentId": "Z0Eq4nX5",
+    "data": {
+      "structures": [
+        {
+          "structureId": "207",
+          "structureType": "48\" MH",
+          "rimElevation": 642.92,
+          "connections": [
+            {
+              "invertElevation": 631.24,
+              "pipeDiameter": "8\"",
+              "direction": "S"
+            }
+          ]
+        },
+        {
+          "structureId": "208",
+          "structureType": "6\u00b0 CO",
+          "rimElevation": 641.75,
+          "connections": [
+            {
+              "invertElevation": 630.52,
+              "pipeDiameter": "6\"",
+              "direction": "E"
+            },
+            {
+              "invertElevation": 630.52,
+              "pipeDiameter": "6\"",
+              "direction": "W"
+            }
+          ]
+        },
+        {
+          "structureId": "209",
+          "structureType": "6\u00b0 CO",
+          "rimElevation": 641.51,
+          "connections": [
+            {
+              "invertElevation": 632.08,
+              "pipeDiameter": "6\"",
+              "direction": "E"
+            },
+            {
+              "invertElevation": 632.08,
+              "pipeDiameter": "6\"",
+              "direction": "W"
+            }
+          ]
+        }
+      ],
+      "utilityLines": [
+        {
+          "lineType": "gas transmission line",
+          "size": "24\"",
+          "easementWidth": {
+            "permanent": "50'",
+            "temporary": "5'"
+          }
+        },
+        {
+          "lineType": "sewer",
+          "size": null,
+          "easementWidth": {
+            "permanent": "25'",
+            "temporary": "25'"
+          }
+        },
+        {
+          "lineType": "gas line",
+          "size": "8\"",
+          "easementWidth": {
+            "permanent": null,
+            "temporary": null
+          }
+        }
+      ],
+      "projectInformation": {
+        "projectNumber": "763990",
+        "drawingTitle": "OVERALL UTILITY PLAN",
+        "drawingNumber": "C7.0",
+        "date": "2024-04-22",
+        "engineer": {
+          "name": "JOSEPH M. JORGE",
+          "licenseNumber": "E-82272"
+        },
+        "company": {
+          "name": "CESO",
+          "address": "2000 Corporate Exchange Dr., Suite-400",
+          "phone": "4541.794.7080",
+          "fax": "108.200.4826"
+        }
+      }
+    },
+    "schemaId": "VwnSB6zY",
+    "schemaName": "robust_utility_Z0Eq4nX5",
+    "jobId": "HMT6fb3g",
+    "dataset": "robust_utility_extraction",
+    "filename": "Project Yellow Jacket- Site Logistics Plan",
+    "timestamp": "2025-08-07T17:09:39.433000Z",
+    "metadata": null
+  }
+}

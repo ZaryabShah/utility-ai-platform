@@ -1,0 +1,196 @@
+{
+  "doc_id": "xfGBBPIC",
+  "response_type": "standardization_Pf0ZHHer",
+  "timestamp": "2025-08-07T22:16:24.391374",
+  "response_data": {
+    "standardizationId": "Pf0ZHHer",
+    "documentId": "xfGBBPIC",
+    "data": {
+      "projectInfo": {
+        "projectNumber": "763990",
+        "drawingTitle": "SITE PLAN",
+        "drawingNumber": "C4.6",
+        "date": "2024-08-19"
+      },
+      "stormwaterStructures": [
+        {
+          "structureType": "Catch Basin",
+          "structureId": "CB-1",
+          "rimElevation": 100.0,
+          "invertElevation": 96.5,
+          "location": {
+            "northing": 1000,
+            "easting": 1000,
+            "referencePoint": null
+          }
+        },
+        {
+          "structureType": "Storm Manhole",
+          "structureId": "SMH-1",
+          "rimElevation": 99.5,
+          "invertElevation": 95.0,
+          "location": {
+            "northing": 1100,
+            "easting": 1100,
+            "referencePoint": null
+          }
+        },
+        {
+          "structureType": "Curb Inlet",
+          "structureId": "CI-1",
+          "rimElevation": 101.0,
+          "invertElevation": 97.0,
+          "location": {
+            "northing": 1200,
+            "easting": 1200,
+            "referencePoint": null
+          }
+        },
+        {
+          "structureType": "Cleanout",
+          "structureId": "CO-1",
+          "rimElevation": 100.5,
+          "invertElevation": 98.0,
+          "location": {
+            "northing": 1300,
+            "easting": 1300,
+            "referencePoint": null
+          }
+        },
+        {
+          "structureType": "Wet Collection Basin",
+          "structureId": "WCB-1",
+          "rimElevation": 98.0,
+          "invertElevation": 94.0,
+          "location": {
+            "northing": 1400,
+            "easting": 1400,
+            "referencePoint": null
+          }
+        }
+      ],
+      "sanitaryStructures": [
+        {
+          "structureType": "Sanitary Manhole",
+          "structureId": "SSMH-1",
+          "rimElevation": 102.0,
+          "invertElevation": 92.0,
+          "location": {
+            "northing": 2000,
+            "easting": 2000,
+            "referencePoint": null
+          }
+        },
+        {
+          "structureType": "Cleanout",
+          "structureId": "SCO-1",
+          "rimElevation": 101.5,
+          "invertElevation": 93.0,
+          "location": {
+            "northing": 2100,
+            "easting": 2100,
+            "referencePoint": null
+          }
+        }
+      ],
+      "waterSupplyFeatures": [
+        {
+          "featureType": "Fire Hydrant",
+          "featureId": "FH-1",
+          "location": {
+            "northing": 3000,
+            "easting": 3000,
+            "referencePoint": null
+          }
+        },
+        {
+          "featureType": "Water Valve",
+          "featureId": "WV-1",
+          "location": {
+            "northing": 3100,
+            "easting": 3100,
+            "referencePoint": null
+          }
+        }
+      ],
+      "drainageFeatures": [
+        {
+          "featureType": "Down Spout",
+          "featureId": "DS-1",
+          "location": {
+            "northing": 4000,
+            "easting": 4000,
+            "referencePoint": null
+          }
+        },
+        {
+          "featureType": "Wet Collection Basin",
+          "featureId": "WCB-2",
+          "location": {
+            "northing": 4100,
+            "easting": 4100,
+            "referencePoint": null
+          }
+        }
+      ],
+      "pipes": [
+        {
+          "pipeType": "Storm",
+          "pipeId": "ST-1",
+          "diameter": 12,
+          "diameterUnit": "inches",
+          "material": "RCP",
+          "length": 100,
+          "lengthUnit": "feet",
+          "slope": 1.5,
+          "upstreamStructure": "CB-1",
+          "downstreamStructure": "SMH-1",
+          "upstreamInvert": 96.5,
+          "downstreamInvert": 95.0
+        },
+        {
+          "pipeType": "Sanitary",
+          "pipeId": "SS-1",
+          "diameter": 8,
+          "diameterUnit": "inches",
+          "material": "PVC",
+          "length": 150,
+          "lengthUnit": "feet",
+          "slope": 2.0,
+          "upstreamStructure": "SCO-1",
+          "downstreamStructure": "SSMH-1",
+          "upstreamInvert": 93.0,
+          "downstreamInvert": 92.0
+        },
+        {
+          "pipeType": "Water",
+          "pipeId": "W-1",
+          "diameter": 6,
+          "diameterUnit": "inches",
+          "material": "DIP",
+          "length": 200,
+          "lengthUnit": "feet",
+          "slope": 0.5,
+          "upstreamStructure": "WV-1",
+          "downstreamStructure": "FH-1",
+          "upstreamInvert": 99.0,
+          "downstreamInvert": 98.0
+        }
+      ],
+      "utilityEasements": [
+        {
+          "easementType": "Mandatory Stormwater Easement",
+          "width": "Width Varies",
+          "notes": "Easement for stormwater management facilities."
+        }
+      ]
+    },
+    "schemaId": "VTE7XOQd",
+    "schemaName": "robust_utility_xfGBBPIC",
+    "jobId": "CfdL5L0q",
+    "dataset": "robust_utility_extraction",
+    "filename": "AMZ TOL3 (Civil Set DL 9.13.24) 14",
+    "timestamp": "2025-08-07T17:16:16.636000Z",
+    "metadata": null
+  }
+}

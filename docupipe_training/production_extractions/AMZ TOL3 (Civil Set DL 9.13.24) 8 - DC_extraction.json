@@ -1,0 +1,23 @@
+{
+  "filename": "AMZ TOL3 (Civil Set DL 9.13.24) 8 - DC.pdf",
+  "doc_id": "YplMsuLt",
+  "timestamp": "2025-08-07T21:31:37.586892",
+  "ai_extraction_count": 0,
+  "pattern_extraction_count": 1,
+  "total_records": 1,
+  "data": [
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "XOV8138",
+      "to_structure_id": null,
+      "rim_elev_ft": 77.2,
+      "invert_elev_ft": 120.0,
+      "pipe_diameter_in": 8.0,
+      "pipe_material": null,
+      "pipe_length_ft": 77.2,
+      "structure_type": null,
+      "source_line": "8\" chainlink fence 220\u00b0 2 XOV8138 .09 X DRY COLLECTION BASIN . 25 SETBACK 25\u00b0 temporary easement @ X 77.2' X D D D D D D D D D D D D D D G G 3 G G G G G G G Fremont Pike (US 20/23) (120') X X X X X X X X X"
+    }
+  ],
+  "source_text_length": 2600
+}

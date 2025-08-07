@@ -1,0 +1,11 @@
+{
+  "doc_id": "6Ed1kkF5",
+  "response_type": "upload",
+  "timestamp": "2025-08-07T22:10:26.930705",
+  "response_data": {
+    "documentId": "6Ed1kkF5",
+    "jobId": "3fZ5rvjz",
+    "status": "processing",
+    "workflowResponse": null
+  }
+}

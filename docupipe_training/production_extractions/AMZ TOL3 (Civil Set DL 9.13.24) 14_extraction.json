@@ -1,0 +1,59 @@
+{
+  "filename": "AMZ TOL3 (Civil Set DL 9.13.24) 14.pdf",
+  "doc_id": "nTUVw9uB",
+  "timestamp": "2025-08-07T21:37:17.672426",
+  "ai_extraction_count": 0,
+  "pattern_extraction_count": 7,
+  "total_records": 4,
+  "data": [
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "R3",
+      "to_structure_id": null,
+      "rim_elev_ft": 3.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 3.0,
+      "structure_type": null,
+      "source_line": "R3' (TYP.)"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "C8",
+      "to_structure_id": null,
+      "rim_elev_ft": null,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": 6.0,
+      "pipe_material": null,
+      "pipe_length_ft": null,
+      "structure_type": null,
+      "source_line": "7. PROPOSED 6\" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2."
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "C5",
+      "to_structure_id": null,
+      "rim_elev_ft": 20.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 20.0,
+      "structure_type": null,
+      "source_line": "33. 20' WIDE EMERGENCY SPILLWAY FOR DRY DETENTION BASIN. REFER TO BMP DETAILS, SHEET C5.12."
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": null,
+      "to_structure_id": null,
+      "rim_elev_ft": 1000.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": 1.0,
+      "pipe_material": null,
+      "pipe_length_ft": 1000.0,
+      "structure_type": null,
+      "source_line": "KEY MAP SCALE: 1\"=1000'"
+    }
+  ],
+  "source_text_length": 5024
+}

@@ -1,0 +1,143 @@
+{
+  "filename": "C4.0 ADD 3 Project Yellow chuck.pdf",
+  "doc_id": "HQJMHR2D",
+  "timestamp": "2025-08-07T21:35:00.997636",
+  "ai_extraction_count": 0,
+  "pattern_extraction_count": 86,
+  "total_records": 11,
+  "data": [
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "XOV8138",
+      "to_structure_id": null,
+      "rim_elev_ft": 772.0,
+      "invert_elev_ft": 8.0,
+      "pipe_diameter_in": 8.0,
+      "pipe_material": null,
+      "pipe_length_ft": 772.0,
+      "structure_type": null,
+      "source_line": "220\u00b0 DRY COLLECTION BASIN 25 SETBACK 25 temporary easement 772' 8' Double Drive 0 XOV8138 .09 8\" chainlink fence 3 X X D D D D D D D D D D D D G D D G G G G G G G G Fremont Pike (US 20/23) (120') X X X X X X X X X X"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": null,
+      "to_structure_id": null,
+      "rim_elev_ft": 4.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": 2.0,
+      "pipe_material": null,
+      "pipe_length_ft": 4.0,
+      "structure_type": null,
+      "source_line": "4' Chain Link Fence - 2\" BVC Mesh"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "R10",
+      "to_structure_id": null,
+      "rim_elev_ft": 10.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 10.0,
+      "structure_type": null,
+      "source_line": "R10' (TYP.)"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "R4",
+      "to_structure_id": null,
+      "rim_elev_ft": 4.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 4.0,
+      "structure_type": null,
+      "source_line": "R4' (TYP.)"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "C5",
+      "to_structure_id": null,
+      "rim_elev_ft": 20.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 20.0,
+      "structure_type": null,
+      "source_line": "33. 20' WIDE EMERGENCY SPILLWAY FOR DRY DETENTION BASIN. REFER TO BMP DETAILS, SHEET C5.12."
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "C8",
+      "to_structure_id": null,
+      "rim_elev_ft": null,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": 6.0,
+      "pipe_material": null,
+      "pipe_length_ft": null,
+      "structure_type": null,
+      "source_line": "7. PROPOSED 6\" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2."
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "R3",
+      "to_structure_id": null,
+      "rim_elev_ft": 3.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 3.0,
+      "structure_type": null,
+      "source_line": "R3' (TYP.)"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "C8",
+      "to_structure_id": "C8",
+      "rim_elev_ft": null,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": 6.0,
+      "pipe_material": null,
+      "pipe_length_ft": null,
+      "structure_type": null,
+      "source_line": "7. PROPOSED 6\" BOLLARD. REFER TO CONSTRUCTION DETAILS, SHEET C8.2. 8. PROPOSED HEAVY DUTY ASPHALT PAVEMENT. REFER TO CONSTRUCTION DETAILS, SHEET C8.0."
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "W1",
+      "to_structure_id": null,
+      "rim_elev_ft": null,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": 6.0,
+      "pipe_material": null,
+      "pipe_length_ft": null,
+      "structure_type": null,
+      "source_line": "-6\"X 6\" W1.2xW1.2 WWF"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "H-2309Y",
+      "to_structure_id": null,
+      "rim_elev_ft": 6.0,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": 6.0,
+      "structure_type": null,
+      "source_line": "BASIS OF DESIGN: ULINE H-2309Y PARKING STOPS OR APPROVED EQUAL, 6' , PLASTIC, YELLOW. SEE DESIGN CRITERIA FOR ADDITIONAL INFORMATION"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "W1",
+      "to_structure_id": "W1",
+      "rim_elev_ft": null,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": 4.0,
+      "pipe_material": "CONCRETE",
+      "pipe_length_ft": null,
+      "structure_type": null,
+      "source_line": "CONCRETE SHALL BE 4,000 PSI, PARENTRAINMENT WITH MAX AGGREGATE SIZE SP mi Bol- W1.4 x W1.4 WWF o/ 4\" GRANULAR FILL"
+    }
+  ],
+  "source_text_length": 82998
+}

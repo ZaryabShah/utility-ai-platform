@@ -1,0 +1,49 @@
+{
+  "filename": "C4.0 ADD 3 Project Yellow chuck.pdf",
+  "doc_id": "zEkQ9S2M",
+  "timestamp": "2025-08-07T22:14:05.714814",
+  "ai_extraction_count": 0,
+  "pattern_extraction_count": 4,
+  "total_records": 3,
+  "data": [
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "HW-2",
+      "to_structure_id": "C8",
+      "rim_elev_ft": null,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": "RCP",
+      "pipe_length_ft": null,
+      "structure_type": "CATCH BASIN",
+      "source_line": "| HW-2.2                    | PRECAST RCP HEADWALL     | C8-6    | CATCH BASIN NO. 6  |"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "MH-3",
+      "to_structure_id": "MH-3",
+      "rim_elev_ft": null,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": null,
+      "structure_type": "MANHOLE",
+      "source_line": "| MH-3                      | MANHOLE NO. 3            | MGS-1.1 | GUARDRAIL          |"
+    },
+    {
+      "extraction_method": "pattern",
+      "from_structure_id": "CB-2",
+      "to_structure_id": "CB-2",
+      "rim_elev_ft": null,
+      "invert_elev_ft": null,
+      "pipe_diameter_in": null,
+      "pipe_material": null,
+      "pipe_length_ft": null,
+      "structure_type": "CATCH BASIN",
+      "source_line": "| CB-2-2C                   | CATCH BASIN NO. 2-2C     | MGS-2.1 | MGS TYPE GUARDRAIL |"
+    }
+  ],
+  "source_text_length": 82998,
+  "pdf_storage_path": "comprehensive_extraction\\session_20250807_220034\\raw_pdfs\\zEkQ9S2M_C4.0 ADD 3 Project Yellow chuck.pdf",
+  "data_quality_score": 35.0
+}

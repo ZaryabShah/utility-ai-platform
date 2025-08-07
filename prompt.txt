@@ -1,0 +1,1881 @@
+Hey for get about everything and the project we were creating I want you to get to work with this api
+EahPwLpsITdU4bZZ9iNSaeu2W7f2
+this of docupipe
+and you can check pdfs in the folder I gave to you
+I want to train AI custom model with all these dataset pdfs given!
+According to this
+
+Just tell me these things in simple words that 
+1- Do we have to get all the tables data from each pdf?(Clearifying)
+2- Are all pages different from each other like can we work on each page separately?
+3- also the headers of each table are separate so Do I handle them accordingly or handle them according to your hardcoded headers example?(you gave in start)
+4- How do I handle sheets for output like for tables?(multiple pages/Different Headers)
+I have some other questions too but will ask later
+let me check
+1- no we only need the tables of data from the utility plans labeled “pipe table” and “structure table”. And if there is one on the swppp or storm water pollution protection plan we would need that one too. 
+2- yes we just need the utility plan and swppp plan from each job
+3- if they could translate to the hard coded headers that would be ideal
+4- ideally an excel spreadsheet with different tabs. 
+
+Let me know if this answers all these feel free to call me anytime
+
+
+this upper given is the question I asked from them for clearification about what data they want AI to fetch
+
+
+
+check image we want just first phase to be done! for AI training!
+
+image2(output example)
+
+no frontends or nothing just use docupipe API for extracting the structured tables as output may be as csv for now and save all of them as an example so we can feed it to ai for training!
+
+we use docupipe for extracting the outputs as an examples!
+
+Getting Started With DocuPipe
+Take your first steps by uploading a document and getting its parsed text and tables.
+
+DocuPipe is here to do one thing: convert complex documents into a consistent, structured payload that has the same fields and data types every time.
+
+The flow comprises of three parts:
+
+POST a document, which may include complex entities like tables, key-value pairs, checkboxes, signatures, etc. This triggers our AI processing, and returns a documentId.
+GET that document by ID, and receive a plain text representation of that document that is easily readable for both humans and AI readers.
+POST a standardize request, that gets a document ID, as well as a schema, and generates a structured JSON
+This getting started guide will walk through one example. Let's say we have this PDF file on our local machine : example_document.pdf
+
+Authentication
+Every request to DocuPipe needs to include an API key. You may obtain your API key by signing up and going to this link, where your API key is visible at the bottom of the page.
+
+Posting a Document
+The first thing you want to do, is take that file and post it to DocuPipe. Replace YOUR_API_KEY with your actual API key obtained in the previous step. Supported file formats are: PDF, images (JPG, PNG, WEBP), text files, and JSONs. Regardless of the format, use base64 encoding as shown below.
+
+Python
+JavaScript
+
+import base64
+import requests
+
+url = "https://app.docupipe.ai/document"
+api_key = "YOUR_API_KEY"
+
+payload = {"document": {"file": {
+    "contents": base64.b64encode(open("example_document.pdf", 'rb').read()).decode(),
+    "filename": "example_document.pdf"
+}}}
+headers = {
+    "accept": "application/json",
+    "content-type": "application/json",
+    "X-API-Key": api_key
+}
+
+response = requests.post(url, json=payload, headers=headers)
+document_id = response.json()['documentId']
+If we print our the response, we'll see it gives us an ID for the document, which we may later use to query for its AI and human readable result:
+
+JSON
+
+print(response)
+=> {'documentId': '96dde1aa'}
+What you get is essentially a pointer that you can then use to query for the document's results, which you do with a GET request. Typical processing time is about 5-15 seconds for a entire document, depending on its size.
+
+Retrieving Document Results
+DocuPipe is a RESTful API, which means you append document_id to the URL path when you want to get the results.
+
+Python
+JavaScript
+
+url = f"https://app.docupipe.ai/document/{document_id}"
+
+headers = {
+    "accept": "application/json",
+    "X-API-Key": "YOUR_API_KEY"
+}
+
+response = requests.get(url, headers=headers)
+
+print(response.json())
+If you call this immediately after the POST request, the document will be in a processing state
+
+JSON
+
+{  
+    "documentId": "b214r0297-demo-id",  
+    "status": "processing",  
+    "result": null  
+}
+If you wait a few seconds and query again, you will get the result below. Our parsed text is human-readable, but more importantly it is AI readable, which lets you reason about it and ask your favorite Large Language Model questions about its content.
+
+JSON
+
+{
+    "documentId": "e95af17c",
+    "status": "completed",
+    "result": {
+        "pages": [
+          {
+            "sections": [
+              {
+                "type": "text",
+                "text": "the first paragraph in your doucment",
+                "bbox": [
+                  0.1, 0.12, 0.4, 0.2
+                ],
+                "header": "paragraph",
+                
+              }
+            ],
+            "text": "string",
+            "pageNum": 0
+          },
+        ],
+        "numPages": 0,
+        "text": "string",
+        "language": "string"
+      },
+}
+Note you could avoid polling for the document to become prepared, by using webhooks, which you can read about in this guide.
+
+Standardizing a Document - convert it to JSON
+Python
+JavaScript
+
+import requests
+
+url = "https://app.docupipe.ai/v2/standardize/batch"
+
+payload = {
+    "documentIds": ["exampleDocumentId"],
+    "schemaId": "exampleSchemaId"
+}
+headers = {
+    "accept": "application/json",
+    "content-type": "application/json",
+    "X-API-Key": "YOUR_API_KEY_HERE"
+}
+
+response = requests.post(url, json=payload, headers=headers)
+
+print(response.json())
+This will return a standardizationId, which again you can poll for using a GET request, which will finally give you our JSON view of the document, which we call a standardization.
+
+What that standardization will include depends on the exact schema used. A schema can let you specify exactly what you want to surface from each document.
+
+As an example. maybe the input is a rental contract, and you set up a schema to extract some basic fields. The output may look like this:
+
+JSON
+
+{"monthlyAmount": 2000,
+ "currency":"USD",
+ "moveInDate":"2020-31-01", 
+ "depositAmount": 3000, 
+ "depositCurrency":"USD"}
+Using our schema creation dashboard, you can create very complex schemas that are specific to your use case. You can add an exact field for an annual payment for a rental contract, or have a field to describe whether tenants are likely allowed to keep a pet crocodile in the house. Schemas let you understand documents in a way that can be entirely unique to your use case.
+
+There's plenty more to DocuPipe API. You can:
+
+Classify documents by type
+Generate a visual review of a standardization to see exactly what pixels justify every decision made by our AI
+Use our prebuilt Workflow objects to automate a sequence of events (upload -> standardize -> classify -> apply schema)
+Build scalable, complex workflows, using Webhooks
+
+Using LLMs With These Docs
+Learn how to copy and paste into chatGPT like a boss
+
+TL;DR
+Go to this link: https://docupipe.readme.io/llms.txt
+Paste the contents into your favorite LLM (we found O3 and o4-mini-high are great)
+Tell your favorite model what you want, and it will probably generate code that works, or almost works with a few tweaks
+How does this works?
+LLMs.txt is nothing more than a directory to all our API endpoints, with the title, description, and link to full documentation. As LLMs become more agentic they'll become increasingly reliable in figuring out how to use straightforward and well-organized APIs.
+
+We like to think we're straightforward and well organized!
+
+Happy Hacking
+
+Updated 3 months ago
+
+Getting Started With DocuPipe
+DocuPipe Rate Limits
+Did this page help you?
+
+
+DocuPipe Rate Limits
+DocuPanda API Rate Limits
+To maintain a fair and stable environment for all developers, the DocuPanda REST API enforces rate limits. These limits govern the volume and pace of your requests, ensuring consistent platform performance for everyone. Rate limits are enforced independently of your billing credits (the units you purchase or receive under your plan). While billing credits are tied to cost and monthly usage allowances, rate limit tokens are a free, internal measure to protect against abuse and excessive traffic. You may use up all your monthly billing credits without once hitting a rate limit, or you might hit rate limits even if you have ample billing credits. Understanding and respecting these two separate concepts will help you manage both your costs and your application’s performance.
+
+Understanding Our Rate Limits
+Token-Based Request Costs
+Every API request consumes rate limit tokens from your allocated bucket. This rate-based accounting system is separate from billing credits. Rate limit tokens never cost money; they only limit how rapidly you can make calls. The cost in tokens depends on the HTTP method used:
+
+GET requests: Cost 1 token each
+POST requests: Cost 10 tokens each
+DELETE requests: Cost 10 tokens each
+We don’t differentiate between API endpoints for rate limits. Only the HTTP method affects the number of tokens consumed.
+
+Steady-State and Bursting
+Subscribed non-enterprise users receive a continuous replenishment of rate limit tokens at 1,200 tokens per minute. This steady influx supports:
+
+About 2 POST/DELETE requests per second (2 * 10 tokens = 20 tokens per second, or 1,200 tokens per minute.
+About 20 GET requests per second (20 * 1 token = 20 tokens per second, again coming to 1,200 token per minute).
+To handle short-term spikes, we employ a leaky bucket algorithm with a maximum capacity of 5 times your per-minute refill rate. At 1,200 tokens/min, this equates to a bucket of 6,000 tokens at full capacity. This reservoir lets you exceed the steady-state rate for short periods until these tokens are used up, after which you must wait while tokens refill at the normal rate.
+
+The Leaky Bucket Algorithm
+Think of your rate limit like a bucket of tokens:
+
+Bucket Capacity: Holds up to 6,000 tokens.
+Refill Rate: Adds 1,200 tokens per minute continuously.
+Cost Per Request:
+GET requests consume 1 token.
+POST and DELETE requests consume 10 tokens.
+If you have enough tokens, your request succeeds. If you repeatedly exceed the steady-state rate, you’ll eventually drain the bucket. Once empty, further requests fail with a rate limit error until tokens replenish.
+
+Example Usage Scenario
+Short burst: Need to issue 30 GET requests instantly? Even though this is more than the “per second” baseline, the bucket’s capacity allows it. Your burst is absorbed by the stored tokens.
+Sustained load: Continually making more than the “steady-state” number of calls over time will drain your bucket. Once empty, you must slow down or pause until it refills.
+Rate Limit Headers
+We provide helpful headers in each response so you can track and manage your rate limit usage in real-time.
+
+X-RateLimit-Limit: Maximum size of your token bucket (e.g., 60000 means at most you can accumulate 6000 tokens if you hold off making any requests for a while).
+X-RateLimit-Remaining: Tokens still available after this request.
+X-RateLimit-Reset: The UTC epoch timestamp when your bucket would be fully refilled if it were empty now. (In practice, tokens refill continuously, but this gives you a reference point.)
+X-RateLimit-Used: How many tokens this request you just made has consumed (currently this will always be 1 for GET, 10 for POST/DELETE).
+Example Response Headers
+HTTP
+
+X-RateLimit-Limit: 6000
+X-RateLimit-Remaining: 5990
+X-RateLimit-Reset: 1700000000
+X-RateLimit-Used: 10
+Here, the bucket can hold 6,000 tokens. After this request, 5,990 remain. This particular request cost you 10 tokens. The X-RateLimit-Reset indicates when a fully drained bucket would be back at full capacity.
+
+Handling Rate Limit Errors
+If you deplete your bucket’s tokens, you’ll see a 429 Too Many Requests error, which can be identified via status code 429. At that point:
+
+Do not retry immediately.
+Wait for tokens to replenish. Wait for a random interval between 10 and 60 seconds before retrying. The randomness is there to avoid the thundering herd effect, where you potentially many requests all synchronize to repeat at the exact same time.
+Understand why you are hitting the rate limit. The most common reason is that you are using a polling strategy to see when results are available with excessively fast polling. For example you maybe checking every second for a result, instead of using exponential backoff. Or you may have an infinite loop that never gives up on failures.
+Consider using webhooks to reduce API consumption. You can avoid polling altogether by using webhooks and waiting for an event that indicates a document processing, or standardization job has completed.
+Consider leveraging our Workflow abstraction. A workflow chains together common operation like "upload a document, then classify its contents, then standardize it using a specific schema depending on the classification result". This reduces multiple POST requests into one, and avoids all polling.
+Reach to Customer Support for increase limits. If your use case legitimately necessitates a very large volume of simultaneous document processing calls, reach out to customer support for increase rate limits. Enterprise plans can scale up to 10K simultaneous document processing requests and beyond.
+Getting More Capacity
+If your application requires higher throughput or more generous bursting capacity, consider upgrading to an enterprise plan. Enterprise customers can receive adjusted rate limit configurations. For more information, please contact our team by pressing the chat icon at the bottom right of this page, or submitting a request.
+
+Summary
+DocuPanda’s rate limits ensure that everyone shares a stable, responsive platform. By monitoring your token usage, adjusting your request strategy, and understanding the difference between billing credits and rate limit tokens, you can maintain smooth, uninterrupted access to the DocuPanda REST API—even under periods of high demand.
+
+
+
+
+Upload
+Upload a document to DocuPipe and retrieve the parsed results
+
+This guide demonstrates how to use DocuPipe document parsing to extract text and structural information from documents. We'll walk through the process of uploading a document, monitoring the job, and retrieving the parsed results. This example is in Python, but the same concept applies for other programming languages.
+
+Prerequisites
+Before you begin, make sure you have:
+
+A DocuPipe API key
+Python 3 installed
+The requests library (pip install requests)
+Authentication
+Every request to DocuPipe needs to include an API key. You can obtain your API key by signing up and going to your account settings page.
+
+Step 1: Upload a Document
+First, we'll upload a document to DocuPanda for parsing. You can upload a document either by providing a file or a URL.
+
+Python
+
+import base64
+import requests
+
+API_KEY = "YOUR_API_KEY"
+APP_URL = "https://app.docupipe.ai"
+DOC_PATH = "/path/to/your/doc"
+DATASET_NAME = "YOUR_DATASET_NAME"
+HEADERS = {"accept": "application/json", "content-type": "application/json", "X-API-Key": API_KEY}
+
+def post_doc():
+    url = f"{APP_URL}/document"
+    payload = {
+        "document": {
+            "file": {
+                "contents": base64.b64encode(open(str(DOC_PATH), 'rb').read()).decode(),
+                "filename": "my_filename"  # optional
+            },
+            # Alternatively, you can use a URL:
+            # "url": "INSERT_URL_HERE",
+        },
+        "dataset": DATASET_NAME
+    }
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    res_json = response.json()
+    return {"job_id": res_json["jobId"], "doc_id": res_json["documentId"]}
+
+response = post_doc()
+print(f"Job ID: {response['job_id']}")
+print(f"Document ID: {response['doc_id']}")
+Replace "YOUR_API_KEY" with your actual API key, "/path/to/your/doc.pdf" with the path to your document, and "YOUR_DATASET_NAME" with your desired dataset name (dataset names are optional, and only for organizational purposes to group documents together).
+
+Step 2: Check Job Status
+DocuPipe processes documents asynchronously. We can check the status of a job using its ID. The job will be marked as "completed" when the parsing is finished.
+
+Python
+
+import time
+
+def is_job_done(job_id):
+    url = f"{APP_URL}/job/{job_id}"
+    for num_attempts in range(60):
+        response = requests.get(url, headers=HEADERS)
+        assert response.status_code == 200
+        status = response.json()["status"]
+        
+        if status == "completed":
+            return True
+        elif status == "error":
+            return False
+            
+        time.sleep(3)
+    return False
+
+success = is_job_done(response["job_id"])
+print(f"Parsing completed: {success}")
+Step 3: Retrieve Parsing Results
+Once the job is complete, we can retrieve the parsed document results. The results include the full text of the document as well as more granular information, including text, bounding box, and type broken down by pages and sections.
+
+Python
+
+def get_doc(doc_id):
+    url = f"{APP_URL}/document/{doc_id}"
+    response = requests.get(url, headers=HEADERS)
+    assert response.status_code == 200
+    return response.json()
+
+if success:
+    doc = get_doc(response["doc_id"])
+    print(f"Full text:\n{doc['result']['text']}")
+    
+    # Access individual pages and sections
+    for page in doc["result"]["pages"]:
+        print(f"Page {page['pageNum']}")
+        for section in page["sections"]:
+            print(f"Section at bounding box {section['bbox']}:\n{section['text']}")
+Complete Example
+Here's a complete example that puts all these steps together:
+
+Python
+
+import time
+import base64
+import requests
+
+API_KEY = "YOUR_API_KEY"
+APP_URL = "https://app.docupipe.ai"
+DOC_PATH = "/path/to/your/doc"
+DATASET_NAME = "YOUR_DATASET_NAME"
+HEADERS = {"accept": "application/json", "content-type": "application/json", "X-API-Key": API_KEY}
+
+def post_doc():
+    url = f"{APP_URL}/document"
+    payload = {
+        "document": {
+            "file": {
+                "contents": base64.b64encode(open(str(DOC_PATH), 'rb').read()).decode(),
+                "filename": DOC_PATH.split("/")[-1]
+            },
+        },
+        "dataset": DATASET_NAME
+    }
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    res_json = response.json()
+    return {"job_id": res_json["jobId"], "doc_id": res_json["documentId"]}
+
+def is_job_done(job_id):
+    url = f"{APP_URL}/job/{job_id}"
+    for num_attempts in range(60):
+        response = requests.get(url, headers=HEADERS)
+        assert response.status_code == 200
+        status = response.json()["status"]
+        if status == "completed":
+            return True
+        elif status == "error":
+            return False
+        time.sleep(3)
+    return False
+
+def get_doc(doc_id):
+    url = f"{APP_URL}/document/{doc_id}"
+    response = requests.get(url, headers=HEADERS)
+    assert response.status_code == 200
+    return response.json()
+
+def main():
+    response = post_doc()
+    print(f"Job ID: {response['job_id']}")
+    print(f"Document ID: {response['doc_id']}")
+    
+    success = is_job_done(job_id=response["job_id"])
+    print(f"Parsing completed: {success}")
+    
+    if success:
+        doc = get_doc(doc_id=response["doc_id"])
+        print("Document parsing completed successfully")
+        print(f"Full text:\n{doc['result']['text']}")
+        for page in doc["result"]["pages"]:
+            print(f"Page {page['pageNum']}")
+            for section in page["sections"]:
+                print(f"Section at bounding box {section['bbox']}:\n{section['text']}")
+    else:
+        print(f"Upload failed for {DOC_PATH}")
+
+if __name__ == '__main__':
+    main()
+Remember to replace "YOUR_API_KEY", "/path/to/your/doc.pdf", and "YOUR_DATASET_NAME" with your actual values.
+
+This example demonstrates how to use DocuPipe's document parsing feature to extract text and structural information from documents. The parsed results include both the full text of the document and detailed information about the location of text within pages and sections. You can use this structural information for more advanced document analysis or to maintain the original document layout in your applications.
+
+
+
+Upload Multiple
+Upload multiple documents to DocuPipe and retrieve the results
+
+This guide demonstrates how to upload multiple documents to DocuPipe for parsing, processing them in batches of 4 at a time. Each batch is submitted sequentially, and we wait for all documents in the batch to complete before moving on to the next.
+
+Prerequisites
+Before you begin, make sure you have:
+
+A DocuPipe API key
+Python 3 installed
+Authentication
+Every request to DocuPipe needs to include an API key. You can obtain your API key by signing up and going to your account settings page.
+
+Step 1: Define Document Paths and API Configuration
+First, specify the list of documents you want to upload, along with your API key and the DocuPipe endpoint. The documents can be any supported filetype: PDF, images, HTML, etc.
+
+Python
+
+import time
+import base64
+import requests
+
+API_KEY = "YOUR_API_KEY"
+APP_URL = "https://app.docupipe.ai"
+DOC_PATHS = [
+    "/path/to/doc1.pdf", "/path/to/doc2.pdf", "/path/to/doc3.jpg", "/path/to/doc4.png",
+    "/path/to/doc5.html", "/path/to/doc6.jpeg", "/path/to/doc7.webp", "/path/to/doc8.pdf"
+]
+DATASET_NAME = "YOUR_DATASET_NAME"
+HEADERS = {"accept": "application/json", "content-type": "application/json", "X-API-Key": API_KEY}
+BATCH_SIZE = 4  # Process 4 documents at a time
+Replace YOUR_API_KEY with your actual API key and the DOC_PATHS with your actually document file paths.
+
+Step 2: Upload a Document
+Each document is uploaded by encoding it in Base64 and sending a POST request. You can also optionally use a file URL instead. We define a function below that accepts a document file path and uploads it to DocuPipe for parsing, returning the metadata of the job.
+
+Python
+
+def post_doc(doc_path):
+    url = f"{APP_URL}/document"
+    payload = {
+        "document": {
+            "file": {
+                "contents": base64.b64encode(open(doc_path, 'rb').read()).decode(),
+                "filename": doc_path.split("/")[-1]
+            },
+        },
+        "dataset": DATASET_NAME
+    }
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    res_json = response.json()
+    return {"job_id": res_json["jobId"], "doc_id": res_json["documentId"], "filename": doc_path}
+Step 3: Check Job Status
+Since DocuPipe processes documents asynchronously, we need to track multiple job IDs at once and wait for all of them to finish. Note that instead of polling you could use Webhooks to react immediately as results become available, and avoid polling for job status. We define a function that accepts multiple job IDs and returns when all processing is done.
+
+Python
+
+def is_batch_done(job_ids):
+    """Check if all jobs in the list are completed or failed."""
+    url = f"{APP_URL}/job"
+    output = {job_id: "processing" for job_id in job_ids}
+
+    for _ in range(60):  # Max 3 minutes (60 * 3 sec)
+        for job_id, status in output.items():
+            if status == "processing":
+                response = requests.get(f"{url}/{job_id}", headers=HEADERS)
+                assert response.status_code == 200
+                output[job_id] = response.json()["status"]
+
+        if all(status != "processing" for status in output.values()):
+            break  # Exit early if all jobs are done
+        
+        time.sleep(3)  # Wait before next check
+    
+    return output
+Step 4: Retrieve Parsing Results
+Once a batch of documents has been processed, we retrieve their parsed results.
+
+Python
+
+def get_doc(doc_id):
+    """Retrieve parsed document results from DocuPipe."""
+    url = f"{APP_URL}/document/{doc_id}"
+    response = requests.get(url, headers=HEADERS)
+    assert response.status_code == 200
+    return response.json()
+Step 5: Process Documents in Batches of 4
+To efficiently handle multiple documents, we upload 4 documents at a time, wait for them to finish, and then retrieve their results.
+
+Python
+
+def process_batch(batch):
+    """Upload a batch of documents, wait for processing, and retrieve results."""
+    uploaded_docs = [post_doc(doc_path) for doc_path in batch]
+    job_ids = [doc["job_id"] for doc in uploaded_docs]
+
+    # Wait for all documents in the batch to complete
+    results = is_batch_done(job_ids)
+
+    for doc in uploaded_docs:
+        status = results[doc["job_id"]]
+        if status == "completed":
+            doc_data = get_doc(doc["doc_id"])
+            print(f"✅ Document '{doc['filename']}' processed successfully")
+            print(f"Full text:\n{doc_data['result']['text']}")
+        else:
+            print(f"❌ Failed to process '{doc['filename']}' (Status: {status})")
+Step 6: Run the Full Process
+Now, we iterate through the document list in batches of 4, ensuring each batch finishes before moving to the next.
+
+Python
+
+def main():
+    """Processes all documents in batches of 4."""
+    for i in range(0, len(DOC_PATHS), BATCH_SIZE):
+        batch = DOC_PATHS[i:i + BATCH_SIZE]
+        print(f"\n🚀 Processing batch: {batch}\n")
+        process_batch(batch)
+        print("✅ Batch completed.\n")
+
+if __name__ == '__main__':
+    main()
+Complete Example
+Here’s the full working implementation:
+
+Python
+
+import time
+import base64
+import requests
+
+API_KEY = "YOUR_API_KEY"
+APP_URL = "https://app.docupipe.ai"
+DOC_PATHS = [
+    "/path/to/doc1.pdf", "/path/to/doc2.pdf", "/path/to/doc3.jpg", "/path/to/doc4.png",
+    "/path/to/doc5.html", "/path/to/doc6.jpeg", "/path/to/doc7.webp", "/path/to/doc8.pdf"
+]
+DATASET_NAME = "YOUR_DATASET_NAME"
+HEADERS = {"accept": "application/json", "content-type": "application/json", "X-API-Key": API_KEY}
+BATCH_SIZE = 4  # Process 4 documents at a time
+
+def post_doc(doc_path):
+    url = f"{APP_URL}/document"
+    payload = {
+        "document": {
+            "file": {
+                "contents": base64.b64encode(open(doc_path, 'rb').read()).decode(),
+                "filename": doc_path.split("/")[-1]
+            },
+        },
+        "dataset": DATASET_NAME
+    }
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    res_json = response.json()
+    return {"job_id": res_json["jobId"], "doc_id": res_json["documentId"], "filename": doc_path}
+
+def is_batch_done(job_ids):
+    """Check if all jobs in the list are completed or failed."""
+    url = f"{APP_URL}/job"
+    output = {job_id: "processing" for job_id in job_ids}
+
+    for _ in range(60):  # Max 3 minutes (60 * 3 sec)
+        for job_id, status in output.items():
+            if status == "processing":
+                response = requests.get(f"{url}/{job_id}", headers=HEADERS)
+                assert response.status_code == 200
+                output[job_id] = response.json()["status"]
+
+        if all(status != "processing" for status in output.values()):
+            break  # Exit early if all jobs are done
+        
+        time.sleep(3)  # Wait before next check
+    
+    return output
+  
+def get_doc(doc_id):
+    """Retrieve parsed document results from DocuPipe."""
+    url = f"{APP_URL}/document/{doc_id}"
+    response = requests.get(url, headers=HEADERS)
+    assert response.status_code == 200
+    return response.json()
+
+def process_batch(batch):
+    """Upload a batch of documents, wait for processing, and retrieve results."""
+    uploaded_docs = [post_doc(doc_path) for doc_path in batch]
+    job_ids = [doc["job_id"] for doc in uploaded_docs]
+
+    # Wait for all documents in the batch to complete
+    results = is_batch_done(job_ids)
+
+    for doc in uploaded_docs:
+        status = results[doc["job_id"]]
+        if status == "completed":
+            doc_data = get_doc(doc["doc_id"])
+            print(f"✅ Document '{doc['filename']}' processed successfully")
+            print(f"Full text:\n{doc_data['result']['text']}")
+        else:
+            print(f"❌ Failed to process '{doc['filename']}' (Status: {status})")
+
+def main():
+    """Processes all documents in batches of 4."""
+    for i in range(0, len(DOC_PATHS), BATCH_SIZE):
+        batch = DOC_PATHS[i:i + BATCH_SIZE]
+        print(f"\n🚀 Processing batch: {batch}\n")
+        process_batch(batch)
+        print("✅ Batch completed.\n")
+
+if __name__ == '__main__':
+    main()
+Summary
+This guide walks through:
+
+Uploading multiple documents to DocuPipe
+Processing them in batches of 4 at a time
+Waiting for all jobs in a batch to complete before moving on
+Retrieving and displaying results only for successfully processed documents
+Handling failures gracefully and reporting status per document
+This method ensures your API usage is efficient, reliable, and scalable. 🚀
+
+
+
+Upload and Standardize Multiple
+Upload multiple documents to DocuPipe and standardize them, then retrieve the results
+
+This guide demonstrates how to upload multiple documents to DocuPipe for parsing, processing them in batches of 4 at a time. Each batch is submitted sequentially, and we wait for all documents in the batch to complete before moving on to the next. Then we submit the entire batch for standardization, and wait for that to complete. Then we print the results. In this way, we can process any number of files efficiently.
+
+Prerequisites
+Before you begin, make sure you have:
+
+A DocuPipe API key
+Python 3 installed
+Authentication
+Every request to DocuPipe needs to include an API key. You can obtain your API key by signing up and going to your account settings page.
+
+Step 1: Define Document Paths and API Configuration
+First, specify the list of documents you want to upload, along with your API key and the DocuPipe endpoint. The documents can be any supported filetype: PDF, images, HTML, etc.
+
+Python
+
+import time
+import base64
+import requests
+
+API_KEY = "YOUR_API_KEY"
+APP_URL = "https://app.docupipe.ai"
+DOC_PATHS = [
+    "/path/to/doc1.pdf", "/path/to/doc2.pdf", "/path/to/doc3.jpg", "/path/to/doc4.png",
+    "/path/to/doc5.html", "/path/to/doc6.jpeg", "/path/to/doc7.webp", "/path/to/doc8.pdf"
+]
+SCHEMA_ID = "YOUR_SCHEMA_ID"
+DATASET_NAME = "YOUR_DATASET_NAME"
+HEADERS = {"accept": "application/json", "content-type": "application/json", "X-API-Key": API_KEY}
+BATCH_SIZE = 4  # Process 4 documents at a time
+Replace YOUR_API_KEY with your actual API key and the DOC_PATHS with your actually document file paths. You can also optionally set the dataset name and schema ID. Note that if Schema ID is set to None or left out, the AI will improvise a different schema for each document.
+
+Step 2: Upload a Document
+Each document is uploaded by encoding it in Base64 and sending a POST request. You can also optionally use a file URL instead. We define a function below that accepts a document file path and uploads it to DocuPipe for parsing, returning the metadata of the job.
+
+Python
+
+def post_doc(doc_path):
+    url = f"{APP_URL}/document"
+    payload = {
+        "document": {
+            "file": {
+                "contents": base64.b64encode(open(doc_path, 'rb').read()).decode(),
+                "filename": doc_path.split("/")[-1]
+            },
+        },
+        "dataset": DATASET_NAME
+    }
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    res_json = response.json()
+    return {"job_id": res_json["jobId"], "doc_id": res_json["documentId"], "filename": doc_path}
+Step 3: Check Job Status
+Since DocuPipe processes documents asynchronously, we need to track multiple job IDs at once and wait for all of them to finish. Note that instead of polling you could use Webhooks to react immediately as results become available, and avoid polling for job status. We define a function that accepts multiple job IDs and returns when all processing is done.
+
+Python
+
+def is_batch_done(job_ids):
+    """Check if all jobs in the list are completed or failed."""
+    url = f"{APP_URL}/job"
+    output = {job_id: "processing" for job_id in job_ids}
+
+    for _ in range(60):  # Max 3 minutes (60 * 3 sec)
+        for job_id, status in output.items():
+            if status == "processing":
+                response = requests.get(f"{url}/{job_id}", headers=HEADERS)
+                assert response.status_code == 200
+                output[job_id] = response.json()["status"]
+
+        if all(status != "processing" for status in output.values()):
+            break  # Exit early if all jobs are done
+        
+        time.sleep(3)  # Wait before next check
+    
+    return output
+Step 4: Standardize the batch
+Once a batch of documents has been processed, we can send the entire batch all together to be standardized with the /batch endpoint:
+
+Python
+
+def standardize_batch(doc_ids):
+    """Standardize a batch of documents."""
+    url = f"{APP_URL}/v2/standardize/batch"
+    payload = {"schemaId": SCHEMA_ID, "documentIds": doc_ids}
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    res_json = response.json()
+    return {"jobId": res_json["jobId"], "standardizationIds": res_json["standardizationIds"]}
+Step 5: Wait for completion
+We can now ping the jobs endpoint to wait for the batch job to complete. As stated before, you can also use webhooks for this.
+
+Python
+
+def is_job_done(job_id):
+    """Check if a job is completed or failed."""
+    url = f"{APP_URL}/job/{job_id}"
+    for _ in range(60):
+        response = requests.get(url, headers=HEADERS)
+        assert response.status_code == 200
+        res_json = response.json()
+        status = res_json["status"]
+        if status == "completed":
+            return True
+        if status == "error":
+            return False
+        time.sleep(5)
+    return False
+Step 6: Retrieve Standardization Results
+To efficiently handle multiple documents, we upload 4 documents at a time, wait for them to finish, and then retrieve their results.
+
+Python
+
+def get_std(std_id):
+    """Retrieve standardized document results from DocuPipe."""
+    url = f"{APP_URL}/standardization/{std_id}"
+    response = requests.get(url, headers=HEADERS)
+    if response.status_code == 200:
+        return response.json()
+    return None
+Step 7: Process in Batches
+To efficiently handle multiple documents, we upload 4 documents at a time, wait for them to finish, then standardize them at once, wait for that to finish, and then fetch the results
+
+Python
+
+def process_batch(batch):
+    """Upload a batch of documents, wait for processing, and retrieve results."""
+    uploaded_docs = [post_doc(doc_path) for doc_path in batch]
+    parse_job_ids = [doc["job_id"] for doc in uploaded_docs]
+
+    # Wait for all documents in the batch to complete parsing
+    parse_results = is_batch_done(parse_job_ids)
+    doc_ids = [doc["doc_id"] for doc in uploaded_docs if parse_results[doc["job_id"]] == "completed"]
+
+    # Standardize the documents and wait for the job to complete
+    batch_results = standardize_batch(doc_ids)
+    done = is_job_done(batch_results["jobId"])
+    if not done:
+        print("❌ Standardization job failed to complete")
+        return
+
+    # Retrieve and print results for each standardized document
+    for std_id in batch_results["standardizationIds"]:
+        std_data = get_std(std_id)
+        if std_data is None:
+            print(f"❌ Document '{std_id}' failed to standardize")
+        else:
+            print(f"✅ Document '{std_data['documentId']}' standardized successfully")
+            print(f"Standardized data: {std_data['data']}")
+Step 8: Run the Full Process
+Now, we iterate through the document list in batches of 4, ensuring each batch finishes before moving to the next.
+
+Python
+
+def main():
+    """Processes all documents in batches of 4."""
+    for i in range(0, len(DOC_PATHS), BATCH_SIZE):
+        batch = DOC_PATHS[i:i + BATCH_SIZE]
+        print(f"\n🚀 Processing batch: {batch}\n")
+        process_batch(batch)
+        print("✅ Batch completed.\n")
+
+
+if __name__ == '__main__':
+    main()
+Complete Example
+Here’s the full working implementation:
+
+Python
+
+"""Upload and standardize multiple documents with DocuPipe and retrieve results in batches.
+"""
+import time
+import base64
+import requests
+
+API_KEY = "YOUR_API_KEY"
+APP_URL = "https://app.docupipe.ai"
+DOC_PATHS = [
+    "/path/to/doc1.pdf", "/path/to/doc2.pdf", "/path/to/doc3.jpg", "/path/to/doc4.png",
+    "/path/to/doc5.html", "/path/to/doc6.jpeg", "/path/to/doc7.webp", "/path/to/doc8.pdf"
+]
+SCHEMA_ID = "YOUR_SCHEMA_ID"
+DATASET_NAME = "YOUR_DATASET_NAME"
+HEADERS = {"accept": "application/json", "content-type": "application/json", "X-API-Key": API_KEY}
+BATCH_SIZE = 4  # Process 4 documents at a time
+
+
+def post_doc(doc_path):
+    url = f"{APP_URL}/document"
+    payload = {
+        "document": {
+            "file": {
+                "contents": base64.b64encode(open(doc_path, 'rb').read()).decode(),
+                "filename": doc_path.split("/")[-1]
+            },
+        },
+        "dataset": DATASET_NAME
+    }
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    res_json = response.json()
+    return {"job_id": res_json["jobId"], "doc_id": res_json["documentId"], "filename": doc_path}
+
+
+def is_batch_done(job_ids):
+    """Check if all jobs in the list are completed or failed."""
+    url = f"{APP_URL}/job"
+    output = {job_id: "processing" for job_id in job_ids}
+
+    for _ in range(60):  # Max 3 minutes (60 * 3 sec)
+        for job_id, status in output.items():
+            if status == "processing":
+                response = requests.get(f"{url}/{job_id}", headers=HEADERS)
+                assert response.status_code == 200
+                output[job_id] = response.json()["status"]
+
+        if all(status != "processing" for status in output.values()):
+            break  # Exit early if all jobs are done
+
+        time.sleep(3)  # Wait before next check
+
+    return output
+
+
+def standardize_batch(doc_ids):
+    """Standardize a batch of documents."""
+    url = f"{APP_URL}/v2/standardize/batch"
+    payload = {"schemaId": SCHEMA_ID, "documentIds": doc_ids}
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    res_json = response.json()
+    return {"jobId": res_json["jobId"], "standardizationIds": res_json["standardizationIds"]}
+
+
+def is_job_done(job_id):
+    """Check if a job is completed or failed."""
+    url = f"{APP_URL}/job/{job_id}"
+    for _ in range(60):
+        response = requests.get(url, headers=HEADERS)
+        assert response.status_code == 200
+        res_json = response.json()
+        status = res_json["status"]
+        if status == "completed":
+            return True
+        if status == "error":
+            return False
+        time.sleep(5)
+    return False
+
+
+def get_std(std_id):
+    """Retrieve standardized document results from DocuPipe."""
+    url = f"{APP_URL}/standardization/{std_id}"
+    response = requests.get(url, headers=HEADERS)
+    if response.status_code == 200:
+        return response.json()
+    return None
+
+
+def process_batch(batch):
+    """Upload a batch of documents, wait for processing, and retrieve results."""
+    uploaded_docs = [post_doc(doc_path) for doc_path in batch]
+    parse_job_ids = [doc["job_id"] for doc in uploaded_docs]
+
+    # Wait for all documents in the batch to complete parsing
+    parse_results = is_batch_done(parse_job_ids)
+    doc_ids = [doc["doc_id"] for doc in uploaded_docs if parse_results[doc["job_id"]] == "completed"]
+
+    # Standardize the documents and wait for the job to complete
+    batch_results = standardize_batch(doc_ids)
+    done = is_job_done(batch_results["jobId"])
+    if not done:
+        print("❌ Standardization job failed to complete")
+        return
+
+    # Retrieve and print results for each standardized document
+    for std_id in batch_results["standardizationIds"]:
+        std_data = get_std(std_id)
+        if std_data is None:
+            print(f"❌ Document '{std_id}' failed to standardize")
+        else:
+            print(f"✅ Document '{std_data['documentId']}' standardized successfully")
+            print(f"Standardized data: {std_data['data']}")
+
+
+def main():
+    """Processes all documents in batches of 4."""
+    for i in range(0, len(DOC_PATHS), BATCH_SIZE):
+        batch = DOC_PATHS[i:i + BATCH_SIZE]
+        print(f"\n🚀 Processing batch: {batch}\n")
+        process_batch(batch)
+        print("✅ Batch completed.\n")
+
+
+if __name__ == '__main__':
+    main()
+Summary
+This guide walks through:
+
+Uploading multiple documents to DocuPipe and then standardizing them
+Processing them in batches of 4 at a time
+Standardizing the entire batch at once
+Waiting for all jobs to complete before moving on
+Retrieving and displaying results only for successfully standardized documents
+Handling failures gracefully
+This method ensures your API usage is efficient, reliable, and scalable. 🚀
+
+Workflow: Upload, Classify and Standardize
+Upload and classify a document, and then standardize for certain classes, all in a single POST request using workflows.
+
+This guide demonstrates how to use DocuPanda's workflow feature to classify and standardize documents. We'll walk through the process of defining a workflow, uploading a document, and retrieving the classification and standardization results. This example is in Python, but the same concept applies to other programming languages.
+
+Prerequisites
+Before you begin, make sure you have:
+
+A DocuPanda API key
+Python 3 installed
+Authentication
+Every request to DocuPanda needs to include an API key. You can obtain your API key by signing up and going to your account settings page.
+
+Step 1: Define a Workflow
+First, we'll define a workflow that includes a classification and standardization step. This workflow will be applied to the documents we upload.
+
+Python
+
+import requests
+
+API_KEY = "YOUR_API_KEY"
+APP_URL = "https://app.docupipe.ai"
+CLASS_ID = "YOUR_CLASS_ID"
+SCHEMA_ID = "YOUR_SCHEMA_ID"
+HEADERS = {"accept": "application/json", "content-type": "application/json", "X-API-Key": API_KEY}
+
+def post_workflow():
+    url = f"{APP_URL}/workflow/on-submit-document"
+    payload = {
+        "classifyStandardizeStep": {
+            "classToSchema": {CLASS_ID: SCHEMA_ID},
+        }
+    }
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    return response.json()["workflowId"]
+
+workflow_id = post_workflow()
+print(f"Workflow ID: {workflow_id}")
+Replace "YOUR_API_KEY" with your actual API key, "YOUR_CLASS_ID" with the ID of the class you want to classify documents into, and "YOUR_SCHEMA_ID" with the ID of the schema you want to use for standardization.
+
+Step 2: Upload a Document
+Next, we'll upload a document and apply the workflow we just created.
+
+Python
+
+import base64
+
+DOC_PATH = "/path/to/your/doc.pdf"
+DATASET_NAME = "YOUR_DATASET_NAME"
+
+def post_doc(file_dict, workflow_id):
+    url = f"{APP_URL}/document"
+    payload = {
+        "document": {
+            "file": file_dict,
+        },
+        "dataset": DATASET_NAME,
+        "workflowId": workflow_id
+    }
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    res_json = response.json()
+    return {
+        "upload_job_id": res_json["jobId"],
+        "cls_job_id": res_json["workflowResponse"]["classifyStandardizeStep"]["classificationJobId"],
+        "std_id": res_json["workflowResponse"]["classifyStandardizeStep"]["classToStandardizationIds"][CLASS_ID],
+        "std_job_id": res_json["workflowResponse"]["classifyStandardizeStep"]["classToStandardizationJobIds"][CLASS_ID]
+    }
+
+file_dict = {
+    "contents": base64.b64encode(open(DOC_PATH, 'rb').read()).decode(),
+    "filename": DOC_PATH.split("/")[-1]
+}
+response = post_doc(file_dict=file_dict, workflow_id=workflow_id)
+print(f"Upload Job ID: {response['upload_job_id']}")
+print(f"Classification Job ID: {response['cls_job_id']}")
+print(f"Standardization ID: {response['std_id']}")
+print(f"Standardization Job ID: {response['std_job_id']}")
+Replace "/path/to/your/doc.pdf" with the actual path to your document and "YOUR_DATASET_NAME" with the name of the dataset you want to assign to your document.
+
+Step 3: Check Job Status
+DocuPanda processes documents asynchronously. We can check the status of jobs using their IDs.
+
+Python
+
+import time
+
+def is_job_done(job_id):
+    url = f"{APP_URL}/job/{job_id}"
+    for _ in range(20):
+        response = requests.get(url, headers=HEADERS)
+        assert response.status_code == 200
+        status = response.json()["status"]
+        if status == "completed":
+            return True
+        elif status == "error":
+            return False
+        time.sleep(2)
+    return False
+
+def cls_job_outcome(cls_job_id):
+    url = f"{APP_URL}/classify/{cls_job_id}"
+    for _ in range(20):
+        response = requests.get(url, headers=HEADERS)
+        assert response.status_code == 200
+        res_json = response.json()
+        status = res_json["status"]
+        if status == "completed":
+            return {
+                "done": True,
+                "assigned_desired_class": CLASS_ID in res_json["assignedClassIds"]
+            }
+        time.sleep(2)
+    return {"done": False, "assigned_desired_class": False}
+
+upload_done = is_job_done(response["upload_job_id"])
+cls_result = cls_job_outcome(response["cls_job_id"])
+std_done = is_job_done(response["std_job_id"])
+
+print(f"Upload completed: {upload_done}")
+print(f"Classification completed: {cls_result['done']}")
+print(f"Assigned desired class: {cls_result['assigned_desired_class']}")
+print(f"Standardization completed: {std_done}")
+Step 4: Retrieve Standardization Results
+Once the jobs are complete and the document is classified into the desired class, we can retrieve the standardization results.
+
+Python
+
+def get_std(std_id):
+    url = f"{APP_URL}/standardization/{std_id}"
+    response = requests.get(url, headers=HEADERS)
+    assert response.status_code == 200
+    return response.json()["data"]
+
+if upload_done and cls_result["done"] and cls_result["assigned_desired_class"] and std_done:
+    std_result = get_std(response["std_id"])
+    print("Standardization Result:")
+    print(std_result)
+else:
+    print("Document was not classified as the desired class or jobs did not complete successfully")
+Complete Example
+Here's a complete example that puts all these steps together:
+
+Python
+
+import time
+import base64
+import requests
+
+API_KEY = "YOUR_API_KEY"
+APP_URL = "https://app.docupipe.ai"
+DOC_PATH = "/path/to/your/doc.pdf"
+DATASET_NAME = "YOUR_DATASET_NAME"
+CLASS_ID = "YOUR_CLASS_ID"
+SCHEMA_ID = "YOUR_SCHEMA_ID"
+HEADERS = {"accept": "application/json", "content-type": "application/json", "X-API-Key": API_KEY}
+
+def post_workflow():
+    url = f"{APP_URL}/workflow/on-submit-document"
+    payload = {
+        "classifyStandardizeStep": {
+            "classToSchema": {CLASS_ID: SCHEMA_ID},
+        }
+    }
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    return response.json()["workflowId"]
+
+def post_doc(file_dict, workflow_id):
+    url = f"{APP_URL}/document"
+    payload = {
+        "document": {"file": file_dict},
+        "dataset": DATASET_NAME,
+        "workflowId": workflow_id
+    }
+    response = requests.post(url, json=payload, headers=HEADERS)
+    assert response.status_code == 200
+    res_json = response.json()
+    return {
+        "upload_job_id": res_json["jobId"],
+        "cls_job_id": res_json["workflowResponse"]["classifyStandardizeStep"]["classificationJobId"],
+        "std_id": res_json["workflowResponse"]["classifyStandardizeStep"]["classToStandardizationIds"][CLASS_ID],
+        "std_job_id": res_json["workflowResponse"]["classifyStandardizeStep"]["classToStandardizationJobIds"][CLASS_ID]
+    }
+
+def is_job_done(job_id):
+    url = f"{APP_URL}/job/{job_id}"
+    for _ in range(20):
+        response = requests.get(url, headers=HEADERS)
+        assert response.status_code == 200
+        status = response.json()["status"]
+        if status == "completed":
+            return True
+        elif status == "error":
+            return False
+        time.sleep(2)
+    return False
+
+def cls_job_outcome(cls_job_id):
+    url = f"{APP_URL}/classify/{cls_job_id}"
+    for _ in range(20):
+        response = requests.get(url, headers=HEADERS)
+        assert response.status_code == 200
+        res_json = response.json()
+        status = res_json["status"]
+        if status == "completed":
+            return {
+                "done": True,
+                "assigned_desired_class": CLASS_ID in res_json["assignedClassIds"]
+            }
+        time.sleep(2)
+    return {"done": False, "assigned_desired_class": False}
+
+def get_std(std_id):
+    url = f"{APP_URL}/standardization/{std_id}"
+    response = requests.get(url, headers=HEADERS)
+    assert response.status_code == 200
+    return response.json()["data"]
+
+def main():
+    workflow_id = post_workflow()
+    print(f"Workflow ID: {workflow_id}")
+
+    file_dict = {
+        "contents": base64.b64encode(open(DOC_PATH, 'rb').read()).decode(),
+        "filename": DOC_PATH.split("/")[-1]
+    }
+    response = post_doc(file_dict=file_dict, workflow_id=workflow_id)
+    print(f"Upload Job ID: {response['upload_job_id']}")
+    print(f"Classification Job ID: {response['cls_job_id']}")
+    print(f"Standardization ID: {response['std_id']}")
+    print(f"Standardization Job ID: {response['std_job_id']}")
+
+    upload_done = is_job_done(response["upload_job_id"])
+    cls_result = cls_job_outcome(response["cls_job_id"])
+    std_done = is_job_done(response["std_job_id"])
+
+    print(f"Upload completed: {upload_done}")
+    print(f"Classification completed: {cls_result['done']}")
+    print(f"Assigned desired class: {cls_result['assigned_desired_class']}")
+    print(f"Standardization completed: {std_done}")
+
+    if upload_done and cls_result["done"] and cls_result["assigned_desired_class"] and std_done:
+        std_result = get_std(response["std_id"])
+        print("Standardization Result:")
+        print(std_result)
+    else:
+        print("Document was not classified as the desired class or jobs did not complete successfully")
+
+if __name__ == '__main__':
+    main()
+Remember to replace "YOUR_API_KEY", "/path/to/your/doc.pdf", "YOUR_DATASET_NAME", "YOUR_CLASS_ID", and "YOUR_SCHEMA_ID" with your actual values.
+
+This example demonstrates how to use DocuPanda's workflow feature to classify and standardize documents. It covers creating a workflow, uploading a document, checking job status, and retrieving classification and standardization results. You can customize this process further by modifying the workflow definition or adding error handling as needed for your specific use case.
+
+
+
+
+Consider and understand everything exactly as I told!
+check few pdfs on your own too!
+
+we can make small model first or try saving outputs few of them and we will check how is it working first like try extracting few and check how is it going and all!
+than if it is going good than we extract more and also 
+whichever output is successfully recieved we will save it as checkpoint with all its details so we will know which is successful and the data we were able to retrieve and all!
+Just make me AI training thing properly!
+
+
+
+also below are some other schema examples!
+AutoGenerate a Schema
+post
+https://app.docupipe.ai/schema/autogenerate
+Generate a schema based on a list of documents. Leave the instructions empty if you want the AI to use its best judgment, or provide instructions to indicate your preference to how the schema should be generated. Best results are achieved when you provide a varied list of documents that represent the full range of type of documents you expect to process, and when you provide clear instructions to what you expect the schema to capture and how you want it to be structured.
+
+Body Params
+schemaName
+string
+Name of the schema to be defined. For example rental contracts
+
+documentIds
+array of strings
+List of document IDs to use for schema generation.
+
+
+ADD string
+dataset
+string
+The dataset to which the documents belong.
+
+instructions
+string
+Instructions on how to create the schema.
+
+guidelines
+string
+Guidelines to apply to the schema to documents when standardizing.
+
+standardizeUsingSchema
+boolean
+Defaults to true
+Whether to standardize the input documents using the newly created schema after generation.Note that standardizing documents costs credits just as if you had called the /standardize endpoint directly
+
+
+true
+standardizationMode
+string
+Advanced Feature Mode of standardization to run, if standardizing using the schema.
+
+
+Responses
+
+200
+Successful Response
+
+Response body
+object
+jobId
+string
+required
+Unique identifier for the autogenerate schema job.
+
+status
+string
+required
+Current status of the job.
+
+processing completed error
+
+schemaId
+string
+required
+Unique identifier for the schema being generated. The schema is only available when the job is completed.
+
+schemaName
+string
+Name of the schema being generated.
+
+standardizationIds
+array of strings
+List of standardization IDs for the documents used to generate the schema. These will only become available after schema generation is complete, and only if standardizeUsingSchema is set to true.
+
+standardizationJobIds
+array of strings
+List of standardization job IDs for the documents used to generate the schema. These will only become available after schema generation is complete, and only if standardizeUsingSchema is set to true.
+
+
+400
+Bad Request
+
+
+402
+Payment Required
+
+
+422
+Validation Error
+
+Updated about 18 hours ago
+
+Get Document Count
+Refine a Schema
+Did this page help you?
+Language
+
+Shell
+
+Node
+
+Ruby
+
+PHP
+
+Python
+Credentials
+Header
+X-API-Key
+
+1
+curl --request POST \
+2
+     --url https://app.docupipe.ai/schema/autogenerate \
+3
+     --header 'accept: application/json' \
+4
+     --header 'content-type: application/json' \
+5
+     --data '
+6
+{
+7
+  "standardizeUsingSchema": true
+8
+}
+9
+'
+
+Try It!
+RESPONSE
+1
+{
+2
+  "jobId": "string",
+3
+  "status": "processing",
+4
+  "schemaId": "string",
+5
+  "schemaName": "string",
+6
+  "standardizationIds": [
+7
+    "string"
+8
+  ],
+9
+  "standardizationJobIds": [
+10
+    "string"
+11
+  ]
+12
+}
+
+
+
+Refine a Schema
+post
+https://app.docupipe.ai/schema/refine
+Refine a schema by providing feedback in free text to edit the structured output.
+
+Body Params
+schemaId
+string
+required
+Unique identifier of the schema that was used with the document to make the standardization.
+
+feedback
+string
+required
+Feedback string to alter the schema.
+
+documentId
+string
+Unique identifier of the document to use for schema refinement.
+
+Responses
+
+200
+Successful Response
+
+Response body
+object
+schemaId
+string
+required
+Unique identifier of the schema.
+
+schemaName
+string
+Name of the schema.
+
+jsonSchema
+object
+The JSON schema that defines the structure of the data.
+
+Has additional fields
+guidelines
+string
+Guidelines for the schema.
+
+jobId
+string
+Unique identifier of the job that last modified the schema.
+
+timestamp
+string
+Timestamp of the schema creation.
+
+
+400
+Bad Request
+
+
+402
+Payment Required
+
+
+422
+Unprocessable Entity
+
+
+500
+Internal Server Error
+
+
+
+
+
+Retrieve a Schema
+get
+https://app.docupipe.ai/schema/{schema_id}
+Retrieve an existing schema by providing the schema's ID.
+
+Path Params
+schema_id
+string
+required
+Responses
+
+200
+Successful Response
+
+Response body
+object
+schemaId
+string
+required
+Unique identifier of the schema.
+
+schemaName
+string
+Name of the schema.
+
+jsonSchema
+object
+The JSON schema that defines the structure of the data.
+
+Has additional fields
+guidelines
+string
+Guidelines for the schema.
+
+jobId
+string
+Unique identifier of the job that last modified the schema.
+
+timestamp
+string
+Timestamp of the schema creation.
+
+
+422
+Validation Error
+
+Updated about 18 hours ago
+
+Refine a Schema
+Update a Schema
+Did this page help you?
+Language
+
+Shell
+
+Node
+
+Ruby
+
+PHP
+
+Python
+Credentials
+Header
+X-API-Key
+
+1
+curl --request GET \
+2
+     --url https://app.docupipe.ai/schema/schema_id \
+3
+     --header 'accept: application/json'
+
+Try It!
+RESPONSE
+1
+{
+2
+  "schemaId": "string",
+3
+  "schemaName": "string",
+4
+  "jsonSchema": {},
+5
+  "guidelines": "string",
+6
+  "jobId": "string",
+7
+  "timestamp": "string"
+8
+}
+
+
+
+
+Update a Schema
+post
+https://app.docupipe.ai/schema/update
+Update an existing schema by posting a valid JSON schema. This does not overwrite, but creates a new schema.
+
+Body Params
+schemaId
+string
+required
+Unique identifier of the schema which we are updating.
+
+schemaName
+string
+required
+Name of the new schema.
+
+jsonSchema
+object
+The new JSON schema to update. Must be a valid JSON schema (https://json-schema.org/). If not provided, the existing JSON schema will be used.
+
+
+JSON Schema object
+Responses
+
+200
+Successful Response
+
+Response body
+object
+success
+boolean
+required
+Whether the schema was successfully added.
+
+schemaId
+string
+required
+Unique identifier of the new schema.
+
+jobId
+string
+required
+Unique identifier of the job that made the schema.
+
+timestamp
+string
+required
+Timestamp of the creation of the schema.
+
+
+402
+Payment Required
+
+
+404
+Not Found
+
+
+422
+Unprocessable Entity
+
+Updated about 18 hours ago
+
+Retrieve a Schema
+Edit a Schema
+Did this page help you?
+Language
+
+Shell
+
+Node
+
+Ruby
+
+PHP
+
+Python
+Credentials
+Header
+X-API-Key
+
+1
+curl --request POST \
+2
+     --url https://app.docupipe.ai/schema/update \
+3
+     --header 'accept: application/json' \
+4
+     --header 'content-type: application/json'
+
+Try It!
+RESPONSE
+1
+{
+2
+  "success": true,
+3
+  "schemaId": "string",
+4
+  "jobId": "string",
+5
+  "timestamp": "string"
+6
+}
+
+
+
+
+Edit a Schema
+post
+https://app.docupipe.ai/schema/edit
+Edit a schema by providing a schema ID and the parameters you want to edit. This does not create a new schema, but rather updates the existing schema. Changing the schema name is purely cosmetic, but changing the description and guidelines will affect the behavior of the schema for future standardizations. The things you can edit are:
+
+schemaName - The name of the schema
+description - The description of the schema
+guidelines - The guidelines for the schema
+Body Params
+schemaId
+string
+required
+Unique identifier of the schema which we are editing.
+
+schemaName
+string
+New name to assign to the schema.
+
+description
+string
+New description to assign to the schema.
+
+guidelines
+string
+New guidelines to assign to the schema.
+
+Responses
+
+200
+Successful Response
+
+Response body
+object
+success
+boolean
+required
+Whether the schema was successfully edited.
+
+
+402
+Payment Required
+
+
+404
+Not Found
+
+
+422
+Unprocessable Entity
+
+Updated about 18 hours ago
+
+Update a Schema
+Retrieve AutoGenerate Schema Job
+Did this page help you?
+Language
+
+Shell
+
+Node
+
+Ruby
+
+PHP
+
+Python
+Credentials
+Header
+X-API-Key
+
+1
+curl --request POST \
+2
+     --url https://app.docupipe.ai/schema/edit \
+3
+     --header 'accept: application/json' \
+4
+     --header 'content-type: application/json'
+
+Try It!
+RESPONSE
+1
+{
+2
+  "success": true
+3
+}
+
+
+
+
+Retrieve AutoGenerate Schema Job
+get
+https://app.docupipe.ai/schema/autogenerate/{job_id}
+Retrieve the status of an autogenerate schema job.
+
+Path Params
+job_id
+string
+required
+Responses
+
+200
+Successful Response
+
+Response body
+object
+jobId
+string
+required
+Unique identifier for the autogenerate schema job.
+
+status
+string
+required
+Current status of the job.
+
+processing completed error
+
+schemaId
+string
+Unique identifier for the generated schema. Only available when the job is completed.
+
+standardizationIds
+array of strings
+List of standardization IDs for the documents used to generate the schema. These will only become available after schema generation is complete, and only if standardizeUsingSchema is set to true.
+
+errorMessage
+string
+Error message if the job failed.
+
+
+404
+Not Found
+
+
+422
+Validation Error
+
+Updated about 18 hours ago
+
+Edit a Schema
+Delete a Schema
+Did this page help you?
+Language
+
+Shell
+
+Node
+
+Ruby
+
+PHP
+
+Python
+Credentials
+Header
+X-API-Key
+
+Request
+python -m pip install requests
+1
+import requests
+2
+​
+3
+url = "https://app.docupipe.ai/schema/autogenerate/job_id"
+4
+​
+5
+headers = {"accept": "application/json"}
+6
+​
+7
+response = requests.get(url, headers=headers)
+8
+​
+9
+print(response.text)
+
+Try It!
+RESPONSE
+1
+{
+2
+  "jobId": "string",
+3
+  "status": "processing",
+4
+  "schemaId": "string",
+5
+  "standardizationIds": [
+6
+    "string"
+7
+  ],
+8
+  "errorMessage": "string"
+9
+}
+
+
+
+
+This all info is just for reference and so you know all !
+

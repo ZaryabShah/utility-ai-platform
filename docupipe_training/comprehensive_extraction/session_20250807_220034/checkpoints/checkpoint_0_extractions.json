@@ -1,0 +1,29 @@
+{
+  "checkpoint_timestamp": "2025-08-07T22:00:34.789375",
+  "session_log": {
+    "session_id": "20250807_220034",
+    "start_time": "2025-08-07T22:00:34.588468",
+    "api_key_used": "EahPwLps...W7f2",
+    "total_pdfs_found": 4545,
+    "total_pdfs_processed": 0,
+    "utility_documents_found": 0,
+    "successful_extractions": 0,
+    "failed_extractions": 0,
+    "skipped_non_utility": 0,
+    "processing_errors": 0,
+    "total_utility_records": 0,
+    "ai_extraction_records": 0,
+    "pattern_extraction_records": 0,
+    "quality_validated_records": 0,
+    "documents_processed": [],
+    "error_log": [],
+    "quality_issues": []
+  },
+  "current_results": [],
+  "processing_statistics": {
+    "message": "No results to analyze"
+  },
+  "data_quality_summary": {
+    "message": "No data to assess"
+  }
+}
